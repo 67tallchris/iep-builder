@@ -3,7 +3,7 @@
 A free, MIT-licensed drafting tool for **Arizona K–8 mild/moderate special education IEPs**,
 running entirely on **Cloudflare** (Pages + Functions + D1).
 
-**🔗 Live: https://iep-builder.pages.dev**
+**🔗 Live: https://iep-builder.pages.dev · Repo: https://github.com/67tallchris/iep-builder** (MIT)
 Built from the Phase 1 research packet in [`research/`](research/README.md).
 Spec: [`docs/spec.md`](docs/spec.md).
 

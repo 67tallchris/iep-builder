@@ -10,7 +10,7 @@
     "build": "npm run data && vite build",
     "preview": "vite preview",
     "pages:dev": "npm run build && wrangler pages dev dist --persist-to .wrangler/state",
-    "deploy": "npm run build && wrangler pages deploy dist --project-name iep-builder",
+    "deploy": "npm run build && wrangler pages deploy dist --project-name iep-builder --branch main",
     "test": "node tests/engine.test.mjs"
   },
   "dependencies": {
