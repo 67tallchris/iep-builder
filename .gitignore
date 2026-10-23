@@ -3,4 +3,6 @@ dist/
 .env
 .dev.vars
 .wrangler/
+public/data/
+seed.sql
 *.tmp

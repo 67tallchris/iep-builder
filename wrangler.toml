@@ -1,0 +1,8 @@
+name = "iep-builder"
+compatibility_date = "2026-10-01"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "iep-builder-db"
+database_id = "4c02d2c9-2169-4afa-b4f1-f615143d65e8"

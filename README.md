@@ -1,52 +1,75 @@
 # IEP Builder
 
 A free, MIT-licensed drafting tool for **Arizona K–8 mild/moderate special education IEPs**,
-built to run entirely on **Cloudflare** (Pages + Workers/Functions + D1 + R2 + KV + Vectorize).
+running entirely on **Cloudflare** (Pages + Functions + D1).
 
-**Status: Phase 1 — Research complete, awaiting owner review (Phase 2 gate).**
-No application code exists yet. The research packet is in [`research/`](research/README.md).
+**🔗 Live: https://iep-builder.pages.dev**
+Built from the Phase 1 research packet in [`research/`](research/README.md).
+Spec: [`docs/spec.md`](docs/spec.md).
 
-## What this will do
+> **No real student data.** Every page shows a persistent no-PII banner. Use fictional labels
+> only. Drafts are aids for the IEP team, not legal advice.
 
-- Build IEP drafts from a structured wizard: student profile → eligibility → PLAAFP → goals →
-  services → accommodations → review → export.
-- Pull from a vetted snippet library (PLAAFP stems, goal frames, accommodations, behavior
-  supports) and 30 exemplar profiles for SLD, ED, OHI/ADHD, autism, SLI, and mild ID.
-- Check drafts against Arizona compliance items (AZ-TAS 2025 components, SMART goal rubric,
-  SDI/dyslexia documentation, ESY deadlines, service dimensions, special factors).
-- Export to **`.docx`** for one-click Google Docs import; optional Drive API later.
-- Offer **BYOK AI assist** (Anthropic / OpenAI / OpenCode key), proxied through a Worker —
-  keys are never shipped to other visitors.
+## What it does
 
-## What it will never do
-
-- Store real student names or identifying information. Every page shows a **no-PII banner**.
-- Replace the IEP team's judgment or district-approved systems. Drafts are aids, not legal advice.
-- Auto-finalize AI language. All generated text is labeled as a draft for team review.
+- **7-section wizard:** profile → PLAAFP → goals → services → supports/special factors →
+  behavior support plan → LRE/assessment/ESY/review.
+- **30 exemplar profiles** (SLD, ED, OHI/ADHD, autism, SLI, mild ID, 2e, plus 504/MTSS/CICO
+  edge cases) — load one as a starting point. Served from D1 with static fallback.
+- **382-snippet library** — add accommodations, supplementary aids, modifications, personnel
+  supports, service types, goal frames, and BSP blocks straight into the draft.
+- **Compliance checker** — Arizona rules (AZ-TAS 2025, A.R.S. §15-763 dyslexia field, SMART goal
+  structure, five service dimensions, LRE/assessment/ESY, behavior plan completeness, transition
+  triggers) with must-fix / review lists that link to the field.
+- **`.docx` export** that opens natively in Google Docs, plus JSON export/import.
+- **Cloud save + read-only share links** (D1, token-protected edits, unlisted ids).
+- **BYOK AI assist** — Anthropic / OpenAI / OpenAI-compatible endpoints via a Worker proxy;
+  keys stay in the browser and are never stored or logged server-side.
 
 ## Repository layout
 
 ```
-research/
-  README.md              Phase 1 packet overview + review checklist
-  sources.md             Annotated bibliography
-  az-process-guide.md    Arizona process, timelines, team rules
-  iep-components.md      Component writing/quality guide + compliance checklist
-  behavior-guide.md      FBA, BSP/BIP, crisis planning, A.R.S. §15-105
-  exemplars/             30 synthetic K–8 exemplar profiles (JSON) + index.json
-  boilerplate/           snippets.json — starter snippet library
-  sources/               Downloaded public corpus (ADE, states, PBIS)
-  scripts/build_index.py Regenerates index.json and snippets.json
+src/                 Svelte 4 + Vite app (components, lib/compliance.js, lib/docx.js, lib/ai.js)
+functions/           Cloudflare Pages Functions: /api/examples, /api/snippets, /api/drafts,
+                     /api/ai/draft
+schema.sql           D1 schema (examples, snippets, drafts)
+scripts/             prepare_data.py (research → public/data + seed.sql), seed_d1.sh
+research/            Phase 1 corpus: process guides, behavior guide, 30 exemplars, snippets
+tests/               Node smoke tests for the compliance engine and .docx builder
+docs/spec.md         Product spec + architecture + data model
 ```
 
-## Local research tooling
+## Local development
 
 ```bash
-python3 research/scripts/build_index.py
+npm install
+npm run data                     # research JSON → public/data + seed.sql
+./scripts/seed_d1.sh local       # apply schema + seed to local D1
+npm run build
+npx wrangler pages dev dist --persist-to .wrangler/state
+# → http://127.0.0.1:8789
+npm test                         # compliance + docx smoke tests
 ```
 
-Regenerates `research/exemplars/index.json` and `research/boilerplate/snippets.json` from the
-exemplar files.
+## Deploy
+
+```bash
+./scripts/seed_d1.sh remote
+npm run deploy                   # build + wrangler pages deploy dist --project-name iep-builder
+```
+
+The Pages project `iep-builder` is bound to the D1 database `iep-builder-db` via `wrangler.toml`.
+The production branch is `main`; deploy with `--branch main` to publish to
+`https://iep-builder.pages.dev`.
+
+### Optional: server-side AI key
+
+BYOK works with no server secrets. To allow server-side fallback for your own deployment:
+
+```bash
+npx wrangler pages secret put ANTHROPIC_API_KEY --project-name iep-builder
+npx wrangler pages secret put OPENAI_API_KEY --project-name iep-builder
+```
 
 ## License
 

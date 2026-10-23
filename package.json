@@ -1,0 +1,25 @@
+{
+  "name": "iep-builder",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Free, MIT-licensed Arizona K-8 IEP drafting tool on Cloudflare",
+  "scripts": {
+    "data": "python3 scripts/prepare_data.py",
+    "dev": "npm run data && vite",
+    "build": "npm run data && vite build",
+    "preview": "vite preview",
+    "pages:dev": "npm run build && wrangler pages dev dist --persist-to .wrangler/state",
+    "deploy": "npm run build && wrangler pages deploy dist --project-name iep-builder",
+    "test": "node tests/engine.test.mjs"
+  },
+  "dependencies": {
+    "docx": "^8.5.0"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^3.1.2",
+    "svelte": "^4.2.19",
+    "vite": "^5.4.11",
+    "wrangler": "^4.152.0"
+  }
+}
