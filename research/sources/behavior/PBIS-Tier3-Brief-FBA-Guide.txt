@@ -1,0 +1,709 @@
+                                                                 JANUARY 2022
+
+
+
+
+                                      TIER 3 BRIEF
+                                      FUNCTIONAL BEHAVIOR
+                                      ASSESSMENT (FBA)
+                                      GUIDE
+                                      CENTER ON PBIS
+
+
+
+
+Positive Behavioral Interventions & Supports (PBIS)
+                                                       January 2022        1
+                                                                                                                         JANUARY 2022
+
+
+
+
+Tier 3 Brief Functional Behavior
+Assessment (FBA) Guide
+Center on Positive Behavioral Interventions and Supports
+U. S. Department of Education, Office of Special Education Programs
+and Office of Elementary and Secondary Education
+
+January 2022
+
+www.pbis.org
+
+
+
+
+   This document was supported from funds provided by the Center on Positive Behavioral Interventions and Supports cooperative
+   grant supported by the Office of Special Education Programs (OSEP) and Office of Elementary and Secondary Education (OESE)
+   of the U.S. Department of Education (H326S180001). Dr. Renee Bradley serves as the project officer. The views expressed herein
+   do not necessarily represent the positions or policies of the U.S. Department of Education. No official endorsement by the U.S.
+   Department of Education of any product, commodity, or enterprise mentioned in this document is intended or should be inferred.
+
+   Kathleen Strickland-Cohen and Chris Borgmeier led the development of this guide.
+
+   Suggested Citation for this Publication
+   Center on PBIS. (2022). Tier 3 Brief Functional Behavior Assessment (FBA) Guide. Center on PBIS, University of Oregon. www.pbis.org.
+
+
+
+
+Positive Behavioral Interventions & Supports (PBIS)                                                                                       22
+                                                                                                                                                            JANUARY 2022
+
+
+
+Table of Contents
+Introduction .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+Brief Versus Comprehensive FBA/BSP  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  5
+      Comprehensive FBA/BSP  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+      Brief FBA/BSP .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6
+             Brief FBA/BSP Individual Student Teams .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8
+             Regularly Evaluating Student Outcomes .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8
+      Brief FBA/BSP Tools and Resources  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+Building District and School Capacity for Brief FBA/BSP  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+      Brief FBA/BSP Professional Development and Training .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+             Training Brief FBA/BSP Team Leaders .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  10
+             Training all School Staff in Function-Based Thinking  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10
+             Training Tools and Resources  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  11
+      A Brief FBA/BSP Coaching Model  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11
+             Coaching Support for Brief FBA/BSP Team Leaders .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  11
+             Coaching Support for Individual Student Teams .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  12
+             Coaching Support for Plan Implementers  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 12
+             Coaching Tools and Resources  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  12
+      Evaluating Tier 3 Systems  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  12
+             Systems-Level Teaming Resources .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  14
+References  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15
+Embedded Hyperlinks  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 16
+
+
+
+
+Positive Behavioral Interventions & Supports (PBIS)                                                                                                                               3
+                                                                                                        JANUARY 2022
+
+
+
+Introduction
+Function based interventions are designed to                The positive effects of function-based interventions
+change behavior by addressing the specific purpose          based on FBA data have been well documented for
+or “function” the behavior serves. Within schools           over 20 years for students with Tier 3 needs. However,
+implementing PBIS, staff are encouraged to use a            districts and schools continue to struggle to implement
+function-based approach to preventing and addressing        effective individualized interventions within typical
+challenging behavior across all tiers of support. At Tier   school systems (Robertson et al., 2020). One barrier
+1 function-based thinking can be used to anticipate         to effective Tier 3 implementation that schools face is
+common challenges and select classwide behavior             the misperception that functional behavior assessment
+support strategies that take student motivation             (FBA) is only for students with IEPs or is a “last resort”
+into account. At Tier 2 function-based problem              to be used by district-level behavior specialists or
+solving can be used to enhance the effectiveness            outside experts to create comprehensive, time-
+of targeted supports for students who struggle to           intensive behavior support plans (BSPs) only when
+meet schoolwide expectations. For students with             problem behavior has begun to significantly impact
+more persistent and intensive challenges, function-         educational success (Borgmeier, Loman, & Strickland-
+based Tier 3 interventions are based on a formal            Cohen, 2017). For students who demonstrate less
+Functional Behavioral Assessment (FBA) process              severe challenging behavior or who do not require
+used to: (a) define and prioritize challenging behavior,    special education services, valuable time and resources
+(b) understand aspects of the environment that              are often underutilized by implementing less effective
+occasion and maintain the behavior, and (c) create an       interventions that do not address the function of the
+individualized multi-component behavior support plan        problem behavior. If individualized supports based
+(BSP) designed to address the function of student           on a FBA are only used as a response to the most
+behavior. The focus of this guide will be on providing      intensive challenging behavior, schools: a) perpetuate
+function-based support at Tier 3.                           the perception of FBA/BSP as a labor-intensive set of
+                                                            procedures that are infeasible for use by typical school
+The purpose of this guide is to describe how school-
+                                                            personnel, and b) lose the opportunity to use function-
+based personnel can build and implement a continuum
+                                                            based interventions earlier within a continuum of MTSS
+of function-based supports at Tier 3 that are designed
+                                                            to address less severe persistent challenging behaviors
+to more effectively meet the needs of a broader range
+                                                            and prevent them from developing into more serious
+of students who struggle with persistent challenging
+                                                            problems (Strickland-Cohen, Loman, & Horner, 2015).
+behavior. This guide is intended to be a resource for
+individuals and teams with a working knowledge of
+Tier 3 who regularly design and implement supports
+for students with intensive needs.
+
+
+Positive Behavioral Interventions & Supports (PBIS)                                                                      4
+                                                                                                       JANUARY 2022
+
+
+
+Brief Versus Comprehensive FBA/BSP
+Within a multi-tiered approach, students with               who require individualized behavior support, while
+persistent challenging behavior (i.e., behavior that has    maximizing the efficient use of valuable time and
+not been sufficiently addressed by intervention at          resources, is by developing and providing a continuum
+Tiers 1 and 2) should receive behavior support that         of Tier 3 supports and defining FBA/BSP as a process
+is designed to directly address the function of their       that can vary in complexity based on student need.
+behavior. At Tier 3, information about the student, their
+                                                            Comprehensive FBA/BSP
+behavior, and the learning context is gathered through
+the FBA process to better understand what purpose           For the most intensive student behaviors (such as
+
+the challenging behavior serves for the student and         aggression or self-injury), the comprehensive FBA
+
+to design an individualized Behavior Support Plan or        process is likely to include
+
+BSP (sometimes referred to as a Behavior Intervention       1. an initial extensive review of student records,
+Plan/BIP or Behavior Education Plan/BEP).                      multiple interviews (e.g., teachers, staff, student,
+                                                               parents) and direct observations;
+At a minimum, BSPs should include behavior support
+                                                            2. ongoing data collection across various settings,
+strategies designed to:
+                                                               days, and times; and
+• Prevent challenging behavior by prompting desired
+                                                            3. when warranted in some cases, functional analysis
+    behavior and addressing antecedent events that
+                                                               (i.e., systematic manipulation of environmental
+    act as triggers for undesired behavior;
+                                                               triggers and consequences that follow challenging
+• Teach replacement skills to increase student                 behavior).
+    success and allow students to express their needs
+    without engaging in challenging behavior;               The goal of this comprehensive FBA process is to
+                                                            create a comprehensive individualized BSP (often as
+• Reinforce new replacement and desired skills and
+                                                            part of an Individualized Education Plan; IEP) that
+    minimize reinforcement following challenging
+    behavior.                                               1. includes antecedent, behavior, and consequence
+                                                               strategies;
+The core concepts of function, prevention, teaching,
+and reinforcement should remain the same across             2. identifies safety/crisis responses if the student
+                                                               engages in behaviors that present a serious and
+all Tier 3 behavior support planning; however, the
+                                                               imminent risk to self or others; and
+way function-based supports are designed and
+implemented can vary depending on the nature of             3. integrates mental health and wrap-around supports
+                                                               that can extend to home and community settings.
+the challenging behavior and the intensity of student
+need (Scott, Alter, & McQuillan, 2010). One way that        Comprehensive plan development should be led by
+district and schools can meet the needs of all students     an individual with extensive training and expertise in
+
+
+Positive Behavioral Interventions & Supports (PBIS)                                                                   5
+                                                                                                      JANUARY 2022
+
+
+
+addressing severe behavioral challenges and involve         • A direct observation of student behavior during the
+a team of: (a) staff members who work most closely              routine prioritized in the brief FBA and/or a review
+                                                                of existing student data (e.g., ODR data) to identify
+with the student, (b) the student, (c) members of the
+                                                                common behavior patterns and get a clear picture
+student’s family, (d) school and district support staff,
+                                                                of the behavior within typical school routines.
+and (e) any relevant community members. For more
+information on the comprehensive FBA/BSP process            Once the brief FBA/BSP team lead feels confident
+see these resources:                                        they have collected enough information to understand
+                                                            the purpose the challenging behavior serves for the
+• Tier 3 Student-level Systems Guide1
+                                                            student, they meet with the individual student team
+• Tier 3 Comprehensive Functional Behavior                  members (e.g., classroom teacher, family member)
+    Assessment (FBA) Guide2
+                                                            to collaboratively design the BSP. The brief BSP
+Brief FBA/BSP                                               specifies a replacement behavior that allows the
+                                                            student to communicate their needs without engaging
+Students who engage in persistent non-dangerous
+                                                            in challenging behavior, along with small number of
+challenging behavior (such as talk-outs, work
+                                                            individualized strategies designed to:
+avoidance, or out-of-seat behavior) have been shown
+to benefit from streamlined, less resource intensive        • Prevent challenging behavior by modifying triggering
+FBA and BSP processes (Loman & Horner, 2014;                    antecedents and prompting desired behavior,
+
+Strickland-Cohen & Horner, 2015). The goal of a             • Teach and reinforce replacement skills that allow
+streamlined or “brief” FBA is to prioritize 1 or 2 of the       the student to communicate their needs and
+most concerning student behaviors to be addressed               experience success, and
+
+and identify the school routine(s) (e.g., independent       • Redirect the student to use desired skills and
+seatwork, less structured times such as lunch or recess)        minimize reinforcement, or the “payoff” following
+in which the behavior is most likely to occur. After            challenging behavior.
+
+receiving parent/family member consent for evaluation       Table 1 provides an overview of the brief vs.
+FBA/BSP process includes:                                   comprehensive behavior support planning process (it is
+• A focused (30-45 min) guided interview with staff         important to note this is a continuum rather than two
+    who work most closely with the student using a          distinct processes).
+    form such as the Functional Assessment Checklist
+    for Teachers and Staff (FACTS)3
+
+
+
+
+Positive Behavioral Interventions & Supports (PBIS)                                                                 6
+                                                                                                                       JANUARY 2022
+
+
+Table 1. Brief vs. Comprehensive FBA/BSP Support Planning
+
+     Aspect                               Brief FBA/BSP                                      Comprehensive FBA/BSP
+
+ Behaviors           • A small number of high frequency behaviors that         • Chronic high-intensity or dangerous behaviors (e.g.,
+                       are NOT dangerous (e.g., talking out, out-of-seat         hitting, throwing objects, property destruction, self-
+                       behavior, work refusal), for which universal and/or       injurious behaviors)
+                       group-level targeted interventions have not been        • Behaviors that serve multiple functions (e.g., problem
+                       effective                                                 behaviors that are multiply controlled by both escape
+                     • Patterns of behavior that staff are able to easily        and social attention)
+                       identify using a simple interview format                • Behaviors that occur in 3 or more school routines or
+                     • Behaviors that occur in 1 to 2 school routines (e.g.,     across the entire school day
+                       specific classrooms/activities, lunch, recess)
+
+ FBA Process         • FBA interview (30-45 min) with staff most familiar      • FBA Interviews with multiple staff members, parents
+ and Data              with student                                              and student
+ Sources             • Observation of student/individual in prioritized        • Archival Records Review
+                       setting/routine and/or brief review of existing data    • Direct observations of multiple instances of student
+                                                                                 problem behavior across various school settings
+                                                                               • Additional data collection and assessments to
+                                                                                 understand student skill deficits and influences on
+                                                                                 behavior outside of the school context
+ BSP                 • Functionally equivalent replacement behavior that       • Functionally equivalent replacement behavior(s) (may
+ Intervention          allows the student to communicate their needs             require multiple replacement behaviors to address
+ Strategies          • Practical strategies to:                                  multiple functions of problem behavior across
+                                                                                 settings and routines)
+                       • prevent challenging behavior
+                                                                               • Multiple component plan including antecedent
+                       • teach and reinforce alternative skills, and             strategies to prevent challenging behavior, explicitly
+                       • minimize the pay-off for challenging behavior           teaching and reinforcing replacement behaviors
+                                                                                 (short-term goal), shaping toward desired behaviors
+                                                                                 (long-term goal), and changing responses to
+                                                                                 challenging behavior
+                                                                               • Crisis response planning (as appropriate)
+                                                                               • Person-centered planning and wraparound
+                                                                                 interventions that include family and community
+                                                                                 supports (as appropriate)
+ Suggested           • Completion of district trainings in brief FBA/BSP       • Graduate degree in fields such as behavior analysis,
+ skills/training       methods                                                   special education, or school psychology
+ to lead             • Ongoing on-site coaching support from personnel         • Training in FBA and experimental functional analysis
+ process               with extensive knowledge of and experience              • Training and experience in crisis response
+                       implementing Tier 3 behavior support                      management
+                                                                               • Experience implementing function-based
+                                                                                 interventions for students with severe challenging
+                                                                                 behavior
+                                                                               • Training and experience in facilitating person-
+                                                                                 centered planning and wraparound supports
+ Team                • School staff member(s) most familiar with the student   • School staff most familiar with priority student
+ Members               (e.g., classroom teacher)                               • The student
+                     • The student                                             • Relevant district and school support staff
+                     • Family member(s)                                        • Family member(s)
+                     • School-based professional trained in brief FBA/BSP      • Representatives from community agencies (e.g.,
+                       process                                                   mental health, social work)
+                                                                               • Behavioral expert trained to develop and implement
+                                                                                 intensive interventions for students with severe
+                                                                                 problem behaviors (e.g., school-psychologists,
+                                                                                 behavior specialist, behavior analyst)
+Adapted from Loman, Strickland-Cohen, Borgmeier, & Horner (2013)
+
+Positive Behavioral Interventions & Supports (PBIS)                                                                                       7
+                                                                                                       JANUARY 2022
+
+
+
+BRIEF FBA/BSP INDIVIDUAL STUDENT TEAMS                     to those strategies (“Does the plan work?”). A brief BSP
+                                                           evaluation plan should contain the following elements:
+When a student is referred for Tier 3 support, an
+individual student team is formed to design, facilitate    • Reasonable, measurable, and valued short- and
+implementation, and progress monitor a function-               long-term goals for student progress,
+based student BSP. For students with special education     • Procedures and timelines for collecting and
+services, this team should include members from                evaluating fidelity and student outcome data,
+and/or closely consult with the IEP team to ensure         • Procedures for summarizing data in an
+consistency in services provided. Within the brief FBA/        understandable way (e.g., graphs),
+BSP process the individual student team is often led
+                                                           • Decision rules to guide team-based decision
+by a school-based team lead (i.e., a school professional       making about plan fidelity and effectiveness,
+who has been trained in brief FBA/BSP), as opposed
+                                                           • A schedule for regular team meetings to
+to a district behavior specialist, and can be relatively
+                                                               evaluate data,
+small (e.g., team lead and classroom teacher). In
+addition to designing the function-based student BSP,      • A process for regularly sharing data with
+                                                               family members.
+the individual student team meets regularly (i.e., every
+other week initially) to:                                  To streamline and enhance the feasibility of the
+• Coordinate plan implementation and                       brief FBA/BSP process, we recommend modifying
+    coaching schedules                                     existing data collection tools that school staff are
+                                                           already familiar with to collect student data whenever
+• Create data collection protocols and
+    evaluation plans                                       possible. For example, behavior ratings scales used
+                                                           as part of Tier 2 interventions might be modified to
+• Monitor fidelity of plan implementation and
+                                                           collect data on more specific individualized goals. Plan
+    individual student outcome data
+                                                           implementers should be given checklists to regularly
+• Adapt the BSP to enhance effectiveness and               rate their implementation of BSP strategies. It is also
+    contextual fit for staff and the student
+                                                           recommended that the team lead/coach work with
+• Assist with transitioning to less intensive              implementers to arrange regular (e.g., weekly or bi-
+    interventions when appropriate                         weekly) observations of the BSP being implemented
+REGULARLY EVALUATING STUDENT OUTCOMES                      and to collect behavioral data (e.g., frequency and
+                                                           duration of challenging behavior) during the typical
+Regardless of the level of complexity, individualized
+                                                           school day, particularly during the first few weeks of
+BSPs must include a plan for evaluating the fidelity of
+                                                           plan implementation.
+implementation of the strategies in the plan (“Did we
+do what we said we would do?”) and student response
+
+
+
+Positive Behavioral Interventions & Supports (PBIS)                                                                   8
+                                                                                                          JANUARY 2022
+
+
+
+Brief FBA/BSP Tools and Resources                              Brief FBA/BSP Professional Development
+• Functional Assessment Checklist for Teachers and             and Training
+    Staff (FACTS) FBA Interview Tool    4
+
+                                                               To feasibly implement a continuum of brief to
+• Functional Assessment Student Interview Tool             5
+                                                               comprehensive function-based supports at Tier 3
+                                                               districts and schools can invest in a strong foundation
+• ABC Tracker6 (for classroom data collection by the
+    teacher)                                                   by training school-based personnel in brief FBA/BSP
+                                                               methods and procedures. The district should identify
+• Antecedent-Behavior-Consequence (ABC)
+                                                               a District Level Leadership Team for coordinating and
+    Observation Data Collection Form7
+                                                               evaluating Tier 3 systems. To maximize efficiency and
+• Behavior Intervention Plan Template Form8                    staff buy-in, district leadership teams should identify
+• Contextual Fit Questions to ask Team Members                 local personnel (i.e., an individual or small group of
+    Table Tent   9
+                                                               individuals who work at the district or regional level)
+• Implementation Plan Template10                               with expertise in designing and delivering comprehensive
+                                                               behavior supports who can act as trainers and coaches
+• Evaluation Plan Template11
+                                                               for school-based staff. Trainers should have expertise
+• Daily Student Point Card w/Fidelity Checks          12
+                                                               and experience in the following areas:
+• Behavior Support Plan Review Meeting Form13                  • Conducting FBAs for students with intense
+                                                                   behavioral challenges
+Building District and School
+Capacity for Brief FBA/BSP                                     • Designing and implementing comprehensive BSPs
+
+When schools use brief FBA/BSP procedures for                  • Leading inter-disciplinary teams in the development
+                                                                   of function-based support
+students with persistent, but less intense challenging
+behaviors, they improve their ability to individualize         • Implementing individualized supports in special and
+supports to match student needs. This provides                     general education settings
+
+an efficient next step in the continuum of support             • Coaching general and special education staff who
+when students are not responding to standard Tier 2                support students with Tier 3 needs
+interventions and can improve equitable student access         • Collecting and analyzing behavioral data for
+to effective interventions and, ultimately, decrease the           decision making
+number of cases for which more comprehensive and
+                                                               To create a sustainable model, district-level personnel
+resource intensive supports are necessary.
+                                                               with behavioral expertise and the responsibility for
+
+
+
+
+Positive Behavioral Interventions & Supports (PBIS)                                                                      9
+                                                                                                         JANUARY 2022
+
+
+
+consulting with school teams when students require           • Understanding behavioral theory
+comprehensive supports should have a portion (e.g.,
+                                                             • Conducting FBA (e.g., staff interviews,
+one quarter to one third) of their time allocated for            records reviews)
+training and supporting school personnel in brief FBA/
+                                                             • Collecting direct observation data in school
+BSP methods. Beyond providing initial staff trainings,
+                                                                 settings
+this time will allow for on-going coaching and quarterly
+                                                             • Identifying individualized interventions that are
+or bi-annual trainings as a way to: a) provide “boosters”
+                                                                 function-based and contextually appropriate
+for continuing school-based behavior specialists and
+b) buffer against the negative impact of staff turnover      • Leading a team in using assessment information to
+                                                                 design individualized behavior/academic supports
+(Strickland-Cohen, Loman, & Horner, 2015).
+                                                             • Implementing individualized BSPs
+TRAINING BRIEF FBA/BSP TEAM LEADERS
+
+                                                             • Training and coaching plan implementers
+District-level behavior support specialists can build
+school-based capacity at Tier 3 by ensuring that at          • Designing, collecting, and using fidelity and
+                                                                 outcome data for progress monitoring and to
+least 2-3 individuals per school are provided with
+                                                                 inform changes to BSP over time
+the training, tools, and resources, needed to conduct
+brief FBAs and to lead individual student teams in           TRAINING ALL SCHOOL STAFF IN
+                                                             FUNCTION-BASED THINKING
+designing streamlined BSPs. It is critical that school-
+based staff selected for this role have enough flexibility   It is not unusual for most, if not all, teachers to have
+and time allocated within their position to regularly        one or more students with individualized behavior
+conduct FBA interviews and classroom observations,           support needs in their classroom within any given
+facilitate student support team meetings, and support        school year. Once the BSP has been created, classroom
+plan implementers (Borgmeier, Strickland-Cohen,              staff are responsible for carrying out the strategies
+Loman, & Horner, 2019). Staff in this role are often         and supports included in that plan on a daily basis. At
+school counselors, school psychologists, school social       a minimum all educational staff in the school should
+workers, or special educators. It is not recommended         receive training to understand:
+that classroom teachers who oversee students for the
+                                                             • How Tier 3 systems and supports are integrated
+entire school day be selected for this role because they
+                                                                 within their school’s multi-tiered PBIS approach,
+do not have the role flexibility to regularly carry out
+                                                             • The process for nominating or referring a student
+related responsibilities.
+                                                                 who is having behavioral challenges for Tier 3
+School-based staff tasked with leading the FBA/BSP               supports, and
+process will require training and on-going coaching          • Their potential role as a member of an individual
+support related to:                                              student support team.
+
+
+Positive Behavioral Interventions & Supports (PBIS)                                                                     10
+                                                                                                      JANUARY 2022
+
+
+
+To facilitate the Tier 3 process and ensure that           of all necessary content, and b) provide staff with tools
+individualized BSPs are successfully implemented, it is    and strategies that are practical, user-friendly, and
+also strongly recommended that all school staff receive    do not require extensive training to implement. Visit
+professional development related to:                       Basic FBA to BIP14 website to find FREE evidence-based
+                                                           training resources on brief FBA/BSP methods including:
+• Understanding why challenging behavior occurs
+    (i.e., antecedents, consequences and function)         • Basic FBA to BIP District Planning &
+                                                               Implementation Guide15
+• Teaching replacement skills so students have
+    alternative ways to express their needs                • Basic FBA to BIP: Behavior Specialist Training16
+• Considering function when selecting preventive,          • Basic FBA to BIP: School-wide Training for all Staff17
+    teaching, and consequence strategies
+                                                           A Brief FBA/BSP Coaching Model
+• Monitoring BSP implementation and
+    student outcomes                                       Without continued follow-up coaching support
+                                                           professional development training is not likely to
+While it is not necessary for all educational staff to
+                                                           lead to the meaningful and long-term change in
+have the skills needed to independently conduct
+                                                           staff behavior that are necessary to produce positive
+FBA or build BSPs, ensuring all staff have a basic
+                                                           student outcomes (Kraft, Blazar, & Hogan, 2018). For
+understanding of behavioral function and what is
+                                                           this reason, it is necessary for districts and schools
+meant by a function-based approach to addressing
+                                                           supporting students with Tier 3 needs to design
+challenging behavior can help to:
+                                                           and implement a systematic plan for providing staff
+• Reduce the number of referrals for individualized        at multiple levels with on-going coaching support
+    supports received by school behavior support           following training.
+    teams,
+                                                           COACHING SUPPORT FOR BRIEF FBA/BSP
+• Facilitate the design and implementation of              TEAM LEADERS
+    individualized support BSPs, and
+                                                           Beyond initial training, it is recommended that school-
+• Create a school climate that is more likely to support
+    and maintain changes in individual student behavior    based team leads continue to receive direct coaching
+    that result from the implementation of function-       support from a district-level specialist on the first 3
+    based interventions (Sugai & Horner, 2008).            to 5 brief FBA/BSPs they lead to build fluency with
+
+TRAINING TOOLS AND RESOURCES                               the skills needed to lead the process independently.
+                                                           Additionally, school behavior specialists leading the
+Because school-based staff have limited time and           brief FBA/BSP process will need time built into their
+multiple responsibilities, it is critical that training    schedules to provide coaching support for individual
+materials for school-based behavior specialists and all    student team members and BSP implementers.
+school staff: a) allow for quick and thorough delivery
+
+Positive Behavioral Interventions & Supports (PBIS)                                                                  11
+                                                                                                    JANUARY 2022
+
+
+
+COACHING SUPPORT FOR INDIVIDUAL                           • Use each of the BSP strategies in typical school
+STUDENT TEAMS                                                contexts,
+
+Once a BSP has been created, Individual Student Team      • Collect and record direct-observation
+members are encouraged to meet regularly (i.e., every        behavioral data,
+two weeks initially, and at least monthly once the        • Problem-solve unanticipated barriers, and
+student is making acceptable progress) to review and
+                                                          • Adapt the plan as necessary in response to student
+monitor plan implementation and student outcomes.            need and contextual factors.
+Coaching support for student team members is
+focused on helping to effectively design, monitor, and    Coaching support at the individual/instructional level
+adapt Tier 3 support for individual students. Specific    should be tailored to the unique interventions being
+skills a coach would support include:                     implemented, implementer(s) skills, and phase of
+                                                          BSP implementation (e.g., initial implementation vs.
+• Using multiple sources of data to identify BSP
+                                                          ongoing support for an established plan). For example,
+    strategies that are function-based as well as
+    contextually and culturally relevant,                 a teacher who is implementing new behavior support
+                                                          strategies may need more direct coaching support in
+• Designing BSP implementation and evaluation plans,
+                                                          the classroom setting prior to and during the first few
+• Making decisions based on BSP implementation            (e.g., 2-3) days of implementation that includes role-
+    and student progress-monitoring data,                 play and/or modeling, prompting, and opportunities
+• Creating decision rules and data-driven processes       to receive immediate feedback (Freeman, Sugai,
+    for determining when and how to intensify, adapt      Simonsen, & Everett, 2017). As staff become more
+    or systematically fade Tier 3 student support.        comfortable implementing the plan over time, coaching
+COACHING SUPPORT FOR PLAN IMPLEMENTERS                    support may decrease in frequency and shift more to
+                                                          using behavioral data to evaluate plan implementation
+Beyond working with other members of the Individual
+                                                          and student response.
+Student Team to create a BSP, classroom staff need
+ongoing opportunities to receive in-situ coaching         COACHING TOOLS AND RESOURCES
+
+support on how to effectively implement the plan.         Basic FBA to BIP coaching checklists18
+Specifically, plan implementers should receive coaching
+on how and when to:
+
+
+
+
+Positive Behavioral Interventions & Supports (PBIS)                                                                 12
+                                                                                                      JANUARY 2022
+
+
+
+Evaluating Tier 3 Systems                                  • Type (or severity) of problem behaviors for which
+                                                               FBA is being conducted,
+A critical feature of PBIS is team-led data-based
+decision making. The goal of teaming at Tier 3 is to       • Number of student receiving individualized support
+ensure that students who require support beyond                who do not have IEPs (e.g., prior to/in an effort to
+                                                               prevent special education referral), and
+Tiers 1 and 2 receive behavior support that meets
+their individual needs and that those supports result in   • The number of discipline referrals or suspensions a
+positive student outcomes. It is common for schools            student has received prior to starting the FBA/BSP
+                                                               process.
+implementing PBIS to have two types of teams for
+supporting students with intensive needs. In addition      In schools implementing varying levels of FBA/BSP, it
+to the Individual Student Team previously described,       is recommended that school systems team members
+a Tier 3 Systems Team (or combined Tier 2/3 Systems        work with district- and school-level behavior support
+Team) meets regularly (e.g., every two weeks) to           personnel (and student IEP team, as appropriate) to
+examine the systems that support implementation at         document the different types of FBA/BSP protocols
+the advanced PBIS tiers.                                   used in their school and decision rules related to the
+                                                           circumstances under which each is recommended.
+Systems teams use schoolwide, group-level, and
+                                                           Upon receiving a Tier 3 referral, team members should
+individual student data to monitor the fidelity of Tier
+                                                           consider the nature and severity of the problem
+3 systems, identify students who need individualized
+                                                           behavior being referred (i.e., whether or not the
+support, and assess overall student response to
+                                                           problem behavior presents an immediate danger to
+targeted and intensive supports. For example, the
+                                                           the student or others, the pervasiveness of or number
+school systems team may use data regularly track:
+                                                           of school routines in which the behavior occurs) to
+• Number of basic and comprehensive FBA/BSPs               decide if the student is more likely to require a brief
+    completed and in process,
+                                                           or comprehensive FBA/BSP. For cases that are more
+• Number of students who are students making               complex, the team might choose to include a district
+    progress and/or meeting mastery criteria as            level behavior specialist on the FBA-BSP team.
+    measured by their BSP,
+
+• Length of time between referrals for FBA and the
+    beginning of the FBA/BSP process,
+
+
+
+
+Positive Behavioral Interventions & Supports (PBIS)                                                                  13
+                                                                                                 JANUARY 2022
+
+
+
+In addition to monthly meetings to evaluate              SYSTEMS-LEVEL TEAMING RESOURCES
+
+implementation and student response to support at        • Tier 3 School-level Systems Guide19
+advanced tiers, it is important for school teams to
+                                                         • I-PBS Meeting template20
+regularly (at least annually) examine the data systems
+and team processes that guide consistent enduring        • Tiered Fidelity Inventory (TFI)21
+implementation of Tier 2 and Tier 3 supports in
+the schools. The Tiered Fidelity Inventory (TFI) is a
+measure specifically designed to support school teams
+in assessing implementation of behavior supports
+systems and guiding development of Tier 2 and Tier
+3 systems in schools. It is recommended that school
+teams work with an external coach to develop an
+action plan using TFI results to guide implementation
+efforts, and design and document a specific plan for
+regularly entering, analyzing, and presenting data to
+school and district-level decision-makers.
+
+
+
+
+Positive Behavioral Interventions & Supports (PBIS)                                                       14
+                                                                                                               JANUARY 2022
+
+
+
+References
+Borgmeier, C., Loman, S. L., & Strickland-Cohen, M. K.          Robertson, R. E., Kokina, A. A., & Moore, D. W. (2020).
+(2017). ABC tracker: Increasing teacher capacity for            Barriers to implementing behavior intervention plans:
+assessing student behavior. Beyond Behavior, 26(3), 113-123.    Results of a statewide survey. Journal of Positive Behavior
+                                                                Interventions, 22(3), 145-155.
+Borgmeier, C., Strickland-Cohen, M.K. (2019). Basic FBA to
+BIP: District Planning & Implementation Guide. Portland State   Scott, T. M., Alter, P. J., & McQuillan, K. (2010). Functional
+University, Portland, OR. Retrieved from: http://basicfba.      behavior assessment in classroom settings: Scaling down to
+gseweb.org/                                                     scale up. Intervention in School and Clinic, 46(2), 87-94.
+
+Freeman, J., Sugai, G., Simonsen, B., & Everett, S. (2017).     Strickland-Cohen, M. K., & Horner, R. H. (2015). Typical
+MTSS coaching: Bridging knowing to doing. Theory Into           school personnel developing and implementing basic
+Practice, 56(1), 29-37.                                         behavior support plans. Journal of Positive Behavior
+                                                                Interventions, 17(2), 83-94.
+Kraft, M. A., Blazar, D., & Hogan, D. (2018). The effect
+of teacher coaching on instruction and achievement: A           Strickland-Cohen, M. K., Loman, S. L., & Horner, R. H.
+meta-analysis of the causal evidence. Review of educational     (2015). Improving district capacity to deliver basic FBA/
+research, 88(4), 547-588.                                       BSP support. In D.A. Crone, L.S. Hawken, & R. H. Horner
+                                                                (Eds.), Building positive behavior support systems in schools:
+Loman, S. L., & Horner, R. H. (2014). Examining the efficacy
+                                                                Functional behavioral assessment (pp. 134 – 150). New York,
+of a basic functional behavioral assessment training
+                                                                NY: Guilford Press.
+package for school personnel. Journal of Positive Behavior
+Interventions, 16, 18-30.
+
+Loman, S., Strickland-Cohen, M. K., Borgmeier, C., & Horner,
+R. (2013). Basic FBA to BSP trainer’s manual. University
+of Oregon, Eugene, OR. Retrieved from: http://basicfba.
+gseweb.org/
+
+
+
+
+Positive Behavioral Interventions & Supports (PBIS)                                                                           15
+                                                                                                     JANUARY 2022
+
+
+
+Embedded Hyperlinks
+1. http://www.pbis.org/resource/                         11. https://basicfba.com/wp-content/uploads/
+tier-3-student-level-systems-guide                       sites/16/2021/04/Evaluation-Plan-form.doc
+
+2. http://www.pbis.org/resource/tier-3-comprehensive-    12. https://basicfba.com/wp-content/uploads/
+functional-behavior-assessment-fba-guide                 sites/16/2021/04/BIP-Review-Meeting-Form.doc
+
+3. https://basicfba.com/wp-content/uploads/              13. https://basicfba.com/wp-content/uploads/
+sites/16/2021/04/FBA-Interview-for-Teachers-and-Staff.   sites/16/2021/04/BIP-Review-Meeting-Form.doc
+doc
+                                                         14. www.basicfba.com
+4. https://basicfba.com/wp-content/uploads/
+                                                         15. https://drive.google.com/file/
+sites/16/2021/04/FBA-Interview-for-Teachers-and-Staff.
+                                                         d/1vGuQ4YnB_ghCtB2DWhkRLf8tP9s6dke-/
+doc
+                                                         view?usp=sharing
+5. https://basicfba.com/wp-content/uploads/
+                                                         16. https://basicfba.com/behavior-specialist-training/
+sites/16/2021/04/FACTS-for-Student-Basic-FBA-2011.doc
+                                                         17. https://basicfba.com/school-wide-training/
+6. https://basicfba.com/wp-content/uploads/
+sites/16/2021/04/ABC-Tracker.doc                         18. https://basicfba.com/forms-resources/coaching-tools/
+
+7. https://basicfba.com/wp-content/uploads/              19. http://www.pbis.org/resource/
+sites/16/2021/04/ABC-Recording-Form.doc                  tier-3-school-level-systems-guide
+
+8. https://basicfba.com/wp-content/uploads/              20. https://basicfba.com/wp-content/uploads/
+sites/16/2021/04/Behavior-Intervention-Plan-form.docx    sites/16/2018/04/IPBS-_meeting_template_revCB_
+                                                         oct2014.doc
+9. https://basicfba.com/wp-content/uploads/
+sites/16/2021/04/BIP-Table-Tent.pdf                      21. https://www.pbisapps.org/products/tfi
+
+10. https://basicfba.com/wp-content/uploads/
+sites/16/2021/04/Implementation-Plan-form.docx
+
+
+
+
+Positive Behavioral Interventions & Supports (PBIS)                                                               16
+

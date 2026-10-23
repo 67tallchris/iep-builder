@@ -1,0 +1,477 @@
+{
+  "schema_version": "1.0",
+  "set": "Behavior middle school + social/communication + 2e",
+  "disclaimer": "Fictional synthetic exemplars for drafting practice only. No real student data. Not legal advice.",
+  "exemplars": [
+    {
+      "id": "ed-aggression-g7",
+      "title": "Grade 7 — Emotional Disability, peer conflict and aggression (FBA + BIP)",
+      "fictional": true,
+      "grade": 7,
+      "grade_band": "middle",
+      "az_category": "Emotional Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A seventh-grade student who escalates to verbal threats and physical aggression during unstructured time and when corrected by staff, averaging 2–3 office referrals per week; FBA identified escape from perceived unfair demands and peer-status/attention.",
+      "strengths": ["Loyal to friends", "Strong physical/kinesthetic skills", "Respects staff who are calm and consistent"],
+      "parent_concerns": "Parent worries about disciplinary removals jeopardizing the school year and wants restorative rather than exclusionary responses.",
+      "evaluation_data": [
+        "FBA: observations in cafeteria, hallway, and classes; interviews with staff and student",
+        "Pattern: conflict occurs most during unstructured transitions and after perceived public criticism",
+        "Rating scales elevated for conduct and emotional dysregulation across home and school",
+        "ED eligibility determined; manifestation protections apply because of repeated removals"
+      ],
+      "plaafp": {
+        "academic": "The student is capable of grade-level work but has missed instruction due to 2–3 referrals per week and is passing only 3 of 6 classes; missing work is higher in classes following a removal.",
+        "functional": "The student misreads neutral peer/staff behavior as disrespect, escalates quickly, and lacks a repair routine after conflict. Benefits from predictable adult responses, private redirection, and structured peer interaction.",
+        "impact": "Aggression and conflict interfere with learning, peer safety, and access to the general curriculum across all classes, requiring a function-based BIP, counseling, crisis protocols, and staff consistency.",
+        "baselines": [
+          {"skill": "Office referrals/incidents", "measure": "Discipline log", "score": "2–3 per week", "date": "current IEP entry"},
+          {"skill": "Use of de-escalation strategy", "measure": "Staff tally", "score": "1/10 conflict events", "date": "current IEP entry"},
+          {"skill": "Assignments submitted", "measure": "Gradebook audit", "score": "55%", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Behavior — conflict de-escalation",
+          "condition": "When frustrated with a peer or adult correction",
+          "skill": "use a de-escalation routine (pause, walk away, request a private conversation) without threats or physical behavior",
+          "baseline": "1/10 events; 2–3 referrals/week",
+          "target": "8/10 events and 0 physical incidents over 6 consecutive weeks",
+          "measurement": "Incident log and staff tallies",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        },
+        {
+          "area": "Academic engagement",
+          "condition": "Given a daily point sheet and check-in/check-out",
+          "skill": "attend classes and submit assigned work",
+          "baseline": "55% submission; 3/6 passing classes",
+          "target": "85% submission and 5/6 passing classes by the end of the IEP year",
+          "measurement": "Weekly gradebook audit and point sheet",
+          "schedule": "weekly; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks; weekly behavior point sheet sent home.",
+      "special_factor_behavior": "Behavior impedes learning and safety; FBA/BIP completed with crisis and manifestation protections.",
+      "services": [
+        {"type": "Related service — counseling (individual)", "frequency": "1x/week", "duration": "30 minutes", "location": "Counselor's office", "provider": "School counselor"},
+        {"type": "Special education — social/emotional skills (SDI)", "frequency": "2x/week", "duration": "30 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Check-in/check-out", "frequency": "Daily", "duration": "10 minutes AM/PM", "location": "Schoolwide CICO", "provider": "Assigned mentor"},
+        {"type": "Behavior consultation", "frequency": "Weekly", "duration": "30 minutes", "location": "Team meeting", "provider": "Behavior specialist"}
+      ],
+      "supplementary_aids_services": ["Private, non-public redirection for corrections", "2-minute warning and structured transition routine", "Scheduled check-ins with a trusted adult before/after lunch", "Restorative conversation option after conflict", "Structured seating in the cafeteria"],
+      "accommodations": ["Extended time on assignments after absences/removals", "Reduced penalty for late work per policy during skill-building", "Option to work in a quiet setting", "Frequent breaks during long classes"],
+      "program_modifications": [],
+      "personnel_supports": ["De-escalation and restraint training (A.R.S. §15-105)", "Common staff scripts for redirection and conflict", "Behavior-specialist coaching across content teams"],
+      "lre_statement": "The student is included in general education for all classes with behavior supports and CICO. Pull-out SEL instruction teaches replacement skills; exclusionary discipline is minimized because removals reinforce escape and reduce instructional access. Removal occurs only per code/safety with immediate return.",
+      "placement": "General education with pull-out resource services and counseling (outside regular class less than 21%).",
+      "assessment": "AASA and district assessments with extended time, small-group setting, and breaks. No alternate assessment.",
+      "esy": "Team considered ESY. The student has shown substantial regression in regulation and credit progress over the summer; ESY SEL/social skills 3x/week for 30 minutes plus academic support is recommended. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": {
+        "target_behavior_operational": "Verbal threats, argumentative refusal, and physical aggression (e.g., pushing, grabbing) during unstructured time or following staff redirection.",
+        "baseline": "2–3 incidents/week; 1/10 de-escalation use; 55% assignment submission.",
+        "hypothesized_function": "Escape from perceived unfair demands/public correction; access to peer attention/status.",
+        "antecedent_strategies": ["Private redirection; avoid public correction", "Structured transitions with 2-minute warning", "Check-in before high-risk periods (lunch, passing periods)", "Prearranged signal for needing space", "Restorative rather than exclusionary first response"],
+        "replacement_behaviors_taught": ["Pause-and-walk-away routine", "Request a private conversation or 2-minute space", "Use an 'I feel' statement and a negotiation script", "Self-monitor with a point sheet"],
+        "consequence_strategies": ["Reinforce replacement behavior with points toward preferred privileges/activities", "Restorative conversation and repair of harm after a conflict", "Consistent, brief consequences per code paired with reteaching; avoid public power struggles", "Parent contact within 24 hours for incidents"],
+        "crisis_plan": "Stages: (1) agitation — offer space, reduce demands, use calm script; (2) threats — clear the area, call trained staff, avoid physical blocking unless safety requires; (3) physical behavior — follow district crisis protocol; restraint/seclusion only if imminent danger and less restrictive options insufficient, with monitoring, quick release, and same-day parent notice per §15-105. Repeated restraint/seclusion triggers plan review including FBA revision.",
+        "progress_monitoring": "Daily incident log, point sheet, weekly gradebook, monthly team data review with the student.",
+        "staff_responsibilities": ["All teachers: private redirection and point-sheet feedback", "Mentor: CICO", "Counselor: skill practice/processing", "Behavior specialist: fidelity, data, plan revision", "Administrator: manifestation/discipline tracking"]
+      },
+      "source_lineage": ["AZ-TAS 2025 behavior/discrimination-discipline context", "PBIS Basic FBA to BSP", "A.R.S. §15-105"],
+      "notes": "Middle-school aggression with manifestation considerations and restorative practice pairing."
+    },
+    {
+      "id": "ed-school-avoidance-g8",
+      "title": "Grade 8 — Emotional Disability (anxiety), school avoidance and partial attendance",
+      "fictional": true,
+      "grade": 8,
+      "grade_band": "middle",
+      "az_category": "Emotional Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "An eighth-grade student with severe anxiety who has attended 60% of school days, often reporting physical symptoms in the morning and staying in the office or leaving early; academic skills are grade level when present.",
+      "strengths": ["Academically capable", "Dedicated to a small group of friends", "Responsive to a predictable re-entry routine"],
+      "parent_concerns": "Parent is desperate to get the student back to full attendance and wants school and therapy to coordinate.",
+      "evaluation_data": [
+        "Parent and teacher rating scales elevated for anxiety and school refusal behaviors",
+        "Attendance records: 60% attendance; mornings are the highest-risk period",
+        "Observation: physical complaints without medical cause; anxiety intensifies at entry and during unstructured time",
+        "ED eligibility determined based on adverse educational impact"
+      ],
+      "plaafp": {
+        "academic": "The student is capable of grade-level work but has 40% absenteeism and incomplete work across classes; performance dropped sharply after an extended fall absence and re-entry has been difficult.",
+        "functional": "The student experiences intense anxiety entering school and attending large unstructured settings; avoids by staying in the office, arriving late, or leaving early. Social connection with a few peers is a strength.",
+        "impact": "Anxiety and avoidance behaviors prevent access to instruction and increasingly threaten credit/grade progression, requiring a graduated re-entry plan, counseling, and coordinated family/mental-health supports.",
+        "baselines": [
+          {"skill": "Attendance", "measure": "Daily attendance record", "score": "60%", "date": "current IEP entry"},
+          {"skill": "Full class periods attended", "measure": "Daily schedule log", "score": "3 of 7 periods", "date": "current IEP entry"},
+          {"skill": "Work completed/collected", "measure": "Gradebook audit", "score": "50%", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Behavior — attendance and re-entry",
+          "condition": "Given a graduated re-entry schedule and morning check-in",
+          "skill": "arrive at school and remain for the scheduled periods",
+          "baseline": "60% attendance; 3 of 7 periods",
+          "target": "90% attendance and 6 of 7 periods daily across 6 consecutive weeks",
+          "measurement": "Daily attendance and schedule log",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        },
+        {
+          "area": "Coping and help-seeking",
+          "condition": "When anxiety peaks at entry or in unstructured settings",
+          "skill": "use a coping plan and request support from a designated adult instead of leaving campus",
+          "baseline": "1/10 anxiety events",
+          "target": "8/10 events without leaving the building across 4 consecutive weeks",
+          "measurement": "Staff tally and sign-out log",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Weekly attendance/progress communication with family; quarterly formal reports.",
+      "special_factor_behavior": "Behavior impedes learning; graduated re-entry and coping plans included. Safety monitoring is maintained in coordination with the outside provider.",
+      "services": [
+        {"type": "Related service — counseling (individual)", "frequency": "1x/week", "duration": "45 minutes", "location": "Counselor's office", "provider": "School counselor (coordinate with outside therapist with consent)"},
+        {"type": "Special education — academic catch-up support", "frequency": "3x/week", "duration": "45 minutes", "location": "Learning lab", "provider": "Special education teacher"},
+        {"type": "Check-in/check-out", "frequency": "Daily", "duration": "10 minutes AM/PM", "location": "Counselor/office", "provider": "Designated staff"}
+      ],
+      "supplementary_aids_services": ["Graduated re-entry schedule with a designated entry/exit point", "Morning check-in with a preferred adult", "Small-group or quiet lunch option", "Advance notice of schedule changes", "Copy of notes and recorded lessons for absences"],
+      "accommodations": ["Extended time on assignments and assessments", "Reduced workload during re-entry, preserving essential skills", "Option to take breaks in a safe space", "Alternate assessment location to reduce anxiety"],
+      "program_modifications": [],
+      "personnel_supports": ["Staff training on school-avoidance response protocols", "Care coordination with outside therapist", "Attendance-team collaboration"],
+      "lre_statement": "The student is enrolled in general education with a graduated re-entry plan that increases time in classes as tolerance builds. Counseling and check-in/check-out are provided in school; supports are designed to keep the student in the least restrictive setting rather than moving to a separate program.",
+      "placement": "General education with pull-out resource services and related-service counseling (outside regular class less than 21%).",
+      "assessment": "AASA and district assessments scheduled with extended time, quiet setting, and breaks; alternate scheduling if needed. No alternate assessment.",
+      "esy": "Team considered ESY. Summer structure may prevent the severe regression seen in previous summers; ESY social/emotional programming 2x/week for 45 minutes to maintain connection and routines is recommended. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": {
+        "target_behavior_operational": "Partial or missed attendance episodes: late arrival, remaining in the office, leaving early, or not attending classes while on campus, accompanied by physical symptom reports.",
+        "baseline": "60% attendance; 3 of 7 periods attended; 1/10 coping-strategy use.",
+        "hypothesized_function": "Escape/avoidance of anxiety-provoking school settings and demands, with anxiety relief negatively reinforcing avoidance.",
+        "antecedent_strategies": ["Graduated schedule and predictable entry routine", "Morning check-in before first period", "Advance schedule preview and adjustment plans", "Small-group lunch option near a trusted adult", "Avoid power struggles at entry; greet and guide"],
+        "replacement_behaviors_taught": ["Use the morning coping routine (breathing, grounding, plan review)", "Request a break or safe-space visit using a card", "Self-monitor with a small checklist of periods attended", "Communicate distress to a designated adult before leaving"],
+        "consequence_strategies": ["Praise/reinforce attendance and coping with a prearranged reinforcement plan", "Avoid sending the student home except for valid illness/safety; return to class when possible", "Neutral follow-up when periods are missed, focused on the next successful entry"],
+        "crisis_plan": "If the student expresses self-harm or acute risk, follow district crisis protocol and notify the parent and counselor immediately. If the student tries to leave campus, use the agreed support plan; do not physically restrain unless imminent safety requires (A.R.S. §15-105).",
+        "progress_monitoring": "Daily attendance/period log, coping tallies, weekly counselor review, weekly family update.",
+        "staff_responsibilities": ["Front office: warm, no-interrogation entry", "Teachers: attendance data and access to missing work", "Counselor: coping plan, risk monitoring, care coordination", "Case manager: data and family contact"]
+      },
+      "source_lineage": ["AZ-TAS 2025 special factors", "PBIS Basic FBA to BSP (avoidance/escape function)", "ADE mental-health school resources"],
+      "notes": "Demonstrates attendance-focused goals and graduated re-entry — a profile public exemplar IEPs almost never cover."
+    },
+    {
+      "id": "ohi-adhd-organization-g6",
+      "title": "Grade 6 — OHI/ADHD, organization across multiple classes",
+      "fictional": true,
+      "grade": 6,
+      "grade_band": "middle",
+      "az_category": "Other Health Impairment",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A sixth-grade student with ADHD who is passing assessments but failing several classes due to missing work, lost materials, and slow assignment follow-through; organizational demands increased sharply with the switch to seven teachers.",
+      "strengths": ["Strong test scores", "Quick learner", "Motivated by technology and music"],
+      "parent_concerns": "Parent says the student never knows what is due and asks for a shared system across all teachers.",
+      "evaluation_data": [
+        "Medical diagnosis of ADHD",
+        "Rating scales elevated for inattention and disorganization",
+        "Gradebook audit: 50% missing-work rate despite passing test averages",
+        "OHI eligibility reviewed and confirmed for continued need"
+      ],
+      "plaafp": {
+        "academic": "The student scores at or above grade level on most assessments but is failing two classes because 50% of assignments are missing; work is often completed but not submitted.",
+        "functional": "The student has no consistent assignment-tracking system, loses materials between classes, and underestimates how long tasks take. Executive-function demands of the middle-school schedule exceed current skills.",
+        "impact": "ADHD-related organizational needs interfere with demonstrating grade-level learning and meeting middle-school expectations, requiring explicit EF instruction and system-level supports.",
+        "baselines": [
+          {"skill": "Missing-work rate", "measure": "Gradebook audit", "score": "50%", "date": "current IEP entry"},
+          {"skill": "Materials prepared for class", "measure": "Daily check", "score": "2/5 classes prepared", "date": "current IEP entry"},
+          {"skill": "Use of planner/assignment system", "measure": "Planner checks", "score": "1/5 days", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Executive function — assignment tracking",
+          "condition": "Given a shared digital assignment calendar and daily case-manager check-ins",
+          "skill": "record assignments and submit work on time across all classes",
+          "baseline": "50% missing work; 1/5 days using the system",
+          "target": "90% submission and 5/5 days using the system across 4 consecutive weeks",
+          "measurement": "Weekly gradebook audit and daily planner check",
+          "schedule": "weekly; quarterly reporting"
+        },
+        {
+          "area": "Executive function — time and materials management",
+          "condition": "Given a class-period checklist and locker routine",
+          "skill": "arrive prepared and manage time for multi-step tasks",
+          "baseline": "2/5 classes prepared",
+          "target": "5/5 classes prepared across 4 consecutive weeks",
+          "measurement": "Daily check by teachers",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks; weekly gradebook/planner updates through the parent portal.",
+      "special_factor_behavior": null,
+      "services": [
+        {"type": "Special education — executive function/organization (SDI)", "frequency": "2x/week", "duration": "30 minutes", "location": "Learning lab", "provider": "Special education teacher"},
+        {"type": "Special education — academic support/study skills", "frequency": "3x/week", "duration": "30 minutes", "location": "Learning lab", "provider": "Special education teacher"},
+        {"type": "Consultation — teacher team", "frequency": "Monthly", "duration": "20 minutes", "location": "Team meeting", "provider": "Case manager"}
+      ],
+      "supplementary_aids_services": ["Shared digital assignment calendar visible to all teachers/parents", "Printed weekly missing-work report", "Spare set of materials kept in the learning lab", "Locker and binder organization routine", "Preferred seating to reduce distraction"],
+      "accommodations": ["Extended time on assignments and assessments", "Digital submission and photo-of-work option", "Reduced copying; posted notes", "Assessments in a low-distraction setting", "Check-ins before deadlines"],
+      "program_modifications": [],
+      "personnel_supports": ["Cross-team agreement on assignment posting deadlines", "Case-manager weekly grade check", "Teacher training on ADHD-friendly assignment practices"],
+      "lre_statement": "The student accesses all general education classes with organizational supports; pull-out sessions teach executive-function skills that cannot be delivered within the pacing of seven different classrooms. The design intentionally builds independence rather than adult dependence.",
+      "placement": "General education with pull-out resource services (outside regular class less than 21%).",
+      "assessment": "AASA and district assessments with extended time, low-distraction setting, and breaks. No alternate assessment.",
+      "esy": "Team considered ESY. The student showed significant regression in organizational routines and increased missing work after summer; ESY study-skills sessions 2x/week for 30 minutes with academic maintenance are recommended. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS 2025 functional goals", "Missouri DESE PLAAFP rubric", "ADE MTBS/executive-function framing"],
+      "notes": "Middle-school version of the EF profile; highlights system-level teacher coordination as a personnel support."
+    },
+    {
+      "id": "asd-social-skills-g4",
+      "title": "Grade 4 — Autism, social skills and sensory regulation",
+      "fictional": true,
+      "grade": 4,
+      "grade_band": "elementary",
+      "az_category": "Autism",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A fourth-grade student with autism who is academically on grade level but has difficulty reading social cues, joining peer play, and managing sensory overload; recess and group work are the most challenging times.",
+      "strengths": ["Strong memory for facts", "Deep interest in animals and science", "Kind and genuinely wants friendships"],
+      "parent_concerns": "Parent reports the student is lonely at recess and wants help building friendships without being singled out.",
+      "evaluation_data": [
+        "Diagnostic evaluation documented autism; social communication and restricted interests identified",
+        "Speech-language evaluation: pragmatic language below age expectations",
+        "Observation: parallel play at recess; difficulty entering groups; sensory seeking/avoiding patterns",
+        "Autism eligibility determined"
+      ],
+      "plaafp": {
+        "academic": "The student performs at grade level academically and has strong science knowledge, but written responses and group work reflect difficulty with perspective-taking and social language (e.g., one-sided explanations, missed cues).",
+        "functional": "The student engages in parallel play, has 0–1 successful peer interactions per day, and needs sensory supports (movement, noise reduction) during unstructured time to stay regulated.",
+        "impact": "Autism-related social communication and sensory needs interfere with peer relationships and with collaborative learning tasks, requiring explicit social instruction, sensory supports, and SLP services.",
+        "baselines": [
+          {"skill": "Successful peer interactions", "measure": "Recess tally", "score": "0–1 per day", "date": "current IEP entry"},
+          {"skill": "Joining group play", "measure": "Observation", "score": "2/10 opportunities", "date": "current IEP entry"},
+          {"skill": "Sensory regulation", "measure": "Nurse/break log", "score": "3 sensory breaks/day needed", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Social skills — peer interaction",
+          "condition": "During structured recess and cooperative group work",
+          "skill": "initiate and maintain peer interaction using taught scripts and turn-taking",
+          "baseline": "0–1 interactions/day",
+          "target": "3+ successful interactions/day across 4 consecutive weeks",
+          "measurement": "Recess and group-work tallies; social skills checklist",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        },
+        {
+          "area": "Speech-language — pragmatic skills",
+          "condition": "During conversation and group activities",
+          "skill": "use expected social language (greeting, asking questions, staying on topic, negotiating)",
+          "baseline": "2/10 opportunities",
+          "target": "8/10 opportunities across 3 consecutive sessions",
+          "measurement": "SLP data on pragmatic targets",
+          "schedule": "weekly; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks with social skills and SLP data; monthly parent update.",
+      "special_factor_behavior": "Sensory overload can lead to leaving the area or covering ears; sensory supports are included. No FBA needed at this time.",
+      "services": [
+        {"type": "Related service — speech-language therapy (pragmatics)", "frequency": "2x/week", "duration": "30 minutes", "location": "Speech room and push-in recess", "provider": "Speech-language pathologist"},
+        {"type": "Special education — social skills instruction (SDI)", "frequency": "2x/week", "duration": "30 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Push-in support — social facilitation", "frequency": "3x/week", "duration": "20 minutes", "location": "Recess/group work", "provider": "Special education teacher/para"}
+      ],
+      "supplementary_aids_services": ["Social scripts and visual supports for joining play", "Structured peer buddy/peer model system", "Noise-reducing headphones and a quiet pass", "Sensory movement breaks", "Visual schedule with recess preview"],
+      "accommodations": ["Extended time for written responses", "Visual supports and graphic organizers", "Small-group testing/preferential seating", "Option to take sensory breaks"],
+      "program_modifications": [],
+      "personnel_supports": ["Training for recess staff on social facilitation and sensory supports", "SLP/teacher joint planning", "Peer-sensitivity coaching for the class"],
+      "lre_statement": "The student remains in general education for all academics and much of recess, with push-in social facilitation. Pull-out sessions teach social and pragmatic skills with explicit practice; supports are delivered where peer interactions naturally occur so skills generalize.",
+      "placement": "General education with pull-out resource/speech services and push-in supports (outside regular class less than 21%).",
+      "assessment": "AASA and district assessments with extended time, visual supports, and small-group setting. No alternate assessment.",
+      "esy": "Team considered ESY. The student showed regression in social skills and increases in sensory dysregulation over summer; ESY social-skills group 2x/week for 45 minutes is recommended. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": {
+        "target_behavior_operational": "Leaving the recess area, covering ears, or refusing group participation when noise/social demands rise.",
+        "baseline": "3 sensory breaks/day needed; 2/10 group-entry opportunities; 0–1 peer interactions/day.",
+        "hypothesized_function": "Escape/avoidance of sensory and social overload; access to preferred solitary activity.",
+        "antecedent_strategies": ["Preview recess plan and identify a buddy", "Offer a quieter recess option with a structured activity", "Noise-reducing headphones available", "Scheduled movement breaks before and after recess"],
+        "replacement_behaviors_taught": ["Use a break card and go to the quiet spot appropriately", "Ask a peer to play using a script", "Notice body signals and request a sensory tool"],
+        "consequence_strategies": ["Praise and a social-success point for using scripts/break card", "Return to activity after a short regulated break when possible", "No punishment for sensory needs"],
+        "crisis_plan": "If overwhelmed, guide to the quiet area; if flight risk or safety concern, use district protocol and notify the office/parent as appropriate.",
+        "progress_monitoring": "Daily recess tallies, break logs, weekly SLP/teacher review, monthly team check.",
+        "staff_responsibilities": ["Recess staff: facilitate peer entry, monitor break use", "SLP: pragmatic instruction and data", "SPED teacher: social skills instruction and generalization", "Para: push-in facilitation under teacher direction"]
+      },
+      "source_lineage": ["AZ-TAS 2025 special factors (communication, behavior)", "AZ-TAS Speech-Language Services 2023", "PBIS autism/social supports framing"],
+      "notes": "Elementary autism with social and sensory supports; demonstrates SLP + SPED integration and push-in services."
+    },
+    {
+      "id": "asd-social-communication-g7",
+      "title": "Grade 7 — Autism, social communication, self-advocacy, and anxiety",
+      "fictional": true,
+      "grade": 7,
+      "grade_band": "middle",
+      "az_category": "Autism",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A seventh-grade student with autism who is academically strong but misreads sarcasm and indirect language, dominates conversations with a special interest, and experiences anxiety when routines change; wants to make friends but struggles with give-and-take.",
+      "strengths": ["Exceptional knowledge of technology", "Honest and dependable", "Good with younger students and tutoring"],
+      "parent_concerns": "Parent wants the student to learn to self-advocate and read social situations without masking their identity.",
+      "evaluation_data": [
+        "Autism eligibility; previous evaluation documented social communication needs",
+        "Pragmatic language evaluation: difficulty with indirect language, sarcasm, and topic maintenance",
+        "Observation: 2–3 peer conversations/day, often topic-dominated; anxiety during schedule changes",
+        "Student interview: wants friendships and to understand 'hidden rules'"
+      ],
+      "plaafp": {
+        "academic": "The student performs above grade level in technology and science and at grade level in other subjects, but group work and oral presentations are affected by difficulty with social communication and anxiety.",
+        "functional": "The student initiates conversation 2–3 times daily but struggles with turn-taking and topic maintenance; misinterprets indirect language; needs transition warnings and self-advocacy routines.",
+        "impact": "Autism-related social communication and anxiety needs interfere with collaborative learning and peer relationships, requiring pragmatic language instruction, self-advocacy skills, and structured social opportunities.",
+        "baselines": [
+          {"skill": "Conversational turns/topic maintenance", "measure": "SLP observation", "score": "3 turns before topic drift", "date": "current IEP entry"},
+          {"skill": "Self-advocacy requests", "measure": "Staff tally", "score": "1/10 opportunities", "date": "current IEP entry"},
+          {"skill": "Transition-related anxiety events", "measure": "Daily log", "score": "3/week", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Speech-language — pragmatic conversation",
+          "condition": "During structured peer conversations and group work",
+          "skill": "take turns, ask follow-up questions, and maintain topic for at least 5 exchanges",
+          "baseline": "3 turns",
+          "target": "5+ turns with 2+ follow-up questions across 3 consecutive sessions",
+          "measurement": "SLP conversational data and peer feedback",
+          "schedule": "weekly; quarterly reporting"
+        },
+        {
+          "area": "Self-advocacy",
+          "condition": "When confused, overwhelmed, or needing an accommodation",
+          "skill": "request clarification or support from a teacher using a script",
+          "baseline": "1/10 opportunities",
+          "target": "8/10 opportunities across 4 consecutive weeks",
+          "measurement": "Staff tally and student self-report",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks with SLP data, self-advocacy tallies, and teacher reports.",
+      "special_factor_behavior": "Anxiety during unexpected changes; supports include advance notice and a self-regulation plan. No FBA at this time.",
+      "services": [
+        {"type": "Related service — speech-language therapy (pragmatics)", "frequency": "2x/week", "duration": "30 minutes", "location": "Speech room and push-in elective", "provider": "Speech-language pathologist"},
+        {"type": "Special education — self-advocacy/executive function (SDI)", "frequency": "1x/week", "duration": "30 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Push-in — collaborative group support", "frequency": "2x/week", "duration": "30 minutes", "location": "General education classroom", "provider": "SPED teacher/para"}
+      ],
+      "supplementary_aids_services": ["Written schedule and advance notice of changes", "Social scripts for conversation and self-advocacy", "Structured lunch/interest-based club (tech club)", "Noise-reducing headphones", "Check-in with a trusted adult before high-anxiety periods"],
+      "accommodations": ["Extended time on oral presentations and group projects", "Preferential seating", "Option to work with a partner or small group rather than large group", "Written instructions alongside verbal directions"],
+      "program_modifications": [],
+      "personnel_supports": ["Staff training on autism-affirming supports and avoiding forced eye contact/masking", "SLP/teacher collaboration", "Club sponsor orientation"],
+      "lre_statement": "The student is fully included in general education with push-in social communication supports and pull-out SLP/self-advocacy sessions. Push-in support in an elective the student enjoys provides natural peer interaction and generalization; pull-out is limited to explicit skill instruction.",
+      "placement": "General education with pull-out speech/resource services and push-in supports (outside regular class less than 21%).",
+      "assessment": "AASA and district assessments with extended time, written directions, and small-group setting. No alternate assessment.",
+      "esy": "Team considered ESY. The student regressed in pragmatic language and social routines over the prior summer; ESY social communication group 2x/week for 30 minutes with an interest-based peer activity is recommended. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": {
+        "target_behavior_operational": "Topic-dominated conversation, missing indirect language cues, and increased anxiety/withdrawal when routines change.",
+        "baseline": "3 conversational turns; 1/10 self-advocacy; 3 anxiety events/week.",
+        "hypothesized_function": "Skill deficit (social communication) plus escape/avoidance of uncertainty and sensory/social overload.",
+        "antecedent_strategies": ["Preview schedule changes and transitions", "Provide conversation topic cards and rehearsal", "Seat near supportive peers", "Offer predictable roles in group work"],
+        "replacement_behaviors_taught": ["Ask a follow-up question after sharing a fact", "Use a self-advocacy script to ask for clarification or a break", "Use a transition calming routine", "Self-monitor conversation turns with a visual"],
+        "consequence_strategies": ["Specific praise and self-monitoring points for turn-taking and self-advocacy", "Natural reinforcement through successful peer interactions and club participation", "Neutral, private redirection if a conversation becomes one-sided"],
+        "crisis_plan": "If anxiety escalates, offer a quiet break and grounding routine; contact a trusted adult if needed. No safety concerns identified.",
+        "progress_monitoring": "Weekly SLP data, daily self-advocacy tallies, weekly teacher check-ins, monthly team review.",
+        "staff_responsibilities": ["SLP: pragmatic instruction and data", "SPED teacher: self-advocacy/EF instruction", "Teachers: advance notice and check-ins", "Club sponsor: structured social opportunity"]
+      },
+      "source_lineage": ["AZ-TAS 2025 special factors", "AZ-TAS Speech-Language Services 2023", "PBIS autism supports"],
+      "notes": "Autism-affirming framing (no forced masking); self-advocacy as a goal."
+    },
+    {
+      "id": "twice-exceptional-g7",
+      "title": "Grade 7 — Twice-exceptional: gifted with SLD and ADHD (underachievement profile)",
+      "fictional": true,
+      "grade": 7,
+      "grade_band": "middle",
+      "az_category": "Specific Learning Disability",
+      "secondary_category": "Other Health Impairment",
+      "dyslexia_diagnosis_documented": true,
+      "profile_summary": "A seventh-grade student identified as gifted who also has dyslexia and ADHD; scores advanced on reasoning measures but writes at a third-to-fourth-grade level and is underachieving across classes due to missed work and avoidance of writing tasks.",
+      "strengths": ["Advanced abstract reasoning and science knowledge", "Strong oral debate skills", "Creative problem solver"],
+      "parent_concerns": "Parent worries the student is being seen as 'lazy' and wants advanced content with appropriate literacy supports.",
+      "evaluation_data": [
+        "Gifted identification with superior reasoning scores",
+        "SLD in written expression and basic reading; dyslexia diagnosis documented",
+        "ADHD medical diagnosis affecting sustained attention and work completion",
+        "Achievement gap between reasoning and written expression confirmed by the evaluation team"
+      ],
+      "plaafp": {
+        "academic": "The student reasons well above grade level but writes at a third-to-fourth-grade level and reads multisyllabic words at 70% accuracy, creating a significant achievement gap. Written work is submitted for 50% of assignments; oral participation is advanced.",
+        "functional": "Avoids writing-heavy tasks, rushes or refuses long written assignments, and uses advanced verbal skills to compensate. Benefits from choice, oral demonstration of knowledge, and structured writing scaffolds.",
+        "impact": "Combined SLD (dyslexia/written expression) and ADHD needs mean the student cannot demonstrate advanced reasoning through written work, resulting in underachievement and reduced access to appropriately challenging content.",
+        "baselines": [
+          {"skill": "Written expression", "measure": "Grade-7 writing rubric", "score": "2/6 (writing at grade 3–4 level)", "date": "current IEP entry"},
+          {"skill": "Multisyllabic decoding", "measure": "Decoding inventory", "score": "70% accuracy", "date": "current IEP entry"},
+          {"skill": "Assignment completion", "measure": "Gradebook audit", "score": "50%", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Written expression",
+          "condition": "Given a graphic organizer, choice of topic, and speech-to-text option",
+          "skill": "produce organized multi-paragraph responses that demonstrate grade-level reasoning",
+          "baseline": "2/6 rubric",
+          "target": "4/6 or higher across 3 consecutive essays",
+          "measurement": "District writing rubric, blind-scored",
+          "schedule": "every 3 weeks; quarterly reporting"
+        },
+        {
+          "area": "Reading — advanced decoding",
+          "condition": "Given advanced science/social studies text and morphology instruction",
+          "skill": "decode content vocabulary accurately",
+          "baseline": "70% accuracy",
+          "target": "90% accuracy across 3 consecutive probes",
+          "measurement": "Content-vocabulary decoding probes",
+          "schedule": "bi-weekly; quarterly reporting"
+        },
+        {
+          "area": "Executive function — completion of challenging work",
+          "condition": "Given choice, chunked deadlines, and check-ins",
+          "skill": "complete and submit advanced-level tasks",
+          "baseline": "50% completion",
+          "target": "85% completion across 4 consecutive weeks",
+          "measurement": "Gradebook audit",
+          "schedule": "weekly; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks with rubric-scored writing and gradebook data; monthly check-in with the gifted program coordinator.",
+      "special_factor_behavior": "Task avoidance stems from skill gaps and attention needs; supports focus on scaffolds and choice. No FBA at this time.",
+      "services": [
+        {"type": "Special education — written expression (SDI)", "frequency": "4x/week", "duration": "45 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Special education — reading/executive function support", "frequency": "2x/week", "duration": "30 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Consultation with gifted education teacher", "frequency": "Monthly", "duration": "30 minutes", "location": "Team meeting", "provider": "Gifted coordinator and SPED teacher"}
+      ],
+      "supplementary_aids_services": ["Speech-to-text and word prediction", "Advanced texts with matching scaffolds (audio + graphic organizers)", "Choice of product (oral presentation, video, essay) when writing is not the target skill", "Pre-teaching of advanced vocabulary"],
+      "accommodations": ["Extended time on writing and assessments", "Oral responses and project-based demonstration of knowledge", "Chunked long-term assignments with checkpoints", "Low-distraction testing setting"],
+      "program_modifications": [],
+      "personnel_supports": ["Joint planning between gifted and SPED staff", "Teacher training on twice-exceptional profiles", "Assistive-technology training for the student and staff"],
+      "lre_statement": "The student remains in advanced/general education classes with accommodations and pull-out SDI. The team deliberately avoids removing the student from advanced content; intervention targets the written-expression and executive-function gaps while the student continues to access appropriately challenging curriculum.",
+      "placement": "General education (including gifted services) with pull-out resource services (outside regular class less than 21%).",
+      "assessment": "AASA and district assessments with extended time, speech-to-text, and alternate response formats as permitted. No alternate assessment.",
+      "esy": "Team considered ESY. Writing and work-completion skills regressed over the prior summer; ESY writing/executive-function sessions 2x/week for 45 minutes are recommended, with optional advanced enrichment to maintain engagement. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS 2025 SLD/dyslexia requirement", "ADE Dyslexia Handbook", "Missouri DESE SMART Goal rubric", "AZ gifted education guidance"],
+      "notes": "Twice-exceptional profile: the tool should warn against reducing advanced content; interventions target the disability, not the giftedness."
+    }
+  ]
+}

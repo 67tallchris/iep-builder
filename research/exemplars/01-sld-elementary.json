@@ -1,0 +1,573 @@
+{
+  "schema_version": "1.0",
+  "set": "SLD — elementary",
+  "disclaimer": "Fictional synthetic exemplars for drafting practice only. No real student data. Not legal advice.",
+  "exemplars": [
+    {
+      "id": "sld-basic-reading-g3",
+      "title": "Grade 3 — SLD, basic reading/decoding (dyslexia profile)",
+      "fictional": true,
+      "grade": 3,
+      "grade_band": "elementary",
+      "az_category": "Specific Learning Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": true,
+      "profile_summary": "A third-grade student with average oral language and strong hands-on reasoning who reads single words with common vowel patterns (vowel teams, r-controlled, CVCe) at 42% accuracy and reads connected text at 28 WCPM. Spelling is phonetic and inconsistent. The student avoids reading aloud and sometimes tears up during timed reading tasks.",
+      "strengths": ["Strong verbal storytelling and vocabulary when listening", "Persistent when tasks are hands-on", "Good classroom citizenship and peer relationships"],
+      "parent_concerns": "Parent reports nightly reading is a struggle and is worried the student will fall behind; asks for daily practice ideas that do not turn into conflict.",
+      "evaluation_data": [
+        "Standardized achievement: word reading and spelling standard scores in the low-average to below-average range; listening comprehension average",
+        "Decoding inventory: 42% accuracy on vowel teams, r-controlled vowels, and CVCe words",
+        "Word reading fluency: 28 WCPM on grade-3 probes (fall benchmark 70+)",
+        "Evaluation team documented a pattern consistent with dyslexia; parent history of reading difficulty"
+      ],
+      "plaafp": {
+        "academic": "The student decodes grade-3 single words with common vowel patterns at 42% accuracy and reads grade-3 passages at 28 WCPM with 86% accuracy. Listening comprehension is a relative strength. Written spelling shows letter-sound approximations but omits vowel teams and common spelling patterns.",
+        "functional": "The student avoids oral reading, requests to leave for water during reading block, and shows frustration (pushing materials away) during timed probes; frustration is reduced with chunked, untimed practice and choice of text.",
+        "impact": "Basic reading and spelling deficits related to the specific learning disability (dyslexia) prevent access to grade-level text across all content areas and limit independent written work, requiring specially designed reading instruction and text access supports.",
+        "baselines": [
+          {"skill": "Decoding vowel teams, r-controlled vowels, CVCe", "measure": "Curriculum-based decoding inventory", "score": "42% accuracy", "date": "current IEP entry"},
+          {"skill": "Oral reading fluency", "measure": "Grade-3 CBM passages", "score": "28 WCPM / 86% accuracy", "date": "current IEP entry"},
+          {"skill": "Spelling common patterns", "measure": "Weekly spelling dictation", "score": "4/10 words", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Basic reading — decoding",
+          "condition": "Given grade-3 word lists and decodable passages targeting vowel teams, r-controlled vowels, and CVCe patterns",
+          "skill": "read targeted patterns accurately and apply them to connected text",
+          "baseline": "42% accuracy on targeted patterns",
+          "target": "90% accuracy across 3 consecutive weekly probes",
+          "measurement": "Weekly curriculum-based decoding inventory; teacher running records",
+          "schedule": "weekly probes; goal reviewed each quarter"
+        },
+        {
+          "area": "Reading fluency",
+          "condition": "Given a mastered grade-3 passage and repeated reading practice",
+          "skill": "read aloud with accuracy and appropriate rate",
+          "baseline": "28 WCPM with 86% accuracy",
+          "target": "65 WCPM with 95% accuracy across 2 consecutive passages",
+          "measurement": "Grade-3 CBM oral reading fluency probes",
+          "schedule": "2 probes/week; quarterly reporting"
+        },
+        {
+          "area": "Spelling/written expression",
+          "condition": "Given a dictated list of 10 words containing taught patterns",
+          "skill": "spell words using taught vowel patterns",
+          "baseline": "4/10 correct",
+          "target": "8/10 correct across 3 consecutive dictations",
+          "measurement": "Weekly dictation; analysis of error patterns",
+          "schedule": "weekly; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Progress reports with current data every 9 weeks, concurrent with report cards; parent may request additional updates.",
+      "special_factor_behavior": "Mild frustration/frustration-avoidance behavior responds to chunking, untimed practice, and choice; if avoidance escalates, the team will conduct an FBA and add a behavior support plan.",
+      "services": [
+        {"type": "Special education — basic reading (SDI)", "frequency": "5x/week", "duration": "45 minutes", "location": "Resource room (small group of 3)", "provider": "Special education teacher"},
+        {"type": "Special education — written language/spelling (SDI)", "frequency": "2x/week", "duration": "30 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Consultation with general education teacher", "frequency": "Weekly", "duration": "15 minutes", "location": "General education classroom", "provider": "Special education teacher"}
+      ],
+      "supplementary_aids_services": ["Access to audiobooks and text-to-speech for grade-level content", "Pre-teaching of reading passages and vocabulary before whole-class reading", "Partner reading with a fluent peer for content-area text", "Visual anchor charts for vowel patterns in the classroom"],
+      "accommodations": ["Extended time on reading and writing tasks", "Read-aloud of directions and test items when decoding is not the target skill", "Chunked assignments with checkpoints", "Oral responses in place of written where decoding/writing is not assessed", "Reduced copying from the board; provide printed notes"],
+      "program_modifications": ["None — the student accesses grade-level standards with accommodations and SDI."],
+      "personnel_supports": ["Quarterly progress-monitoring data review with the reading interventionist", "Access to the district dyslexia intervention materials and training"],
+      "lre_statement": "The student participates in the general education classroom for the full day except during scheduled SDI. Pull-out reading instruction is necessary because intensive, sequential decoding instruction requires a quiet, small-group setting that cannot be delivered without disrupting the general classroom; the student returns to general education for all content instruction with supports.",
+      "placement": "General education classroom with pull-out resource services (outside regular class less than 21% of the day). Placement determined after goals/services, starting from general education.",
+      "assessment": "Participates in AASA and district assessments with accommodations (extended time, read-aloud of directions, chunking). MOWR third-grade reading requirements considered; no alternate assessment.",
+      "esy": "Team considered ESY. The student has shown a pattern of summer regression in decoding fluency during past breaks and would lose access to critical early reading instruction; ESY reading services proposed for 3x/week for 60 minutes over a 5-week session, to be confirmed with spring data. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS 2025 required components", "ADE AZ-TAS Dyslexia Handbook (2018)", "Missouri DESE PLAAFP and SMART Goal rubrics", "Arkansas SLD elementary exemplar (structure only)"],
+      "notes": "Dyslexia diagnosis must be documented per A.R.S. §15-763. Baseline data fields align to the tool's goal checker."
+    },
+    {
+      "id": "sld-reading-fluency-g4",
+      "title": "Grade 4 — SLD, reading fluency",
+      "fictional": true,
+      "grade": 4,
+      "grade_band": "elementary",
+      "az_category": "Specific Learning Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A fourth-grade student who decodes accurately but reads slowly and word-by-word, which limits comprehension of grade-level text. Oral reading is 62 WCPM with 94% accuracy; comprehension of grade-4 text is 60%.",
+      "strengths": ["Accurate word recognition", "Strong listening comprehension", "Enthusiastic participant in science"],
+      "parent_concerns": "Parent says the student understands ideas when read aloud but cannot finish reading assignments in time.",
+      "evaluation_data": [
+        "Oral reading fluency: 62 WCPM (grade-4 fall benchmark 90–110)",
+        "Accuracy: 94% on grade-4 passages",
+        "Reading comprehension: 60% on grade-4 curriculum-based questions",
+        "Processing speed below average on cognitive measures; decoding skills in the average range"
+      ],
+      "plaafp": {
+        "academic": "The student reads grade-4 text accurately (94%) but at 62 WCPM, which is below the fall benchmark, causing incomplete reading of content-area assignments and reduced comprehension (60% on literal and inferential questions). Listening comprehension is age-appropriate.",
+        "functional": "Work completion drops when tasks require extended silent reading; the student rushes and skips words, then reports not understanding the text.",
+        "impact": "Fluency deficits related to the specific learning disability slow access to grade-level text and reduce comprehension, requiring fluency instruction and access supports in content classes.",
+        "baselines": [
+          {"skill": "Oral reading fluency", "measure": "Grade-4 CBM passages", "score": "62 WCPM / 94% accuracy", "date": "current IEP entry"},
+          {"skill": "Reading comprehension", "measure": "Grade-4 curriculum-based questions", "score": "60%", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Reading fluency",
+          "condition": "Given grade-4 passages with repeated reading and phrase-cued practice",
+          "skill": "read aloud with appropriate rate and phrasing",
+          "baseline": "62 WCPM",
+          "target": "100 WCPM with 96% accuracy across 2 consecutive probes",
+          "measurement": "Weekly grade-4 CBM oral reading fluency probes; prosody rubric",
+          "schedule": "2 probes/week; quarterly reporting"
+        },
+        {
+          "area": "Reading comprehension",
+          "condition": "Given grade-4 informational text read with a fluency support and a graphic organizer",
+          "skill": "answer literal and inferential questions and summarize main idea",
+          "baseline": "60% accuracy",
+          "target": "80% accuracy across 3 of 4 weekly checks",
+          "measurement": "Curriculum-based comprehension checks",
+          "schedule": "weekly; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks with report cards, with graphs of fluency probes and comprehension checks.",
+      "special_factor_behavior": null,
+      "services": [
+        {"type": "Special education — reading fluency and comprehension (SDI)", "frequency": "4x/week", "duration": "40 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Supplementary — fluency practice in general classroom", "frequency": "Daily", "duration": "10 minutes", "location": "General education classroom", "provider": "General education teacher with SPED consultation"}
+      ],
+      "supplementary_aids_services": ["Audiobooks and text-to-speech for content-area reading", "Shortened reading passages with equivalent content objectives", "Pre-taught vocabulary and advance organizers", "Peer partner for choral/echo reading"],
+      "accommodations": ["Extended time on reading assignments and tests", "Read-aloud of directions and non-reading test items", "Frequent check-ins to monitor understanding", "Option to respond orally to demonstrate comprehension"],
+      "program_modifications": [],
+      "personnel_supports": ["Monthly consultation between SPED and general education teachers on fluency routines", "Training on repeated-reading and phrase-cued text strategies"],
+      "lre_statement": "The student is included in general education all day except for four 40-minute SDI sessions. Pull-out is required for repeated-reading and decoding-practice routines that need a quiet small-group setting. The student returns for all core instruction with text-access supports.",
+      "placement": "General education with pull-out resource services (outside regular class less than 21%).",
+      "assessment": "AASA reading and all district assessments with extended time and read-aloud of non-reading items. No alternate assessment.",
+      "esy": "Team considered ESY. No documented regression/recoupment data support ESY at this time; parents will be given fluency practice materials. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS 2025", "Missouri DESE SMART Goal rubric", "Arkansas SLD elementary exemplar (structure only)"],
+      "notes": "Shows a fluency-only SLD profile where dyslexia is not documented; the tool should still prompt for the SLD/dyslexia statement."
+    },
+    {
+      "id": "sld-reading-comprehension-g5",
+      "title": "Grade 5 — SLD, reading comprehension",
+      "fictional": true,
+      "grade": 5,
+      "grade_band": "elementary",
+      "az_category": "Specific Learning Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A fifth-grade student who reads grade-level text fluently (108 WCPM, 97% accuracy) but struggles to identify main ideas, make inferences, and summarize, scoring 45% on comprehension checks.",
+      "strengths": ["Fluent and accurate decoding", "Strong memory for facts and details", "Kind and cooperative in group work"],
+      "parent_concerns": "Parent notices the student can read anything but cannot explain what was read.",
+      "evaluation_data": [
+        "Oral reading fluency: 108 WCPM / 97% accuracy (grade-5 benchmark met)",
+        "Comprehension: 45% on literal/inferential questions; 1/5 correct on summarization rubric",
+        "Vocabulary: grade-level on direct assessment",
+        "Pattern of comprehension difficulty with intact decoding identified by the evaluation team"
+      ],
+      "plaafp": {
+        "academic": "The student decodes and reads fluently but earns 45% on grade-5 comprehension checks and 1/5 on summarization, especially for inferential questions and main-idea identification. Vocabulary is a relative strength.",
+        "functional": "The student can recount isolated details but not organize or explain them, and becomes discouraged during discussion-based tasks that require synthesis.",
+        "impact": "Comprehension deficits related to the specific learning disability reduce performance across reading, science, and social studies, requiring explicit strategy instruction and scaffolded text tasks.",
+        "baselines": [
+          {"skill": "Reading comprehension", "measure": "Grade-5 curriculum-based checks", "score": "45% accuracy", "date": "current IEP entry"},
+          {"skill": "Summarization", "measure": "Summary rubric", "score": "1/5", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Reading comprehension — inference and main idea",
+          "condition": "Given a grade-5 informational text and a graphic organizer",
+          "skill": "identify main idea and supporting details and answer inferential questions with text evidence",
+          "baseline": "45% accuracy",
+          "target": "80% accuracy across 3 of 4 consecutive weekly checks",
+          "measurement": "Curriculum-based comprehension checks scored with answer key/rubric",
+          "schedule": "weekly; quarterly reporting"
+        },
+        {
+          "area": "Summarization",
+          "condition": "Given a grade-5 narrative or informational passage and a summary frame",
+          "skill": "write a 3–5 sentence summary including main idea and key details",
+          "baseline": "1/5 on rubric",
+          "target": "3.5/5 or higher on 3 consecutive summaries",
+          "measurement": "District summary rubric (main idea, details, organization, conventions)",
+          "schedule": "bi-weekly; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks; teacher attaches comprehension check samples and summary rubric scores.",
+      "special_factor_behavior": null,
+      "services": [
+        {"type": "Special education — reading comprehension strategies (SDI)", "frequency": "4x/week", "duration": "40 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Special education — written language for summaries (SDI)", "frequency": "1x/week", "duration": "30 minutes", "location": " Resource room", "provider": "Special education teacher"}
+      ],
+      "supplementary_aids_services": ["Graphic organizers for all reading tasks", "Pre-taught vocabulary and background knowledge", "Text outlines/highlighted main ideas for content-area reading", "Structured peer discussion roles"],
+      "accommodations": ["Extended time on reading tasks", "Option to answer comprehension questions orally", "Chunked text sections with check-ins", "Use of a checklist for main-idea and inference steps"],
+      "program_modifications": [],
+      "personnel_supports": ["Training on explicit comprehension strategy instruction (e.g., reciprocal teaching)", "Monthly coordination with the grade-5 team on text modifications"],
+      "lre_statement": "The student participates in general education for all content except SDI sessions. Pull-out provides explicit strategy instruction in a small group that cannot be delivered effectively during whole-class reading; the student applies strategies in general education with organizers and accommodations.",
+      "placement": "General education with pull-out resource services (outside regular class less than 21%).",
+      "assessment": "AASA with extended time and oral-response option on reading comprehension items (as allowed); MOWR requirements considered for grade-level reading expectations. No alternate assessment.",
+      "esy": "Team considered ESY. A pattern of summer regression in comprehension strategy use was noted by the prior-year teacher; ESY for reading comprehension 2x/week for 45 minutes is recommended pending spring progress data. Decision by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS 2025", "Missouri DESE PLAAFP rubric", "Missouri DESE SMART Goal rubric"],
+      "notes": "Illustrates comprehension-only SLD with fluent decoding — useful for the tool's 'profile builder' branching."
+    },
+    {
+      "id": "sld-math-calculation-g2",
+      "title": "Grade 2 — SLD, math calculation",
+      "fictional": true,
+      "grade": 2,
+      "grade_band": "elementary",
+      "az_category": "Specific Learning Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A second-grade student with strong oral language and reading skills who struggles with addition and subtraction within 100 and lacks automaticity with basic facts, scoring 30% on place-value/regrouping tasks and 8 correct digits per minute on fact fluency.",
+      "strengths": ["Strong verbal reasoning and reading comprehension", "Good at explaining strategies aloud", "Engaged in math games and manipulatives"],
+      "parent_concerns": "Parent is concerned about nightly math homework conflicts and finger counting for basic facts.",
+      "evaluation_data": [
+        "Calculation: 30% accuracy on two-digit addition/subtraction with regrouping",
+        "Math fact fluency: 8 correct digits per minute",
+        "Math reasoning/problem solving: average",
+        "Comprehensive evaluation ruled out lack of instruction and confirmed a specific learning disability in math calculation"
+      ],
+      "plaafp": {
+        "academic": "The student computes two-digit problems with regrouping at 30% accuracy and completes 8 correct digits per minute on fact fluency (target ~20+). Math reasoning is age-appropriate, and the student can verbally explain strategies but loses track of sequence and place value in written work.",
+        "functional": "Math homework takes 45+ minutes and often ends in frustration; the student uses fingers for simple facts and avoids independent practice.",
+        "impact": "Calculation and fluency deficits related to the specific learning disability interfere with grade-2 math standards and with completing multi-step tasks, requiring explicit computation instruction and fluency practice.",
+        "baselines": [
+          {"skill": "Two-digit computation with regrouping", "measure": "Curriculum-based calculation probe", "score": "30% accuracy", "date": "current IEP entry"},
+          {"skill": "Basic fact fluency", "measure": "1-minute timed probe", "score": "8 correct digits/min", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Math calculation",
+          "condition": "Given 10 two-digit addition/subtraction problems with regrouping and place-value supports",
+          "skill": "compute accurately using a taught sequence",
+          "baseline": "30% accuracy",
+          "target": "85% accuracy across 3 consecutive weekly probes",
+          "measurement": "Weekly calculation probes; error analysis",
+          "schedule": "weekly; quarterly reporting"
+        },
+        {
+          "area": "Math fact fluency",
+          "condition": "Given a 1-minute mixed addition/subtraction fact probe within 20",
+          "skill": "recall basic facts automatically",
+          "baseline": "8 correct digits/min",
+          "target": "20 correct digits/min with 95% accuracy across 3 probes",
+          "measurement": "Timed fact fluency probes",
+          "schedule": "2x/week; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks with report cards; facts graph shared at conferences.",
+      "special_factor_behavior": null,
+      "services": [
+        {"type": "Special education — math calculation/fact fluency (SDI)", "frequency": "4x/week", "duration": "30 minutes", "location": "Resource room (small group of 2)", "provider": "Special education teacher"},
+        {"type": "Supplementary — guided practice in general classroom", "frequency": "Daily", "duration": "10 minutes", "location": "General education classroom", "provider": "General education teacher with SPED consultation"}
+      ],
+      "supplementary_aids_services": ["Concrete-representational-abstract (CRA) materials and manipulatives", "Place-value charts and multiplication/addition fact cards", "Pre-teaching of math vocabulary", "Math games for fluency practice"],
+      "accommodations": ["Extended time on math tasks", "Reduced number of practice items while preserving skill coverage", "Use of manipulatives and reference charts during classroom work (not on assessments where prohibited)", "Oral explanation of the process to demonstrate understanding"],
+      "program_modifications": [],
+      "personnel_supports": ["Consultation on CRA sequence and fluency routines", "Staff access to intervention materials"],
+      "lre_statement": "The student receives math SDI in a small group because explicit remediation with manipulatives and fluency practice requires immediate corrective feedback and pacing not possible in a whole-class lesson. The student participates in general education math for concept development and all other subjects.",
+      "placement": "General education with pull-out resource services (outside regular class less than 21%).",
+      "assessment": "District math assessments with extended time and manipulatives per assessment policy; AASA as scheduled. No alternate assessment.",
+      "esy": "Team considered ESY. Math fact fluency showed substantial regression over summer break with slow recoupment in the prior year; ESY math for 2x/week, 30 minutes, 5 weeks is proposed based on that retroactive data. Decision by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS 2025", "Missouri DESE SMART Goal rubric", "AZ-TAS ESY guidance"],
+      "notes": "Good exemplar for the ESY regression/recoupment documentation path."
+    },
+    {
+      "id": "sld-math-problem-solving-g4",
+      "title": "Grade 4 — SLD, math problem solving/reasoning",
+      "fictional": true,
+      "grade": 4,
+      "grade_band": "elementary",
+      "az_category": "Specific Learning Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A fourth-grade student with accurate computation skills who cannot choose operations or set up multi-step word problems, scoring 2/10 on grade-4 problem-solving tasks despite strong fact fluency.",
+      "strengths": ["Fluent with basic facts and computation", "Persistent and calm during structured tasks", "Strong visual-spatial reasoning"],
+      "parent_concerns": "Parent reports the student can 'do the math' but freezes on word problems and standardized test questions.",
+      "evaluation_data": [
+        "Computation: 92% accuracy on grade-4 whole-number operations",
+        "Problem solving: 2/10 multi-step word problems correct",
+        "Math vocabulary: below average on curriculum vocabulary check",
+        "Evaluation team identified a specific learning disability in math problem solving"
+      ],
+      "plaafp": {
+        "academic": "The student computes grade-4 operations accurately (92%) but solves only 2/10 multi-step word problems, often choosing the wrong operation or missing relevant information. Math vocabulary and representation (drawing the problem) are areas of need.",
+        "functional": "The student avoids word problems, guesses operations to finish quickly, and needs prompts to slow down and use a strategy.",
+        "impact": "Problem-solving deficits related to the specific learning disability affect access to grade-4 math standards and state assessment performance, requiring strategy instruction and scaffolded problem-solving routines.",
+        "baselines": [
+          {"skill": "Multi-step word problems", "measure": "Grade-4 problem-solving probe", "score": "2/10 correct", "date": "current IEP entry"},
+          {"skill": "Math vocabulary/representation", "measure": "Curriculum vocabulary check", "score": "below average", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Math problem solving",
+          "condition": "Given grade-4 multi-step word problems and a problem-solving checklist (understand, plan, solve, check)",
+          "skill": "identify relevant information, select operations, and solve accurately",
+          "baseline": "2/10 correct",
+          "target": "8/10 correct across 3 of 4 weekly probes",
+          "measurement": "Weekly problem-solving probes scored with rubric",
+          "schedule": "weekly; quarterly reporting"
+        },
+        {
+          "area": "Math vocabulary",
+          "condition": "Given instruction on grade-4 math academic vocabulary",
+          "skill": "use and explain terms accurately in problem contexts",
+          "baseline": "40% on vocabulary check",
+          "target": "85% across 3 consecutive checks",
+          "measurement": "Bi-weekly vocabulary checks; oral explanations",
+          "schedule": "bi-weekly; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks with scored problem-solving probes and vocabulary data.",
+      "special_factor_behavior": null,
+      "services": [
+        {"type": "Special education — math problem solving (SDI)", "frequency": "4x/week", "duration": "40 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Consultation — general education math", "frequency": "Weekly", "duration": "15 minutes", "location": "General education classroom", "provider": "Special education teacher"}
+      ],
+      "supplementary_aids_services": ["Problem-solving checklist and template", "Highlighted key numbers/vocabulary in word problems", "Visual representation practice (bar models, drawings)", "Pre-teaching of math vocabulary before units"],
+      "accommodations": ["Extended time on word-problem tasks and assessments", "Read-aloud of word problems when decoding is not the target", "Chunked problems (one step at a time)", "Use of reference sheet for vocabulary/steps"],
+      "program_modifications": [],
+      "personnel_supports": ["Co-planning time with the grade-4 math teacher", "Training on schema-based instruction and bar modeling"],
+      "lre_statement": "Pull-out SDI provides explicit strategy instruction and guided practice with immediate feedback that cannot be provided in a whole-class pacing; the student participates in all general education math lessons and applies strategies with scaffolds.",
+      "placement": "General education with pull-out resource services (outside regular class less than 21%).",
+      "assessment": "AASA math with extended time, read-aloud of non-math-reasoning items where permitted, and chunking. No alternate assessment.",
+      "esy": "Team considered ESY. No significant regression in problem-solving strategies was documented; parent will receive practice activities. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS 2025", "Missouri DESE SMART Goal rubric", "Missouri DESE PLAAFP rubric"],
+      "notes": "Shows the difference between calculation and problem-solving SLD goals."
+    },
+    {
+      "id": "sld-written-expression-g3",
+      "title": "Grade 3 — SLD, written expression",
+      "fictional": true,
+      "grade": 3,
+      "grade_band": "elementary",
+      "az_category": "Specific Learning Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A third-grade student with strong oral language and story ideas who writes short, incomplete sentences with frequent capitalization, punctuation, and spelling errors; 35% of sentences are complete, and paragraphs lack a topic sentence.",
+      "strengths": ["Vivid oral storytelling", "Strong reading comprehension", "Eager to share ideas aloud"],
+      "parent_concerns": "Parent says the student's writing does not match the stories the student tells at home.",
+      "evaluation_data": [
+        "Written expression: 35% complete sentences on a 20-sentence writing sample",
+        "Paragraph writing: 1/4 on topic-sentence rubric",
+        "Oral language: average to above-average for language structure and vocabulary",
+        "Evaluation team identified a specific learning disability in written expression"
+      ],
+      "plaafp": {
+        "academic": "The student writes 35% complete sentences, omits capitals/end punctuation in 6 of 10 sentences, and produces paragraphs without a clear topic sentence (1/4 on rubric). Oral expression is stronger than written expression.",
+        "functional": "The student rushes written work, erases frequently, and often says they 'don't know what to write' without a graphic organizer.",
+        "impact": "Written-expression deficits related to the specific learning disability limit performance on grade-3 writing standards and across content areas requiring written responses, requiring explicit instruction and scaffolded writing tasks.",
+        "baselines": [
+          {"skill": "Complete sentences", "measure": "20-sentence writing sample", "score": "35% complete", "date": "current IEP entry"},
+          {"skill": "Paragraph with topic sentence", "measure": "Writing rubric", "score": "1/4", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Written expression — sentences",
+          "condition": "Given a sentence-writing task and an editing checklist",
+          "skill": "write complete sentences with correct capitalization and end punctuation",
+          "baseline": "35% complete sentences",
+          "target": "85% complete sentences with correct conventions across 3 consecutive writing samples",
+          "measurement": "Weekly writing samples scored with a conventions checklist",
+          "schedule": "weekly; quarterly reporting"
+        },
+        {
+          "area": "Written expression — paragraph",
+          "condition": "Given a graphic organizer and a topic",
+          "skill": "write a 4–5 sentence paragraph with a topic sentence and supporting details",
+          "baseline": "1/4 on rubric",
+          "target": "3/4 or higher on 3 consecutive paragraphs",
+          "measurement": "District paragraph rubric (topic sentence, details, organization, conventions)",
+          "schedule": "bi-weekly; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks with writing samples and rubric scores.",
+      "special_factor_behavior": "Writing avoidance (putting head down, claiming inability) responds to graphic organizers, oral rehearsal, and chunked tasks; no FBA needed at this time.",
+      "services": [
+        {"type": "Special education — written expression (SDI)", "frequency": "4x/week", "duration": "40 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Supplementary — writing supports in general education", "frequency": "Daily", "duration": "Integrated", "location": "General education classroom", "provider": "General education teacher with SPED consultation"}
+      ],
+      "supplementary_aids_services": ["Graphic organizers and sentence frames", "Oral rehearsal before writing", "Word banks and personal spelling dictionaries", "Editing checklists"],
+      "accommodations": ["Extended time on writing tasks", "Scribing or speech-to-text for content-area writing when conventions are not the target", "Reduced copying; provided notes", "Chunked writing assignments with checkpoints"],
+      "program_modifications": [],
+      "personnel_supports": ["Consultation on scaffolded writing instruction", "Speech-to-text tool setup and training"],
+      "lre_statement": "Pull-out SDI provides explicit sentence and paragraph instruction with immediate feedback; the student writes in general education with organizers and accommodations and participates in all other subjects fully.",
+      "placement": "General education with pull-out resource services (outside regular class less than 21%).",
+      "assessment": "District writing assessments with extended time and use of a graphic organizer; AASA as scheduled with writing accommodations per policy. No alternate assessment.",
+      "esy": "Team considered ESY. Writing conventions showed regression over summer and slow recoupment in the prior year; ESY writing 2x/week for 45 minutes is proposed based on that data. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS 2025", "Missouri DESE SMART Goal rubric", "Missouri DESE PLAAFP rubric"],
+      "notes": "Third example of a writing profile; useful for snippet variants around sentence vs. paragraph goals."
+    },
+    {
+      "id": "sld-mixed-reading-writing-g5",
+      "title": "Grade 5 — SLD, mixed reading and written language",
+      "fictional": true,
+      "grade": 5,
+      "grade_band": "elementary",
+      "az_category": "Specific Learning Disability",
+      "secondary_category": "Speech/Language Impairment",
+      "dyslexia_diagnosis_documented": true,
+      "profile_summary": "A fifth-grade student with dual eligibility (SLD and SLI) who reads multisyllabic words at 55% accuracy and writes disorganized multi-paragraph responses; oral language shows word-finding difficulties.",
+      "strengths": ["Creative ideas and strong engagement in discussion", "Good peer relationships", "Improving with individual check-ins"],
+      "parent_concerns": "Parent is concerned about the student's confidence and the amount of time homework takes.",
+      "evaluation_data": [
+        "Multisyllabic decoding: 55% accuracy",
+        "Reading comprehension: 65% on grade-5 checks",
+        "Written expression: 1.5/4 on district rubric",
+        "Speech-language evaluation documented word-finding and syntax needs; dual eligibility determined"
+      ],
+      "plaafp": {
+        "academic": "The student decodes multisyllabic words at 55% accuracy, comprehends grade-5 text at 65%, and scores 1.5/4 on the district written-expression rubric. Word-finding pauses and syntax errors affect oral and written responses.",
+        "functional": "The student takes longer to formulate answers, loses ideas mid-sentence, and avoids sharing written work; benefits from wait time, sentence starters, and graphic organizers.",
+        "impact": "Mixed reading/writing and language deficits related to the disabilities reduce access to grade-level literacy tasks and require integrated SDI and speech-language services.",
+        "baselines": [
+          {"skill": "Multisyllabic word decoding", "measure": "Decoding inventory", "score": "55% accuracy", "date": "current IEP entry"},
+          {"skill": "Written expression", "measure": "District writing rubric", "score": "1.5/4", "date": "current IEP entry"},
+          {"skill": "Oral language — word finding/syntax", "measure": "Speech-language sample", "score": "below average", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Reading — multisyllabic decoding",
+          "condition": "Given grade-5 multisyllabic words and syllable-division strategies",
+          "skill": "decode using syllable patterns and morphology",
+          "baseline": "55% accuracy",
+          "target": "90% accuracy across 3 consecutive probes",
+          "measurement": "Weekly decoding probes",
+          "schedule": "weekly; quarterly reporting"
+        },
+        {
+          "area": "Written expression",
+          "condition": "Given a planning organizer and word bank",
+          "skill": "write an organized multi-paragraph response with accurate sentence structure",
+          "baseline": "1.5/4 rubric score",
+          "target": "3/4 across 3 consecutive writing samples",
+          "measurement": "District writing rubric",
+          "schedule": "bi-weekly; quarterly reporting"
+        },
+        {
+          "area": "Speech-language — expressive language",
+          "condition": "Given structured speaking tasks and sentence frames",
+          "skill": "use target vocabulary and complete sentences with correct grammar",
+          "baseline": "55% accuracy on language sample targets",
+          "target": "85% accuracy across 3 samples",
+          "measurement": "Language sample analysis; curriculum-based oral tasks",
+          "schedule": "bi-weekly; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks with reading probes, writing rubric scores, and SLP data.",
+      "special_factor_behavior": null,
+      "services": [
+        {"type": "Special education — reading/written language (SDI)", "frequency": "5x/week", "duration": "45 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Related service — speech-language therapy", "frequency": "2x/week", "duration": "30 minutes", "location": "Speech room; some push-in", "provider": "Speech-language pathologist"},
+        {"type": "Consultation — SLP/SPED/general education", "frequency": "Monthly", "duration": "20 minutes", "location": "Team meeting", "provider": "SPED teacher and SLP"}
+      ],
+      "supplementary_aids_services": ["Sentence frames and word banks", "Pre-teaching vocabulary across subjects", "Visual writing organizers", "Wait time and rehearsal before oral responses"],
+      "accommodations": ["Extended time on reading and writing tasks", "Speech-to-text for long writing assignments when spelling/conventions are not the target", "Oral responses when feasible", "Chunked assignments with checkpoints"],
+      "program_modifications": [],
+      "personnel_supports": ["Joint planning time for SPED/SLP strategies", "General education teacher training on wait time and scaffolded language supports"],
+      "lre_statement": "The student receives pull-out SDI and speech-language therapy in small settings because intensive decoding and language intervention require focused practice and immediate feedback. The student is included for all content instruction with integrated language and literacy supports; some SLP sessions are push-in to support carryover.",
+      "placement": "General education with pull-out resource and speech services (outside regular class less than 21% when combined).",
+      "assessment": "AASA and district assessments with extended time, chunking, and permitted language supports. Alternate assessment criteria not met.",
+      "esy": "Team considered ESY. The student showed substantial regression/recoupment concerns in decoding and language after the prior summer; ESY combined reading/language sessions 3x/week for 45 minutes are proposed. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS 2025", "AZ-TAS Speech-Language Services (2023)", "ADE Dyslexia Handbook", "Missouri DESE rubrics"],
+      "notes": "Demonstrates dual eligibility and integrated services; useful for the tool's service-grid validation."
+    },
+    {
+      "id": "sld-oral-language-g2",
+      "title": "Grade 2 — SLD, oral language/listening comprehension",
+      "fictional": true,
+      "grade": 2,
+      "grade_band": "elementary",
+      "az_category": "Specific Learning Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A second-grade student who follows single-step directions but struggles with multi-step directions and retelling stories, scoring 40% on listening tasks and 2/5 on story retell.",
+      "strengths": ["Friendly and attentive one-on-one", "Strong decoding for grade level", "Good with visual tasks"],
+      "parent_concerns": "Parent notices the student does not remember directions at home and asks for repetition constantly.",
+      "evaluation_data": [
+        "Listening comprehension: 40% on grade-2 tasks",
+        "Multi-step directions: follows 1/5 three-step directions",
+        "Story retell: 2/5 story elements",
+        "SLD eligibility determined in the area of oral expression/listening comprehension"
+      ],
+      "plaafp": {
+        "academic": "The student follows one-step directions but completes only 1/5 three-step directions and includes 2/5 story elements in retell. Decoding is on grade level; listening comprehension is the primary weakness.",
+        "functional": "The student relies on peers to clarify directions, needs frequent repetition, and can appear off-task during oral instruction.",
+        "impact": "Listening-comprehension and oral-language deficits related to the specific learning disability affect access to oral instruction across all subjects, requiring repetition, visual supports, and explicit listening-strategy instruction.",
+        "baselines": [
+          {"skill": "Multi-step directions", "measure": "Teacher-recorded trials", "score": "1/5 correct", "date": "current IEP entry"},
+          {"skill": "Story retell", "measure": "Retell rubric", "score": "2/5 elements", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Listening comprehension",
+          "condition": "Given oral two- and three-step directions with visual cues",
+          "skill": "follow directions accurately",
+          "baseline": "1/5 correct",
+          "target": "4/5 correct across 3 consecutive days",
+          "measurement": "Daily teacher tallies",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        },
+        {
+          "area": "Oral language — retell",
+          "condition": "Given a grade-2 story read aloud and a retell graphic organizer",
+          "skill": "retell with characters, setting, problem, events, and solution",
+          "baseline": "2/5 elements",
+          "target": "4/5 elements across 3 consecutive retells",
+          "measurement": "Story retell rubric",
+          "schedule": "bi-weekly; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks with listening-task data and retell rubrics.",
+      "special_factor_behavior": "The student may appear inattentive due to listening demands; visual supports and repetition are used. No behavioral concern requiring an FBA at this time.",
+      "services": [
+        {"type": "Special education — oral language/listening comprehension (SDI)", "frequency": "4x/week", "duration": "30 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Supplementary — listening supports in general education", "frequency": "Daily", "duration": "Integrated", "location": "General education classroom", "provider": "General education teacher with SPED consultation"}
+      ],
+      "supplementary_aids_services": ["Visual schedules and picture cues for directions", "Preferential seating near the teacher", "Directions repeated and chunked", "Peer buddy for clarification (without dependence)"],
+      "accommodations": ["Simplified/repeated directions", "Visual supports on tasks", "Extended time to process and respond", "Check for understanding after directions"],
+      "program_modifications": [],
+      "personnel_supports": ["Consultation on oral-language scaffolds", "Microphone/amplification check if needed"],
+      "lre_statement": "Pull-out SDI provides focused listening and retell practice in a quiet setting; the student is fully included otherwise with visual and repetition supports so access to oral instruction is maintained.",
+      "placement": "General education with pull-out resource services (outside regular class less than 21%).",
+      "assessment": "District assessments with directions read aloud, repeated, and visually supported; AASA as scheduled. No alternate assessment.",
+      "esy": "Team considered ESY. No documented regression in listening skills; parents will receive summer language activities. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS 2025", "AZ-TAS Speech-Language Services (2023)", "Missouri DESE SMART Goal rubric"],
+      "notes": "Useful contrast with SLI eligibility; the tool should ask whether the need is better served under SLD or SLI."
+    }
+  ]
+}

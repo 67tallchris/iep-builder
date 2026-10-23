@@ -1,0 +1,43 @@
+ESS Data Management
+AzEDS SPED Reporting
+          Concurrent Need and Least Restrictive Environment (LRE) Code Eligibility
+                                      Grades K–12
+     LRE
+                   A     DD     ED    EDP     HI    MD    MDSSI   MIID   MOID   OHI    OI   PSD    SID    SLD    SLI    TBI     VI
+     Code
+       A           yes   yes    yes    no    yes    yes    yes    yes    yes    yes   yes    no     yes   yes    yes    yes   yes
+       B           yes   yes    yes    no    yes    yes    yes    yes    yes    yes   yes    no     yes   yes    yes    yes   yes
+       C           yes   yes    yes    yes   yes    yes    yes    yes    yes    yes   yes    no     yes   yes    yes    yes   yes
+       D           yes   yes    yes    yes   yes    yes    yes    yes    yes    yes   yes    no     yes   yes    yes    yes   yes
+       E           yes   yes    no     yes   yes    yes    yes    yes    yes    yes   yes    no     yes   yes    yes    yes   yes
+      ES           yes   yes    yes    yes   yes    yes    yes    yes    yes    yes   yes    no     yes   yes    yes    yes   yes
+      FA           yes   yes    yes    no    yes    yes    yes    yes    yes    yes   yes    no     yes   yes    yes    yes   yes
+      FB           yes   yes    yes    no    yes    yes    yes    yes    yes    yes   yes    no     yes   yes    yes    yes   yes
+      FC           yes   yes    yes    no    yes    yes    yes    yes    yes    yes   yes    no     yes   yes    yes    yes   yes
+       H           yes   yes    yes    no    yes    yes    yes    yes    yes    yes   yes    no     yes   yes    yes    yes   yes
+       I*          yes   no     no     no    no     yes    no     no     no     no    yes    no     yes   no     no     no    no
+       J           yes   yes    yes    no    yes    yes    yes    yes    yes    yes   yes    no     yes   yes    yes    yes   yes
+      L**          yes   no     no     no    yes    yes    yes    no     yes    no    yes    no     yes   no     no     no    yes
+*Other need codes must be reported with LRE code I if student is also A, MD, OI, SID (EDP cannot be reported with LRE code I)
+**LRE code L cannot be reported for PS or UE and need codes reported with LRE code L must be marked Ancillary
+                                                          Preschool
+     LRE
+                   A     DD     ED    EDP     HI    MD    MDSSI   MIID   MOID   OHI    OI   PSD    SID    SLD    SLI    TBI     VI
+     Code
+     PA1           yes   yes*   yes    no    yes*   yes    yes    yes    yes    yes   yes   yes*    yes   yes    yes*   yes   yes*
+     PA2           yes   yes*   yes    no    yes*   yes    yes    yes    yes    yes   yes   yes*    yes   yes    yes*   yes   yes*
+     PB1           yes   yes*   yes    no    yes*   yes    yes    yes    yes    yes   yes   yes*    yes   yes    yes*   yes   yes*
+     PB2           yes   yes*   yes    no    yes*   yes    yes    yes    yes    yes   yes   yes*    yes   yes    yes*   yes   yes*
+      PD           yes   yes*   yes    no    yes*   yes    yes    yes    yes    yes   yes   yes*    yes   yes    yes*   yes   yes*
+      PE           yes   yes*   yes    no    yes*   yes    yes    yes    yes    yes   yes   yes*    yes   yes    yes*   yes   yes*
+      PG           yes   yes*   yes    no    yes*   yes    yes    yes    yes    yes   yes   yes*    yes   yes    yes*   yes   yes*
+     PH1           yes   yes*   yes    no    yes*   yes    yes    yes    yes    yes   yes   yes*    yes   yes    yes*   yes   yes*
+     PH2           yes   yes*   yes    no    yes*   yes    yes    yes    yes    yes   yes   yes*    yes   yes    yes*   yes   yes*
+      PS           yes   yes*   yes    no    yes*   yes    yes    yes    yes    yes   yes   yes*    yes   yes    yes*   yes   yes*
+*Need codes DD, HI, PSD, SLI, and VI only are state-funded for preschool; all allowable needs are federally funded
+
+
+
+
+                                                                                                            Last Updated: December 2023
+

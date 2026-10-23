@@ -1,0 +1,476 @@
+{
+  "schema_version": "1.0",
+  "set": "Behavior — elementary (ED, OHI/ADHD)",
+  "disclaimer": "Fictional synthetic exemplars for drafting practice only. No real student data. Not legal advice.",
+  "exemplars": [
+    {
+      "id": "ed-anxiety-g4",
+      "title": "Grade 4 — Emotional Disability (anxiety), school-avoidance behaviors",
+      "fictional": true,
+      "grade": 4,
+      "grade_band": "elementary",
+      "az_category": "Emotional Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A fourth-grade student with an anxiety disorder whose worry about performance leads to frequent nurse visits (3–4/day), crying before tests, and incomplete work; academic skills are grade-level when calm.",
+      "strengths": ["Strong academic skills when regulated", "Kind and well-liked by peers", "Responsive to predictable routines and advance notice"],
+      "parent_concerns": "Parent reports morning stomachaches and asks for a plan that keeps the student in class rather than sending them to the nurse.",
+      "evaluation_data": [
+        "Behavior rating scales completed by parent and teacher elevated for anxiety across home and school",
+        "Observation: 3–4 nurse requests/day, task avoidance during timed work, reassurance-seeking",
+        "Academic screening: grade-level reading and math when work is completed",
+        "Team determined adverse educational impact and ED eligibility; not social maladjustment"
+      ],
+      "plaafp": {
+        "academic": "The student completes grade-level work when anxiety is managed, but turns in only 55% of assignments and has not completed a timed assessment without distress in 6 weeks. Performance is inconsistent rather than skill-based.",
+        "functional": "The student requests the nurse 3–4 times daily, cries before tests, and seeks repeated reassurance; avoids new or timed tasks. Symptoms occur across classroom, specials, and testing settings.",
+        "impact": "Anxiety-related behaviors interfere with the student's ability to access instruction and demonstrate learning, requiring a behavior support plan, counseling, and consistent adult responses that return the student to class.",
+        "baselines": [
+          {"skill": "Class time retained", "measure": "Daily minutes out of class/nurse visits", "score": "35 minutes out of class/day; 3–4 nurse visits", "date": "current IEP entry"},
+          {"skill": "Work completion", "measure": "Assignment log", "score": "55%", "date": "current IEP entry"},
+          {"skill": "Coping strategy use", "measure": "Teacher tally", "score": "1/10 anxious moments", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Behavior — coping and class retention",
+          "condition": "When worried or anxious about work, tests, or changes in routine",
+          "skill": "use a taught coping strategy (calm breathing, self-talk, break card) and remain in class",
+          "baseline": "1/10 anxious moments; 35 min/day out of class",
+          "target": "8/10 anxious moments using a coping strategy with no more than 1 nurse visit/day across 4 consecutive weeks",
+          "measurement": "Daily teacher/support-staff tally; nurse log",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        },
+        {
+          "area": "Work completion",
+          "condition": "Given chunked assignments and a work-completion checklist",
+          "skill": "complete assigned work within the class period",
+          "baseline": "55% completion",
+          "target": "90% completion across 4 consecutive weeks",
+          "measurement": "Assignment log and teacher records",
+          "schedule": "weekly; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks with nurse-log and work-completion data; weekly parent updates while the plan is new.",
+      "special_factor_behavior": "Behavior impedes learning; positive behavior interventions, counseling, and progress monitoring are required (see behavior support plan).",
+      "services": [
+        {"type": "Related service — counseling (individual)", "frequency": "1x/week", "duration": "30 minutes", "location": "Counselor's office", "provider": "School counselor"},
+        {"type": "Special education — check-in/check-out support", "frequency": "Daily", "duration": "10 minutes each AM/PM", "location": "General education classroom", "provider": "Designated staff mentor"},
+        {"type": "Consultation — teacher team", "frequency": "Bi-weekly", "duration": "20 minutes", "location": "Team meeting", "provider": "School psychologist/counselor"}
+      ],
+      "supplementary_aids_services": ["Predictable daily schedule posted and previewed", "Advance notice of tests and changes", "Chunked assignments with a visible checklist", "Access to a quiet reset area for 5 minutes with a pass", "Check-in with a preferred adult before tests"],
+      "accommodations": ["Extended time on tests and assignments", "Testing in a small-group or familiar setting", "Reduced number of items while preserving skill coverage", "Option to verbalize knowledge before writing"],
+      "program_modifications": [],
+      "personnel_supports": ["Staff training on anxiety response protocol and how to avoid reinforcing avoidance", "Nurse/office protocol to return the student to class with a coping plan"],
+      "lre_statement": "The student participates in general education for the full day except brief counseling and scheduled breaks. Removing the student from class in response to worry would reinforce avoidance; supports are delivered in the classroom to maintain access to grade-level instruction.",
+      "placement": "General education with related-service counseling and in-class behavior supports (outside regular class less than 21%).",
+      "assessment": "AASA and district assessments with extended time, small-group setting, and test previews. No alternate assessment.",
+      "esy": "Team considered ESY. The student showed regression in coping routines and work completion over the prior summer; ESY is not recommended as the primary need is continued anxiety treatment. Team will reconsider with spring data. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": {
+        "target_behavior_operational": "Requests to leave class for the nurse or office, crying, and task refusal during timed or novel work.",
+        "baseline": "3–4 nurse visits/day; 35 minutes out of class; 1/10 coping-strategy use.",
+        "hypothesized_function": "Escape/avoidance of anxiety-provoking performance tasks, with reassurance-seeking maintained by adult attention.",
+        "antecedent_strategies": ["Preview schedule and tests the day before", "Chunked work with checkpoints", "Preferred adult check-in before anxiety-provoking tasks", "Quiet reset pass available without leaving the classroom"],
+        "replacement_behaviors_taught": ["Calm-breathing routine", "Positive self-talk script", "Request a 2-minute break in the classroom", "Ask for help using a help card"],
+        "consequence_strategies": ["Specific praise for using a coping strategy", "Brief check-in after work is attempted, not before", "Nurse visits return to class as soon as coping plan is practiced", "No removal of the academic task following anxiety behavior (avoid reinforcing escape)"],
+        "crisis_plan": "If distress escalates, use calm voice, offer choice of reset location, contact counselor; if there is risk of harm, follow district crisis protocol and notify the guardian.",
+        "progress_monitoring": "Daily tally of coping-strategy use, nurse visits, and class time retained; weekly review with the student and teacher.",
+        "staff_responsibilities": ["Teacher: implement antecedent supports and praise coping", "Counselor: teach/practice coping strategies weekly", "Office/nurse: use return-to-class protocol", "Case manager: compile data for quarterly reports"]
+      },
+      "source_lineage": ["AZ-TAS 2025 special factors and behavior guidance", "PBIS Basic FBA to BSP (function-based planning)", "PBIS Tier 3 Brief FBA Guide"],
+      "notes": "Shows anxiety-driven avoidance with an in-class support emphasis rather than removal."
+    },
+    {
+      "id": "ed-disruptive-behavior-g2",
+      "title": "Grade 2 — Emotional Disability, disruptive behavior and work refusal (FBA + BIP)",
+      "fictional": true,
+      "grade": 2,
+      "grade_band": "elementary",
+      "az_category": "Emotional Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A second-grade student who calls out 10–14 times per 30-minute lesson and refuses reading/writing work 2–3 times per day; an FBA identified attention and escape from difficult tasks as functions.",
+      "strengths": ["Energetic and creative", "Enjoys hands-on math and science", "Responds well to humor and positive attention"],
+      "parent_concerns": "Parent receives daily behavior notes and wants a consistent plan that focuses on success, not punishment.",
+      "evaluation_data": [
+        "FBA: ABC observations across reading, math, and recess; teacher/parent interviews",
+        "Pattern: call-outs most frequent during independent writing and when the teacher is working with other students",
+        "Rating scales elevated for attention problems and oppositional behaviors across settings",
+        "Team determined ED eligibility based on the pattern, intensity, and adverse educational impact"
+      ],
+      "plaafp": {
+        "academic": "The student performs at grade level in math when engaged but completes only 50% of reading/writing work. Call-outs disrupt instruction 10–14 times per 30-minute block; work refusal occurs 2–3 times daily.",
+        "functional": "The student seeks adult/peer attention and escapes difficult or effortful tasks by calling out or pushing materials away. Behavior occurs across classroom and specials settings.",
+        "impact": "Disruptive and refusal behaviors interfere with the student's learning and that of classmates, requiring a function-based behavior support plan, explicit replacement-skill instruction, and structured attention.",
+        "baselines": [
+          {"skill": "Call-outs during instruction", "measure": "Frequency count", "score": "10–14 per 30 minutes", "date": "current IEP entry"},
+          {"skill": "Work refusal", "measure": "Daily tally", "score": "2–3 per day", "date": "current IEP entry"},
+          {"skill": "Work completion", "measure": "Assignment log", "score": "50%", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Behavior — disrupting class",
+          "condition": "During whole-group and independent instruction",
+          "skill": "raise a quiet hand and wait to be called on instead of calling out",
+          "baseline": "10–14 call-outs per 30 minutes",
+          "target": "0–2 call-outs per 30 minutes and appropriate hand-raising in 8/10 opportunities across 4 consecutive weeks",
+          "measurement": "Daily frequency count by teacher",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        },
+        {
+          "area": "Behavior — work completion/refusal",
+          "condition": "Given a chunked assignment and a first-then routine",
+          "skill": "begin the first chunk within 2 minutes and complete the assigned work",
+          "baseline": "2–3 refusals/day; 50% completion",
+          "target": "1 or fewer refusals/day and 85% work completion across 4 consecutive weeks",
+          "measurement": "Daily tally and assignment log",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks; daily behavior report card sent home while the plan is new, then weekly.",
+      "special_factor_behavior": "Behavior impedes learning and the learning of others; FBA completed and BIP included (see behavior support plan).",
+      "services": [
+        {"type": "Special education — behavior/SEL skills instruction (SDI)", "frequency": "3x/week", "duration": "20 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Special education — academic support in reading/writing", "frequency": "4x/week", "duration": "30 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Behavior consultation", "frequency": "Weekly", "duration": "20 minutes", "location": "Classroom observation/team meeting", "provider": "Behavior specialist"}
+      ],
+      "supplementary_aids_services": ["First-then visual and chunked work", "Classroom jobs and scheduled positive attention", "Break card with a 2-minute timer", "Preferential seating near the teacher", "Token board with a classroom reinforcement menu"],
+      "accommodations": ["Extended time on tasks", "Reduced writing demands when handwriting is not the target", "Oral responses", "Check for understanding before independent work begins"],
+      "program_modifications": [],
+      "personnel_supports": ["Teacher training on planned ignoring of minor call-outs and praise ratio", "Behavior specialist modeling and feedback", "Consistent language script across all staff"],
+      "lre_statement": "The student remains in general education for core instruction with a behavior support plan. Pull-out time is used for explicit SEL/behavior instruction and academic support; removing the student from class as a consequence would reinforce escape and is not used except for imminent safety.",
+      "placement": "General education with pull-out resource services (outside regular class less than 21%).",
+      "assessment": "District assessments with extended time, chunking, and frequent breaks; AASA as scheduled with permitted accommodations. No alternate assessment.",
+      "esy": "Team considered ESY. The student showed significant regression in replacement behaviors over the prior summer with slow recoupment; ESY behavior/SEL instruction 2x/week for 30 minutes plus academic maintenance is recommended. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": {
+        "target_behavior_operational": "Calling out without raising a hand; pushing materials off the desk or refusing to begin work for more than 2 minutes after directions.",
+        "baseline": "10–14 call-outs per 30-minute lesson; 2–3 refusals/day; 50% work completion.",
+        "hypothesized_function": "Access to adult/peer attention and escape from difficult or effortful tasks.",
+        "antecedent_strategies": ["Pre-teach vocabulary and chunk work into 2–3 small steps", "First-then visual with a preferred activity after the chunk", "Scheduled 1:1 attention at the start of independent work", "Movement job between subjects", "Seat near a positive peer model"],
+        "replacement_behaviors_taught": ["Raise a quiet hand and wait 3 seconds", "Ask for help with a help card", "Request a 2-minute break using the break card", "Self-check work with a checklist"],
+        "consequence_strategies": ["Immediate specific praise for hand-raising and starting work", "Token earned for replacement behavior; menu of reinforcers", "Brief, neutral redirection for call-outs; avoid a public power struggle", "Task remains available after a reset; task is not removed permanently"],
+        "crisis_plan": "If behavior escalates to unsafe levels, use de-escalation script, clear peers, offer choice of reset locations; restraint/seclusion only if imminent danger and less restrictive options insufficient, with same-day parent notice per A.R.S. §15-105.",
+        "progress_monitoring": "Daily frequency/refusal tallies and completion data; weekly graph review with the student; team review monthly.",
+        "staff_responsibilities": ["Teacher: deliver antecedent supports and data collection", "SPED teacher: teach replacement skills and review data", "Behavior specialist: coach fidelity and adjust plan", "Case manager: communicate with family weekly"]
+      },
+      "source_lineage": ["AZ-TAS 2025 behavior special factor", "PBIS Basic FBA to BSP Trainer's Manual", "A.R.S. §15-105"],
+      "notes": "Fully worked FBA→BIP example for mild/moderate disruptive behavior."
+    },
+    {
+      "id": "ed-aggression-g5",
+      "title": "Grade 5 — Emotional Disability, aggression and crisis planning (FBA + BIP)",
+      "fictional": true,
+      "grade": 5,
+      "grade_band": "elementary",
+      "az_category": "Emotional Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A fifth-grade student who pushes peers or throws materials 3–4 times per week, usually during transitions or when asked to stop a preferred activity; escalation pattern is predictable across a 4-stage cycle.",
+      "strengths": ["Strong leadership skills", "Protective of younger students", "Engages deeply with hands-on projects"],
+      "parent_concerns": "Parent is worried about suspension and wants staff to use a plan that prevents escalation instead of punishment after the fact.",
+      "evaluation_data": [
+        "FBA: direct observations during transitions, unstructured time, and academic demands; teacher and parent interviews",
+        "Pattern: escalation begins with pacing/arguing, escalates to verbal threats, then physical behavior when demands continue",
+        "Rating scales elevated for conduct problems and emotional dysregulation across home and school",
+        "ED eligibility determined; no cognitive or academic disability identified"
+      ],
+      "plaafp": {
+        "academic": "The student performs near grade level when regulated but loses instructional time following incidents (average 3–4 per week), affecting progress in all subjects.",
+        "functional": "The student struggles to manage frustration during transitions and when preferred activities end; uses aggression or property destruction instead of requesting a break or accepting no.",
+        "impact": "Emotional dysregulation and aggression interfere with the student's learning, peer safety, and access to the general curriculum, requiring a function-based behavior plan, crisis protocol, and explicit coping instruction.",
+        "baselines": [
+          {"skill": "Physical aggression incidents", "measure": "Incident log", "score": "3–4 per week", "date": "current IEP entry"},
+          {"skill": "De-escalation strategy use", "measure": "Staff tally", "score": "1/10 frustration events", "date": "current IEP entry"},
+          {"skill": "Transition success", "measure": "Transition checklist", "score": "5/10 transitions without incident", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Behavior — emotional regulation",
+          "condition": "When frustrated during transitions, ending preferred activities, or academic demands",
+          "skill": "use a taught de-escalation strategy (signal, take a break, use calming routine) without aggression",
+          "baseline": "1/10 events; 3–4 incidents/week",
+          "target": "8/10 events using a strategy and 0–1 physical incidents per month across 6 consecutive weeks",
+          "measurement": "Incident log and staff tallies",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        },
+        {
+          "area": "Behavior — transitions and accepting no",
+          "condition": "Given a 2-minute warning and a transition routine",
+          "skill": "transition successfully and accept 'no' or a delay without escalation",
+          "baseline": "5/10 transitions",
+          "target": "9/10 transitions across 4 consecutive weeks",
+          "measurement": "Transition checklist completed by staff",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks; weekly check-in with family while incidents are above baseline.",
+      "special_factor_behavior": "Behavior impedes learning and poses safety concerns; FBA and BIP completed, including a crisis plan with restraint/seclusion protocols under A.R.S. §15-105.",
+      "services": [
+        {"type": "Related service — counseling (individual)", "frequency": "1x/week", "duration": "30 minutes", "location": "Counselor's office", "provider": "School counselor"},
+        {"type": "Special education — SEL/regulation skills (SDI)", "frequency": "3x/week", "duration": "25 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Behavior consultation", "frequency": "Weekly", "duration": "30 minutes", "location": "Classroom/team meeting", "provider": "Behavior specialist"}
+      ],
+      "supplementary_aids_services": ["2-minute transition warnings with a visual timer", "Choice board of calming activities", "Designated safe space in the classroom", "Check-in/check-out with a trusted adult", "Structured recess/transition routines with adult proximity"],
+      "accommodations": ["Frequent breaks during long tasks", "Extended time and chunked assignments", "Alternative location for tests if needed", "Opportunity to cool down before processing an incident"],
+      "program_modifications": [],
+      "personnel_supports": ["Restraint/seclusion training for designated staff (A.R.S. §15-105)", "De-escalation and crisis-script training for all staff working with the student", "Weekly behavior-specialist coaching"],
+      "lre_statement": "The student remains in general education with behavior supports and a crisis plan. Brief pull-out sessions teach regulation skills; the team avoids exclusionary responses to behavior because they reinforce escape and increase future incidents. Removal occurs only for imminent safety, with return to class as soon as possible.",
+      "placement": "General education with pull-out resource services and related-service counseling (outside regular class less than 21%).",
+      "assessment": "AASA and district assessments with extended time, frequent breaks, small-group setting, and crisis supports available. No alternate assessment.",
+      "esy": "Team considered ESY. The student has shown severe regression in regulation skills over summer with slow recoupment and is at a critical transition point to middle school; ESY behavior/SEL programming 3x/week for 30 minutes with a transition component is recommended. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": {
+        "target_behavior_operational": "Physical aggression (pushing, hitting), throwing materials, and verbal threats during transitions or when preferred activities end.",
+        "baseline": "3–4 incidents/week; 5/10 successful transitions; 1/10 strategy use.",
+        "hypothesized_function": "Escape/avoidance of non-preferred demands and transitions; access to preferred activity/control.",
+        "antecedent_strategies": ["2-minute warnings and visual timers before transitions", "First-then schedule with preferred activity earned", "Offer acceptable choices to increase control", "Adult proximity during known trigger times (hallway, recess end)", "Pre-teach and rehearse transition routine"],
+        "replacement_behaviors_taught": ["Use the 'break' signal and take a 2-minute regulated break", "Use a calming routine (breathing, wall push, drink of water)", "Ask for help or negotiate a delay appropriately", "Use an 'I feel' statement instead of threats"],
+        "consequence_strategies": ["Reinforce replacement behavior immediately with praise and access to the earned activity", "Neutral, brief redirection; avoid power struggles", "After an incident, complete a processing sheet once calm (restorative conversation)", "Consistent consequences for aggression per district code, paired with teaching, not exclusion alone"],
+        "crisis_plan": "Stages: (1) pacing/arguing — offer break and reduce demands; (2) verbal threats — clear space, use calm short phrases, call for crisis-trained staff; (3) physical behavior — ensure peer safety, follow district crisis protocol; restraint/seclusion only if imminent danger and less restrictive interventions insufficient, with continuous monitoring, immediate end when danger passes, and same-day parent notice (within 24 hours if needed) plus written documentation per A.R.S. §15-105. Any repeated use triggers a team review including whether the FBA/BIP needs revision.",
+        "progress_monitoring": "Daily incident log (frequency, duration, antecedents, staff response), transition checklist, weekly graph review with the student and team.",
+        "staff_responsibilities": ["Teacher: transitions, warnings, data", "Crisis-trained staff: de-escalation and safety", "Counselor: weekly skill practice and processing", "Behavior specialist: fidelity checks and plan revisions", "Case manager: parent communication and documentation"]
+      },
+      "source_lineage": ["AZ-TAS 2025 behavior special factor", "PBIS Basic FBA to BSP Trainer's Manual", "A.R.S. §15-105 restraint/seclusion", "PBIS Tier 3 Brief FBA Guide"],
+      "notes": "Shows crisis planning and Arizona restraint/seclusion documentation requirements; also demonstrates 'accepting no' goal writing."
+    },
+    {
+      "id": "ohi-adhd-inattention-g3",
+      "title": "Grade 3 — OHI/ADHD, inattention and off-task behavior (BIP)",
+      "fictional": true,
+      "grade": 3,
+      "grade_band": "elementary",
+      "az_category": "Other Health Impairment",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A third-grade student with ADHD who is on task for an average of 11 minutes of a 30-minute independent work block, loses materials, and blurts answers; academic skills are grade level when work is completed.",
+      "strengths": ["Quick to grasp new concepts", "Creative and energetic", "Thrives with movement and hands-on tasks"],
+      "parent_concerns": "Parent asks that the teacher use movement and frequent feedback rather than repeated reprimands.",
+      "evaluation_data": [
+        "Medical diagnosis of ADHD documented by a physician",
+        "Teacher/parent rating scales elevated for inattention and hyperactivity across settings",
+        "Observation: on task 11 of 30 minutes during independent work; blurting 8–10 times per lesson",
+        "OHI eligibility determined; adverse educational impact documented"
+      ],
+      "plaafp": {
+        "academic": "The student performs at grade level in reading and math when work is completed, but completes only 60% of independent work. Off-task behavior averages 19 minutes per 30-minute block; assignment materials are lost 2–3 times per week.",
+        "functional": "Sustained attention, impulse control, and organization are the primary needs. The student benefits from movement, chunked tasks, timers, and immediate feedback.",
+        "impact": "ADHD-related inattention and impulsivity interfere with independent work production and classroom participation, requiring behavior supports, SDI in organization/attention strategies, and accommodations.",
+        "baselines": [
+          {"skill": "Time on task", "measure": "Interval observation", "score": "11 of 30 minutes", "date": "current IEP entry"},
+          {"skill": "Blurting answers", "measure": "Frequency count", "score": "8–10 per lesson", "date": "current IEP entry"},
+          {"skill": "Work completion", "measure": "Assignment log", "score": "60%", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Behavior — sustained attention",
+          "condition": "During a 30-minute independent work block with chunked tasks, a timer, and scheduled breaks",
+          "skill": "remain on task and complete chunks",
+          "baseline": "11 of 30 minutes on task; 60% completion",
+          "target": "25 of 30 minutes on task and 90% completion across 4 of 5 days for 4 consecutive weeks",
+          "measurement": "Interval observation twice weekly; daily assignment log",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        },
+        {
+          "area": "Behavior — impulse control",
+          "condition": "During whole-group instruction",
+          "skill": "use a waiting strategy (write it down, hold-up signal) instead of blurting",
+          "baseline": "8–10 blurts per lesson",
+          "target": "0–2 blurts per lesson across 4 consecutive weeks",
+          "measurement": "Daily frequency count",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks; weekly progress note home while the plan is new.",
+      "special_factor_behavior": "Behavior impedes learning; a function-based behavior support plan is included, emphasizing antecedent supports and self-monitoring rather than consequences.",
+      "services": [
+        {"type": "Special education — attention/organization strategies (SDI)", "frequency": "3x/week", "duration": "25 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Special education — academic support (reading/math)", "frequency": "3x/week", "duration": "30 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Consultation — general education teacher", "frequency": "Weekly", "duration": "15 minutes", "location": "Classroom", "provider": "Special education teacher"}
+      ],
+      "supplementary_aids_services": ["Chunked assignments with a visual timer", "Movement breaks every 10–12 minutes", "Fidget/movement tool that does not distract peers", "Preferential seating near instruction", "Self-monitoring checklist and daily goal card"],
+      "accommodations": ["Extended time on assignments and assessments", "Frequent breaks during testing", "Reduced copying; printed notes", "Directions repeated/checked for understanding", "Testing in a low-distraction setting"],
+      "program_modifications": [],
+      "personnel_supports": ["Teacher training on ADHD-friendly instruction and positive redirection", "Student self-monitoring coaching", "Home-school daily communication protocol"],
+      "lre_statement": "The student is educated in general education for the full day with in-class behavior supports and pull-out SDI for attention/organization skills. Pull-out is needed to teach self-monitoring skills with immediate feedback; behavior supports are delivered in the classroom so the student is not removed as a consequence.",
+      "placement": "General education with pull-out resource services (outside regular class less than 21%).",
+      "assessment": "AASA and district assessments with extended time, frequent breaks, low-distraction setting, and chunking. No alternate assessment.",
+      "esy": "Team considered ESY. The student regressed over the prior summer in reading fluency and work habits with slow recoupment; ESY academic and attention-strategy sessions 2x/week for 30 minutes are recommended. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": {
+        "target_behavior_operational": "Off-task behavior (looking away, playing with objects, leaving seat) during independent work; blurting answers without raising a hand.",
+        "baseline": "11 of 30 minutes on task; 8–10 blurts per lesson; 60% work completion.",
+        "hypothesized_function": "Escape from sustained effort/attention demands; stimulation needs; occasional attention from peers.",
+        "antecedent_strategies": ["Chunk work with a visual timer (5–7 minute chunks)", "Movement break between chunks", "Preferential seating and eye contact before directions", "Choice of task order", "Fidget tool and standing option"],
+        "replacement_behaviors_taught": ["Self-monitoring: check the timer and mark the checklist", "Write down the idea instead of blurting; use a hand signal for urgent questions", "Request a movement break with a break card"],
+        "consequence_strategies": ["Specific praise and points for on-task intervals and hand-raising", "Reinforcement menu with movement-based rewards", "Neutral redirection back to the chunk; avoid long verbal reprimands", "If work is incomplete, use a scheduled completion time rather than removing recess as a first response"],
+        "crisis_plan": "No safety concerns; if escalation occurs, provide a movement break and check-in with a trusted adult.",
+        "progress_monitoring": "Daily work log, twice-weekly interval observations, and blurting counts; weekly review with the student; monthly team review.",
+        "staff_responsibilities": ["Teacher: timers, chunks, data", "SPED teacher: teach self-monitoring and review data", "Family: daily goal-card review and return"]
+      },
+      "source_lineage": ["AZ-TAS 2025 behavior special factor and OHI framing", "PBIS Basic FBA to BSP antecedent strategies", "ADE MTBS training"],
+      "notes": "Shows ADHD-focused antecedent supports rather than punishment; includes a medical diagnosis as part of OHI evaluation data."
+    },
+    {
+      "id": "ohi-adhd-executive-function-g5",
+      "title": "Grade 5 — OHI/ADHD, executive function and organization",
+      "fictional": true,
+      "grade": 5,
+      "grade_band": "elementary",
+      "az_category": "Other Health Impairment",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A fifth-grade student with ADHD who understands grade-level content but loses homework, forgets materials, and rushes work, resulting in 55% assignment completion despite accurate in-class performance.",
+      "strengths": ["Strong verbal skills and class participation", "Performs well on work completed in class", "Motivated by checklists and earning responsibility"],
+      "parent_concerns": "Parent says mornings and homework are a daily battle over forgotten materials and lost assignments.",
+      "evaluation_data": [
+        "Medical diagnosis of ADHD",
+        "Teacher/parent rating scales elevated for inattention and organizational problems",
+        "Gradebook audit: 55% assignment completion with high accuracy on submitted work",
+        "OHI eligibility determined; needs are executive-function related"
+      ],
+      "plaafp": {
+        "academic": "Submitted work is accurate and at grade level, but only 55% is turned in; the student often completes homework and forgets to submit it. Test grades are lower than daily work due to rushed preparation.",
+        "functional": "The student lacks a consistent system for tracking assignments, managing materials, and planning multi-day tasks; benefits from checklists, digital reminders, and adult check-ins.",
+        "impact": "ADHD-related executive-function needs interfere with demonstrating learning across all subjects and require explicit organization instruction, accommodations, and a functional goal.",
+        "baselines": [
+          {"skill": "Assignment completion/submission", "measure": "Weekly gradebook audit", "score": "55%", "date": "current IEP entry"},
+          {"skill": "Materials prepared", "measure": "Daily check", "score": "3/5 days", "date": "current IEP entry"},
+          {"skill": "Multi-day task planning", "measure": "Project checkpoints met", "score": "1/4 checkpoints", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Executive function — organization and completion",
+          "condition": "Given a planner, digital assignment list, and daily check-ins",
+          "skill": "record, organize, and submit assignments on time",
+          "baseline": "55% completion; 3/5 prepared days",
+          "target": "90% completion and 5/5 prepared days across 4 consecutive weeks",
+          "measurement": "Gradebook audit and daily check",
+          "schedule": "weekly; quarterly reporting"
+        },
+        {
+          "area": "Executive function — planning multi-day tasks",
+          "condition": "Given a project checklist with interim due dates",
+          "skill": "plan and complete checkpoints on time",
+          "baseline": "1/4 checkpoints met",
+          "target": "4/4 checkpoints met on 3 consecutive projects",
+          "measurement": "Checkpoint tracking form",
+          "schedule": "per project; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks with gradebook and checkpoint data; weekly planner check sent home.",
+      "special_factor_behavior": null,
+      "services": [
+        {"type": "Special education — executive function/organization (SDI)", "frequency": "2x/week", "duration": "30 minutes", "location": "Learning lab", "provider": "Special education teacher"},
+        {"type": "Special education — academic support (test prep/study skills)", "frequency": "2x/week", "duration": "30 minutes", "location": "Learning lab", "provider": "Special education teacher"}
+      ],
+      "supplementary_aids_services": ["Shared digital assignment calendar", "Paper planner with teacher initials", "Duplicate set of textbooks at home", "Checklists for multi-step work", "Morning check-in with case manager"],
+      "accommodations": ["Extended time on assignments and tests", "Reduced penalty for late work while organization goals are being taught per district policy", "Digital submission option", "Testing in a low-distraction setting"],
+      "program_modifications": [],
+      "personnel_supports": ["Teacher training on assignment-log checks", "Coordination with front office for forgotten materials without shaming", "Parent communication protocol"],
+      "lre_statement": "The student participates in general education for core instruction; pull-out sessions teach organization and study skills that cannot be delivered with whole-class pacing. Supports are embedded in general education classes to build independence.",
+      "placement": "General education with pull-out resource services (outside regular class less than 21%).",
+      "assessment": "AASA and district assessments with extended time, chunking, and low-distraction setting. No alternate assessment.",
+      "esy": "Team considered ESY. The student showed significant regression in organizational routines over the summer with slow recoupment; ESY study-skills sessions 2x/week for 30 minutes with a reading maintenance component are recommended. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS 2025 functional goal guidance", "Missouri DESE PLAAFP and SMART Goal rubrics", "ADE MTBS/executive-function framing"],
+      "notes": "Contrast with SLD executive-function exemplar: here the category is OHI and academic SDI focuses on study skills/test prep."
+    },
+    {
+      "id": "ed-withdrawal-depression-g5",
+      "title": "Grade 5 — Emotional Disability (depression/withdrawal), participation and safety monitoring",
+      "fictional": true,
+      "grade": 5,
+      "grade_band": "elementary",
+      "az_category": "Emotional Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A fifth-grade student with depression who puts their head down or refuses to participate on 4 of 5 days, has withdrawn from peer activities, and is academically capable when engaged; safety monitoring is part of the plan.",
+      "strengths": ["Creative writer", "Previously enjoyed choir and art", "Gentle with animals and younger siblings"],
+      "parent_concerns": "Parent reports the student comes home exhausted and has stopped seeing friends; requests school and therapy to work together.",
+      "evaluation_data": [
+        "Parent and teacher rating scales elevated for depressive symptoms and withdrawal",
+        "Observation: head down/refusal 4 of 5 days; no disruptive behavior",
+        "Outside mental-health provider confirms diagnosis; parent consented to coordination",
+        "Team determined ED eligibility and adverse educational impact"
+      ],
+      "plaafp": {
+        "academic": "The student is capable of grade-level work but completes approximately 40% of assignments, participates in fewer than 1 of 5 class activities, and has withdrawn from all extracurricular activities.",
+        "functional": "Low mood, fatigue, and social withdrawal limit participation and connection; the student needs gentle engagement, predictable check-ins, and safety monitoring.",
+        "impact": "Depressive symptoms and withdrawal interfere with access to grade-level instruction and peer relationships, requiring counseling, participation supports, and a monitored safety plan.",
+        "baselines": [
+          {"skill": "Class participation", "measure": "Daily participation tally", "score": "1 of 5 activities/day", "date": "current IEP entry"},
+          {"skill": "Work completion", "measure": "Assignment log", "score": "40%", "date": "current IEP entry"},
+          {"skill": "Peer interaction", "measure": "Daily tally", "score": "0–1 voluntary interactions", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Behavior — participation and engagement",
+          "condition": "Given preferred activity options and a caring adult check-in",
+          "skill": "participate in class activities and complete assigned work",
+          "baseline": "1 of 5 activities; 40% completion",
+          "target": "3 of 5 activities and 80% work completion across 3 consecutive weeks",
+          "measurement": "Daily participation tally and assignment log",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        },
+        {
+          "area": "Social engagement",
+          "condition": "Given structured small-group and partner activities",
+          "skill": "initiate or respond to two peer interactions per day",
+          "baseline": "0–1 interactions/day",
+          "target": "2+ interactions/day for 4 consecutive weeks",
+          "measurement": "Daily tally by staff/self-report",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks; weekly check-in with parent while risk monitoring is active.",
+      "special_factor_behavior": "Behavior (withdrawal) impedes learning; counseling and a monitored support plan are required. Safety monitoring follows district risk protocol.",
+      "services": [
+        {"type": "Related service — counseling (individual)", "frequency": "1x/week", "duration": "45 minutes", "location": "Counselor's office", "provider": "School counselor (coordinating with outside therapist with consent)"},
+        {"type": "Special education — academic support", "frequency": "3x/week", "duration": "30 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Check-in/check-out", "frequency": "Daily", "duration": "10 minutes each AM/PM", "location": "Counselor/classroom", "provider": "Designated staff"}
+      ],
+      "supplementary_aids_services": ["Morning check-in with a preferred adult", "Small-group and partner structures for participation", "Choice of activity and reduced social pressure", "Access to art/writing outlets and quiet space"],
+      "accommodations": ["Extended time and reduced workload during low periods (preserving essential skills)", "Option to complete work in a quiet area or with a trusted peer", "Oral responses", "Breaks without penalty"],
+      "program_modifications": [],
+      "personnel_supports": ["Staff training on depression signs and referral protocol", "Coordination of care with outside mental-health provider (with parent consent)", "Crisis-team awareness"],
+      "lre_statement": "The student stays in general education with counseling, check-in/check-out, and participation supports. Pull-out academic support is used gently to avoid additional isolation; participation in general education activities, including preferred electives, is prioritized.",
+      "placement": "General education with pull-out resource services and related-service counseling (outside regular class less than 21%).",
+      "assessment": "AASA and district assessments with extended time, quiet setting, breaks, and alternate scheduling if needed. No alternate assessment.",
+      "esy": "Team considered ESY. The student has a pattern of significant regression in participation and academic skills during summer; ESY structure is recommended for social/emotional connection and academic maintenance, 2x/week for 45 minutes. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": {
+        "target_behavior_operational": "Putting head down, not responding to instruction, not participating in activities, and withdrawing from peers.",
+        "baseline": "4/5 days with head down/refusal; 1 of 5 activities; 40% work completion; 0–1 peer interactions/day.",
+        "hypothesized_function": "Low mood and fatigue reduce available energy; avoidance of social/performance demands also functions to reduce distress.",
+        "antecedent_strategies": ["Warm morning greeting and private check-in", "Offer choice of activity and reduced social pressure", "Break tasks into very small steps with immediate success", "Invite (do not force) participation; provide quiet alternative with the same content"],
+        "replacement_behaviors_taught": ["Use a feelings check-in card to communicate mood", "Ask for a break or quiet space appropriately", "Choose one participation goal per class to work on", "Initiate one structured peer interaction using a script"],
+        "consequence_strategies": ["Immediate positive acknowledgment for any participation", "Restorative, non-punitive follow-up if work is not completed", "Reinforce peer interactions naturally with activity access"],
+        "crisis_plan": "Staff monitor for risk indicators daily. If the student expresses self-harm or is unsafe, follow the district crisis protocol: stay with the student, notify the counselor/administrator immediately, contact the parent, and make a safety plan. Outside provider coordination occurs with written parent consent. If the student leaves class, follow the individualized safe-return plan rather than pursuit that escalates distress.",
+        "progress_monitoring": "Daily participation and interaction tallies, weekly counselor data review, weekly parent communication, and monthly team check.",
+        "staff_responsibilities": ["Teacher: welcoming check-in, participation supports, data", "Counselor: weekly sessions, risk monitoring, family/outside-provider coordination", "Case manager: monitor data and convene the team if no progress", "All staff: know the crisis protocol"]
+      },
+      "source_lineage": ["AZ-TAS 2025 special factors", "PBIS Basic FBA to BSP (function-based supports)", "ADE behavioral/mental health resources"],
+      "notes": "Shows a non-disruptive behavioral profile with safety monitoring; underscores why the tool must treat behavior as broader than disruption."
+    }
+  ]
+}

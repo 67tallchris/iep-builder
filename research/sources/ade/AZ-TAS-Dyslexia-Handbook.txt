@@ -1,0 +1,1997 @@
+            Arizona Department of Education
+  Diane M. Douglas, Superintendent of Public Instruction
+
+
+
+
+Arizona Technical Assistance System (AZ-TAS)
+
+            Dyslexia Handbook
+
+ A Technical Assistance Document
+ to Support Families and Teachers
+
+
+
+
+                        03/26/2018
+
+
+
+
+                                                           1
+                                                     Table of Contents
+
+
+Acknowledgments ......................................................................................................................... 3
+
+Introduction .................................................................................................................................. 4
+
+Section 1: Dyslexia: Definition, Prevalence Characteristics ..................................................... 5
+
+Section 2: For Parents: What Can We Do?................................................................................ 9
+
+Section 3: For Teachers: What Can We Do? ............................................................................ 15
+
+Section 4: English Learners and Dyslexia… ............................................................................ 25
+
+Section 5: Specific Learning Disability–Dyslexia… ................................................................ 26
+
+Section 6: Technology for Children with Dyslexia… .............................................................. 28
+
+Section 7: For Older Students Struggling with Reading: What Can We Do?. ....................... 30
+
+Section 8: For Schools and Districts: What Can We Do? ........................................................ 32
+
+Section 9: Frequently Asked Questions .................................................................................... 39
+
+Section 10: Glossary ................................................................................................................... 40
+
+Section 11: Additional Resources .............................................................................................. 45
+
+Section 12: References ................................................................................................................ 49
+
+
+
+
+      Arizona Department of Education Superintendent of Public Instruction, Diane M. Douglas
+               Associate Superintendent of Highly Effective Schools, Mike Mannelly
+         Deputy Associate Superintendent of Exceptional Student Services, Alissa Trollinger
+                                Arizona Department of Education
+                                                       http://www.azed.gov/
+
+
+                                                                                                                                                    2
+Acknowledgments
+This document was prepared by the Arizona Department of Education in response to Arizona
+Revised Statutes (A.R.S.) §15-249.10 The following people contributed to the preparation of this
+document:
+
+Destiny Chirello, Program Specialist, MOWR, K–12 Standards, Arizona Department of Education
+
+Terri Clark, Read On Arizona
+
+Sandra Figueroa, Program Specialist, Professional Learning and Sustainability, Exceptional
+   Student Services, Arizona Department of Education
+
+Mike Mannelly, Associate Superintendent, Highly Effective Schools, Arizona Department of Education
+
+Nancy Mather, Professor of Special Education, Department of Disability and Psychoeducational
+   Studies, University of Arizona
+
+Dr. Melissa McCusker, Director of Student Support Services, Deer Valley Unified School
+    District
+
+Rocio Muñoz, Parent
+
+Angela Odom, Director, Program Support and Monitoring, Exceptional Student Services,
+   Arizona Department of Education
+
+Suzanne Perry, Director, Early Childhood Special Education, Arizona Department of Education
+
+Stacy Riccio, Program Specialist, Professional Learning and Sustainability, Exceptional Student
+    Services, Arizona Department of Education
+
+Kimberly Rice, Program Specialist, Professional Learning and Sustainability, Exceptional
+   Student Services, Arizona Department of Education
+
+Sean Ross, Director, Move On When Reading (MOWR), K–12 Standards, Arizona Department
+   of Education
+
+Abby Sanchez, Parent
+
+Jeff Studer, Program Specialist, Dispute Resolution, Arizona Department of Education
+
+Claudia Weiss, School Psychologist, Arizona Association of School Psychologists
+
+Mary Wennersten, International Dyslexia Association, Consultant
+
+Kate Wright, Deputy Associate Superintendent of English Language Acquisition, Arizona
+   Department of Education
+                                                                                                   3
+Introduction
+
+The Arizona Department of Education is focused on the importance of teaching all our children
+to read, including those with dyslexia. Progress in reading achievement for all students begins
+with Arizona’s teachers implementing data-based, systematic, and explicit instruction in a
+multitude of contexts, with many levels of support, each and every day. Educators at all levels
+must have a deep understanding of reading to pinpoint gaps in student learning.
+
+Arizona Revised Statutes (A.R.S.) 15-249.10
+
+The department of education, subject to approval by the state board of education, may develop
+and maintain a handbook for use in the schools of this state that provides guidance for pupils,
+parents and teachers concerning dyslexia. The handbook shall include the following:
+
+1. Guidelines for teachers and parents to identify dyslexia.
+2. A description of educational strategies that have been shown to improve the academic
+   performance of pupils with dyslexia.
+3. A description of resources and services that are available to pupils with dyslexia and to
+   teachers and parents of pupils with dyslexia.
+
+This handbook is written to that end.
+
+
+
+
+                                                                                                  4
+Section 1 : Dyslexia : Definition, Prevalence, Characteristics
+
+Definition
+According to the Arizona Revised Statutes (A.R.S.) §15-249.03(K), “Dyslexia” means a specific
+learning disorder that is neurological in origin. It is characterized by difficulties with accurate
+and/or fluent word recognition and by poor spelling and decoding abilities. These difficulties
+typically result from a deficit in the phonological component of language that is often
+unexpected in relation to other cognitive abilities and the provision of effective classroom
+instruction. Secondary consequences may include problems in reading comprehension and
+reduced reading experience that can impede growth of vocabulary and background knowledge.
+
+How Prevalent is Dyslexia?
+Dyslexia occurs in people of all backgrounds and intellectual levels. People who are very bright
+can also have dyslexia. They are often capable or even gifted in areas that do not require strong
+reading skills, such as art, computer science, design, drama, electronics, math, mechanics,
+music, physics, sales, and sports. In addition, dyslexia runs in families; parents with dyslexia are
+very likely to have children who have dyslexia. Some people are identified with dyslexia early
+in their lives, but for others, their dyslexia goes unidentified until they get older. Some experts
+believe 5 to 10 percent of children have dyslexia, while others say the number is closer to 20
+percent.
+
+What Causes Dyslexia?
+Genetics appears to play an ongoing role in reading, whereas the influences of environment
+impact early reading development more. Environmental impact includes home conditions,
+school conditions, and literacy environments. As we learn more about the roles of genes and the
+environment, we will be better able to design appropriate early intervention plans for young
+children with dyslexia (Mather &Wendling, 2012, p. 75).
+
+
+The Brain and Reading
+“Dyslexia has been shown unequivocally to be related to neural differences in the brain. The
+brain has three main components: the cerebral cortex, the cerebellum, and the brain stem. The
+cerebral cortex comprises four lobes: frontal, parietal, temporal, and occipital. Most of the
+specialized language processing system is found within the left cerebral hemisphere of the brain
+within specific regions of the frontal, temporal, parietal, and occipital lobes. The three neural
+systems of reading occur in Broca’s region, the anterior frontal gyrus for articulation/word
+analysis, the parietal temporal lobe for word analysis, and the occipital lobe for speedy word
+recognition, often referred to as the word form area” (Mather & Wendling, 2012).
+
+
+
+
+                                                                                                      5
+In Figure 1.1 Simos, et. al (2001), shows brain activation map snapshots for the pseudoword
+reading task from three representative participants: a typically developing reader (left-hand pair
+of columns), a student with reading difficulties (RD; middle pair of columns), and a student with
+attention-deficit/hyperactivity disorder without RD (right-hand pair of columns).
+
+
+                          Figure 1.1 Neural Signature for Dyslexia
+
+
+
+
+Characteristics of Dyslexia
+
+The earliest warning signs of dyslexia are sometimes noted in a child’s spoken language; for
+other students, oral language development is typical. For a student with dyslexia, several warning
+signs may persist over time and interfere with learning. Below are examples of listening and
+speaking, reading, writing, and spelling difficulties by grade band. By selecting an observation or
+sets of observations, diagnostic assessments can be performed, interventions elected, and literacy
+improved. For characteristics of dyslexia, please see the following pages of this
+handbook or visit www.understood.org, http://dyslexia.yale.edu/, https://dyslexiaida.org/.
+
+
+
+
+                                                                                                  6
+             Table 1.1 Characteristics of Dyslexia by Grade Band
+
+
+        Observation
+Y   N   Possible difficulties in preschool . . .
+        Delay in learning to talk
+
+        Difficulty with rhyming patterns like “cat,” “bat,” “sat”
+
+        Difficulty pronouncing words (e.g., “pusgetti” for “spaghetti”), persistent baby
+        talk
+        Difficulty splitting up the sounds in words. (e.g., say the word “bat” and ask the
+        student to take away the first sound /b/; the student can’t tell which sounds (at)
+        are left over
+        Poor auditory memory for nursery rhymes and chants
+
+        Difficulty in adding new vocabulary words
+
+        Inability to recall the right word (word retrieval)
+
+        Difficulty learning and naming letters and numbers and remembering the letters
+        in his/her name
+
+
+
+Y   N   Possible difficulties in kindergarten through second grade . . .
+        Difficulty breaking words into smaller parts (syllables) (e.g., “baseball” can be
+        pulled apart into “base” and “ball” or “napkin” can be pulled apart into “nap”
+        and “kin”)
+        Difficulty identifying and manipulating sounds in syllables (e.g., “man” sounded
+        out as /m/ /ă/ /n/)
+
+        Doesn’t associate letter or letter combinations with sounds (e.g., /b/ with “b,” or
+        /j/ with “dge”)
+        Difficulty in sounding out even simple words like “cat,” “map,” “nap”
+
+        A history of reading problems in parents or siblings
+
+        Difficulty reading fluently (e.g., slow, inaccurate, and/or without expression)
+
+        Reliance on picture clues, story theme, or guessing at words
+
+
+
+
+                                                                                            7
+Y   N   Possible difficulties in third through fifth grade . . .
+        Difficulty reading aloud (e.g., fear of reading aloud in front of classmates)
+
+        Difficulty reading unfamiliar words, often making wild guesses because the
+        student cannot sound out the word
+        Doesn’t have strategies for reading unfamiliar words
+
+        Uses less complicated words in writing that are easier to spell than more
+        appropriate words (e.g., “big” instead of “enormous”)
+        Has an easier time answering questions about the text if it is read
+
+        Difficulty pronouncing words correctly (e.g., “mazigine” instead of “magazine”)
+
+        Difficulty with rhyming (e.g., completing the last word in a poem or song or
+        thinking of words that rhyme with “hoop”)
+        Difficulty with written expression
+
+
+
+Y   N   Possible difficulties in sixth through twelfth grade . . .
+        Slow and laborious reading; doesn’t like to read
+
+        Difficulty with the volume of reading and written work
+
+        Frustrated with the amount of time required and energy expended for reading
+
+        Often skips over small words or leaves out part of longer words when reading
+        aloud
+        Prefers multiple choice questions over fill-in-the-blank or other questions with
+        short answers
+        Difficulty learning a foreign language
+
+
+
+
+                                                                                           8
+Section 2: For Parents: What Can We Do?
+
+If you think your child has dyslexia, you can partner with your child’s teacher to determine
+appropriate skill-based instruction to supplement the child’s experience in the classroom with
+core instruction and with any targeted, intensive instruction your child is receiving. With your
+help, your child is more likely to make progress toward his or her learning goals.
+
+Specific targeted interventions will be prescribed based upon the results of your child’s
+diagnostic assessments. Section 1: Dyslexia: Definitions, Prevalence, Characteristics includes a
+checklist to help parents and teachers determine various characteristics a child has related to
+dyslexia.
+
+Section 3: Essential Components of Reading Instruction for Students with Dyslexia gives
+examples of essential diagnostic assessments. These are tests necessary for teachers to determine
+the nature of reading and spelling difficulty for students with dyslexia. Parents can work with
+their child’s teacher by reviewing these diagnostic assessments; they can then work on specific
+reading and spelling activities (interventions) based on these assessment results and use
+assessments at home with their child to determine growth on specific skills. Communication
+from the parent to the teacher on the child’s progress at home can help increase the child’s
+school progress.
+
+Parents can engage in some of the following activities at home to help their child with dyslexia.
+Each of the activities below requires the parent to practice with their child until the child can do
+the activity independently. Technical terms for each activity are in parentheses to help parents
+identify vocabulary commonly used in schools by teachers. Any letters within slashes (called
+virgules) means the reader should say the sounds within the slashes. Using /r/ as an example, the
+reader would say the sound of “r,” instead of saying the name of the letter. Activities adapted
+from the Florida Center for Reading Research at Florida State University have been denoted with
+(FCRR). For more information and additional resources please visit www.fcrr.org.
+
+Phonological Awareness
+Recognize and produce rhyming words
+   • Sing rhyming songs.
+   • Match pictures of objects that rhyme.
+Recognize and produce words beginning with the same sound (alliteration)
+   • Match your child’s name with a describing word that begins with the same sound (e.g.,
+      Terrific Tony) or with things like (Eileen likes Ice Cream). (FCRR)
+   • Using pictures, have your child make up stories using phrases in which each word in the
+      phrase has the same beginning sound.
+   • Use your child’s name to show a link between letters and sounds. Say, “John, the word
+      ‘jump’ begins with the same sound as your name. John. Jump. And they both begin with
+      the same letter ‘j.’” (FCRR)
+Segment sentences into their individual words
+   • Count the words in sentences and stack cubes for each word counted. (FCRR)
+
+                                                                                                   9
+   •   Record your voice slowly reading a story. Your child listens to the story and moves a
+       game piece on a game board each time a word is heard. (FCRR)
+Segment syllables into words
+   • Use four cards with a number on each card (1, 2, 3, 4). Collect a stack of pictures of
+     known objects. Your child matches these picture cards with the correct number of
+     syllables of the object (e.g., a picture of a tiger has two syllables; it will be placed next to
+     the card with a “2”). (FCRR)
+   • Say words and count syllables using fingers.
+Separate the beginning consonant sound from the rest of the sounds in a word
+(onset and rime [see glossary in section 10]), (e.g., say /c/, then say /at/)
+   • Make first sound cards (e.g., c, s, t, n) and final sounds cards (rime) (e.g., ap, ip, op).
+        Practice putting the cards together to make words, including nonsense words. (FCRR)
+   • Use picture cards and say the initial sound (onset), pause, then say the final sounds (rime)
+        (e.g., /r/ /ing/, /k/ /ite/). (FCRR)
+   • Say a word and tell your child “the first sound of the word is … and it rhymes with ….”
+        (e.g., the first sound is /f/ and it rhymes with “run” (Answer “fun.”) If your child
+        struggles, give them more clues until they come up with the answer (e.g., “It begins like
+        “fog” and ends like “sun”). (FCRR)
+Match sounds in words (phoneme matching)
+  • Give your child a number of cards with pictures on them. Ask them to match up the cards
+      that have the same first sound. (FCRR)
+  • Put a happy face on one box and a sad face on another. Tell your child they are looking
+      for objects that have the same sound as a target sound (e.g., tell them the target sound is
+      /t/ like “tiger”). Ask your child to place any object into the happy face box that has that
+      sound anywhere in it. Objects that don’t have that sound can be placed in the sad face
+      box. (FCRR)
+  • Play go fish with picture cards. Say, “Do you have a card that begins with the sound /m/?
+      If not, the child should say “go fish.” The same can be played for the sound the word
+      ends with. (FCRR)
+Find the first, middle, and ending sounds of words (phoneme isolating)
+   • Put items in a box. When your child takes out an item, ask them to say the name of the
+       word and its beginning sound, middle sound, or ending sound. (FCRR)
+   • Cut a picture of something with three sounds into thirds, so the picture has a beginning,
+       middle, and end (e.g., in a picture of a bird, the head sounds like /b/, the wings and body
+       sound like /ir/ and the tail sounds like /d/). Give your child picture cards and ask them to
+       match up cards with the beginning sound that is the same as the beginning sound of /b/
+       with the head of the bird. Picture cards with the middle sound like /ir/ would go with the
+       picture of the middle of the bird (e.g., burn, third, stir). Pictures that end with the /d/
+       sound go with the picture of the tail of the bird, since /d/ is the ending sound of bird.
+       (FCRR)
+Segmenting sounds in words (phoneme segmenting)
+   • Using picture cards, sound out each sound in a word. You can also draw boxes for each
+     sound in the word and ask your child to move a penny or another small object into each
+     box as they say each sound. (FCRR)
+
+                                                                                                        10
+   •   Using picture cards, show your child how to say each sound in a word as you tap your
+       fingers. Then, stack cubes for the number of sounds heard. (FCRR)
+   •   Using chalk or number cards, create a hopscotch pattern on the ground. Using picture
+       cards, ask your child to count each sound in the word using their fingers, then hopscotch
+       that number of sounds. (FCRR)
+Phoneme segmenting and blending
+   • Using picture cards, help your child to segment the word of the picture card into each of
+     its sounds. Then say the sounds of the word together to make the word. (FCRR)
+Moving sounds around in words (manipulating phonemes)
+  • Using picture cards, ask your child to say the name of the picture, then drop the
+     beginning sound to make another word (e.g., “pants” becomes “ants” and “tie” becomes
+     “eye”). (FCRR)
+
+Basic Reading and Spelling Skills
+Letter recognition
+   • Name and match letters of the alphabet using pairs of letter cards turned over. (FCRR)
+   • Write the letters of the alphabet in an arc across the top of a piece of paper. Using plastic
+       letters, or cards with letters on them, help your child match each letter card or plastic
+       letter to the letter on the alphabet arc. (FCRR)
+   • Write upper case letters in a circle and cut out the circle. Write lowercase letters on
+       clothespins. Help your child match lowercase letter clothespins to uppercase letters on the
+       circle. (FCRR)
+   • Give your child magazines and catalogues and ask them to cut out letters of various
+       shapes and sizes. Sort and group those letters (all “As” together, a;; “Bs” together, and so
+       on) and glue all letter groups onto a piece of paper. (FCRR)
+Letter-sound correspondence
+   • Label 26 paper bags with each of the 26 letters of the alphabet. Give your child catalogs
+       and magazines and ask them to cut out pictures. Tell your child to place the picture into
+       the bag with the letter that makes the same sound as the first sound of the picture (e.g., a
+       picture of a horse goes into the bag labeled “h”). (FCRR)
+Spelling and sounding out words (encoding and decoding)
+   • Cut out the shape of a star. Label each point of the star with a vowel (a, e, i, o, u). Write a
+       three-letter word in the middle of the star, but place an underline where the vowel should
+       go. Tell your child to write out a list of words he or she can make using the star onto a
+       piece of paper. (FCRR)
+   • Using three blank cubes, write consonants on two of the cubes, and vowels on one of the
+       cubes. Roll the dice until a word can be made of the three letters. Sound out the word and
+       write it down on a piece of paper. Make a list of ten words. (FCRR)
+   • Make a spinner with ch, th, sh, wh (these are called digraphs and represent two letters
+       making one sound) for beginning sounds. Make another spinner with vowel sounds for
+       the middle sound. Make a third spinner with ending sounds. Spin the spinners. Sound out
+       the words made and write them down. (FCRR)
+
+
+
+                                                                                                      11
+   •   Using a deck of picture cards with one-syllable words and a deck of letter cards including
+       consonants, vowels, and digraphs (ch, th, wh, sh), say the sounds of the word of the
+       picture with the letter cards. (FCRR)
+High frequency words
+   • Place a stack of words often used in your child’s class in a stack. Read the word to your
+       child and ask them to repeat it; then write it down on a piece of paper making a list.
+   • Use two stacks of high-frequency word card packs. Play the matching game with the high
+       frequency word cards, reading the words when they are matched. (FCRR)
+Advanced phonics—variety of spelling patterns for one sound (variant correspondences, e.g.,
+long a spelled a, a_e, ai, ay)
+   • Use word cards with double consonant endings (ll, ff, ss, zz). Draw a game bboard with a
+        number of spaces on it. Arrange the word cards in a path along a table like a game board.
+        Your child rolls the dice and moves a game piece the number of spaces rolled. Your child
+        has to read the word and the sound of the target letters (ff, ll, ss, zz). For example, if they
+        land on “boss” say, “boss, ss, /s/.” If they cannot read or identify the sound, they have to
+        go back to the original spot. (FCRR)
+   • Make four boxes at the top of a piece of paper. Write a word that begins with soft “g”
+        (such as giant), a hard “g” (such as gift), a soft “c” (such as center), and a hard “c” (such
+        as candy) in each box. Write words with hard and soft “g” and “c” on index cards. Read
+        the words with your child, helping them sort the words based on the sounds the “g” and
+        “c” make. (FCRR)
+   • Write words on index cards that represent the short and long sounds of each of the five
+        vowels (e.g., snip, stripe, help, seed, tap, lake, stop, soak, tuck, tune). Write additional
+        words onto cards with the short and long vowel sounds. Read the words with your child
+        and help them to sort these into the proper categories. (FCRR)
+   • Write cards with the various spellings of each long vowel sound. Write examples of
+        words with these long vowel spellings onto index cards. Help your child to sort cards
+        with the same spelling pattern into the correct categories. (FCRR)
+   • Write words with vowel teams onto index cards (e.g., bay, real, cause; for a definition of
+        the word digraph, see the glossary). Play go fish with your child. (FCRR)
+   • Sort and separate words with vowel + “-r.” These include words with ar, er, ir, or, ur,
+        such as “card,” “herb,” “bird,” “torn,” “turn.” (FCRR)
+   • Using the vowel teams with “o” (diphthongs)—oi, oy, ou, ow, write out several words
+        with these spellings. Help your child to sort the words based on these spellings and say
+        the words out loud. (FCRR)
+   • Using words with silent letters (e.g., comb, gnat, scent, autumn, wrote). Help your child
+        to sort the words based on these spellings and say the words out loud. (FCRR)
+Segmenting syllables into words (syllable segmenting)
+   • Using a stack of word cards with words of many syllables (or multi-syllabic words) (e.g.,
+     “carbohydrate,” “unimaginable,” “autobiography”) and a game board, you and your child
+     take turns saying the word and counting the number of syllables in each word, moving
+     the game piece for each number of syllables counted. (FCRR)
+   • Use a stack of multi-syllabic words, help your child to read the words and write each
+     syllable from the word card with a hyphen separating the syllables (e.g., af- ter-wards
+     for the word afterwards). Your child counts the number of syllables and records the
+     number of syllables to the right of the word. Make a list of these words. (FCRR
+                                                                                                      12
+Meaningful parts of words (morpheme structure)
+  • Create your own set of two and three syllable words (e.g., “modify,” “harness”) and
+     another set of endings of words (-s or -es, -ing, -ed). The student chooses one card each
+     and writes the two parts plus the new word onto a piece of paper, making a list (e.g.,
+     modify + -ed = modified. (FCRR)
+  • Create header cards that say “Prefix,” “Suffix,” “Prefix and Suffix,” and “None.” A prefix
+     goes at the beginning of a word that can stand on its own (e.g., “reappear” has the suffix
+     “re-” on the word “appear,” which can stand on its own without the prefix “re-”). A suffix
+     goes at the end of a word that can stand on its own (e.g., “definitely” has the suffix “-
+     ly” on the word “definite,” which can stand on its own without the suffix “-ly”). Create a
+     stack of words from a text used in your child’s classroom. Sort these with your child
+     according to the header cards. Make lists of prefixes and suffixes used. Gradually add to
+     the words used with each new text from your child’s class. (FCRR)
+
+Reading Fluency
+Letter recognition
+   • Use two pages to write identical rows of letters across the pages, one page for the child,
+       one page for you. Time your child for one minute while they read the names of the letters
+       to you. On your copy, mark each sound as correct or incorrect. Date the page and place
+       the total correct at the top.
+Speed and accuracy in letter-sound correspondence
+   • Use two pages to write identical rows of letters across the pages, one page for the child,
+      one page for you. Time your child for one minute while they read the sounds the letters
+      make out loud to you. On your copy, mark each sound as correct or incorrect. Date the
+      page and place the total correct at the top. Since some letters have more than one sound
+      (e.g., c, g, s, x, y, and all vowels), it is suggested that when you are timing, students say
+      only one sound per letter. (FCRR)
+   • Use two identical pages to write rows of two letters that together make one sound (e.g.,
+      oo, ph, ch, ay, kn) across a page. Time your child for one minute while they read the
+      sounds the letters make to you. On your copy, mark each sound as correct or incorrect.
+      Date the page and place the total correct at the top.
+Word parts
+  • Write the word “yes” and the word “no” on index cards. Divide words from your child’s
+     classroom text into syllables and write them on index cards. Using a one-minute timer,
+     have your child says the word’s syllables and then the word. If they say the word
+     correctly, they put it on the “yes” card; if they say it incorrectly, your child places it on
+     the “no” card. Total the number of cards in the “yes” and “no” piles. This can be repeated
+     until the child has mastered a set of words. (FCRR)
+  • Make a list of prefixes and suffixes found in words from your child’s home and school
+     reading materials. Write these words on a piece of paper with spaces in between them.
+     Time your child for one minute to see how many of them your child pronounces the way
+     they are pronounced in words. (FCRR)
+
+
+
+                                                                                                      13
+Words
+  • Find a list of rimes (see onset and rime in the phonetic awareness section above, or in the
+      glossary). Make four header index cards with ten different rimes. Now make several
+      word cards that have the rime in them (e.g., for the rime “ade,” you might create words
+      such as “parade,” “invade,” “cascade,” “crusade,” “everglades,” “motorcade,”
+      “blockade”). Start the timer, and have your child time him- or herself to see how long it
+      takes to sort the words into the correct pile. Repeat this with additional rimes. (FCRR)
+  • Write six high-frequency words (see above or check the glossary) onto an index card.
+      Make several of these cards with different words. Start the timer. Your child reads all the
+      words on the card. If your child struggles with a word, count to five. If they still cannot
+      read the word, tell them the word; then your child places the card on the bottom of the
+      stack. When the timer goes off in three minutes, count the number of words read and
+      record it on a piece of paper with the date. Repeat, until all words are read within three
+      minutes. (FCRR)
+Phrases
+   • Create header cards with the words “yes” and “no” on them. On index cards, write down
+      three-word phrases such as “remember to include,” “never say never,” “between the
+      pages.” You might use the newspaper or books from your child’s home or school to
+      generate ideas. Use graph paper to record the total number of words possible on the left
+      side of the graph and the date along the bottom of the graph. Use a one-minute timer to
+      see how many of these words you can read in a minute and use that as the maximum
+      number of words to read. Your child graphs the number of words read in one minute each
+      time this is attempted. Your child can practice reading the words in between timed
+      sessions. This may be repeated with additional words. (FCRR)
+Chunked text (prosody)
+  • Use a reading passage that is not too challenging for your child, place slash marks in
+     between phrases where the text naturally pauses (e.g., What started out / as a typical day /
+     would soon turn into / one of the most unusual days / Harry ever had. // His mom came in
+     / and got him up at 7:00 / so he could get ready for school. //) Place two slashes at the end
+     of each sentence. You can also create your own stories and place slash marks in the
+     appropriate places. You will also need a copy of the text without the slash marks. Set the
+     timer for one minute. See how many words your child can read, reading with pause after
+     each slash mark. Once this has been mastered, move to the text without the slash marks.
+     This helps your child to read the way people speak. (FCRR)
+Connected text
+   • Using a text, reading passage, or story, make a list of moderately challenging words from
+      the story on a piece of paper. Practice this word list, reading each word up to three times
+      each. Then, focusing on speed and accuracy, take turns reading paragraphs with your
+      child. If your child is working with a friend, the two children can alternate reading
+      paragraphs in the story. (FCRR)
+   • Photocopy several selected paragraphs from reading passages from your child’s class. Put
+      these in a stack, face down. Your child practices reading a passage silently, then reading
+      it to you out loud for proper phrasing and expression. Repeat with additional passages.
+      (FCRR)
+
+                                                                                                    14
+Section 3: For Teachers: What Can We Do?
+
+Reading Instruction for Students with Dyslexia
+Section 2 of the handbook, the parents’ section, communicates the essential components of
+reading instruction; these components support all learners and foster communication about how
+a child learns to read. It is imperative for all concerned to have a deep understanding of reading
+and of the best practices of instruction to support the needs of all students who struggle with
+reading. Educators must work collaboratively in teams, dig deep into data, be receptive to
+support from reading coaches and other administrators, and be methodical in planning,
+teaching, and assessing student progress to support struggling readers.
+
+Reading comprehension is the product of having adequate language comprehension, as well as
+decoding skills. Students’ learning and their skills in reading and language comprehension are
+enhanced with strong content knowledge in many domains including science, social studies,
+math, reading, and writing. However, without mastery of decoding, no amount of language
+comprehension can increase a child’s reading comprehension. Effective literacy instruction is
+essential for all students and is especially critical for students with dyslexia. High-quality
+classroom reading instruction can give students a foundation upon which intervention and
+instruction can have a more significant impact. Schools with coherent and consistent core
+reading programs have shown benefits in student achievement in reading and writing. In
+addition to the empirical evidence of effectiveness, the instructional content and instructional
+design of the core reading program must be analyzed.
+
+1. Instructional content of the core reading program includes instruction in the five essential
+components of reading: phonological awareness, phonics, vocabulary, fluency and
+comprehension. Instruction in oral language, writing, spelling, and handwriting is also
+essential. These components should be addressed in a comprehensive and effective manner.
+
+2. Instructional design of high-quality programs includes explicit and systematic strategies for
+instruction, consistent instructional routines, and ample opportunity for practice with
+appropriate student support materials, cumulative review, and alignment to the Arizona ELA
+standards for each grade level. Instructional design should also effectively integrate the
+components of reading rather than isolate each skill.
+
+For more information, please visit www.azed.gov/mowr.
+
+
+
+
+Specialized instruction for students with dyslexia is discussed later in this section.
+
+
+
+                                                                                                     15
+With the mindset that “every student can succeed” and an understanding of how the brain learns to
+read, along with knowledge of best practices in reading instruction, educators can work
+collaboratively to address the needs of all students. If educators don’t provide struggling readers
+with targeted interventions, whether within the whole class, in a small group, or individually,
+those struggling students fall further and further behind as their peers make progress.
+
+        “Although dyslexia effects individuals over the life span . . . reading skills can be
+        increased with the right early intervention and prevention programs.”
+                                                                               —Birsh, 2011
+
+                           Figure 3.2 Subtypes of Reading Difficulty
+
+
+
+                                                Language
+                                              Comprehension
+
+
+
+
+                                    Phonological
+                                                        Fluency/
+                                      Deficit
+                                                      Naming Speed
+
+
+
+
+                                                                     Adapted from Moats, 2009
+
+According to Moats (2009), for purposes of research, children with reading impairments may
+include all those who score below the 30th percentile in basic reading skills. Among those poor
+readers, about 70–80 percent have trouble with accurate and fluent word recognition that often
+originates with weaknesses in phonological processing. Poor basic reading skills in turn affect
+both fluency and comprehension. Children with dyslexia have particular difficulty learning
+sound-symbol correspondences, sounding out words, and spelling.
+
+In the book The Essentials of Assessing, Preventing, and Overcoming Reading Difficulties,
+Kilpatrick (2015) outlines the following four patterns of reading difficulties:
+
+    •   Dyslexic: The student has word-level reading difficulties but average or better language
+        skills. Word-reading skills, reading fluency, and reading comprehension are substantially
+        below the student’s language comprehension skills.
+    •   Hyperlexic: The student displays good word-level reading but weak language skills.
+        Reading comprehension skills are substantially below the student’s word-level reading
+        and reading fluency.
+    •   Mixed: The student has poor word-level reading skills and weak language skills.
+    •   Compensator: The student displays a mild form of the dyslexic pattern but compensates
+        to some degree with strong language skills, making this problem more difficult to
+        recognize.
+
+
+
+                                                                                                    16
+Since the student with dyslexia often has average or above average language comprehension
+ability, teachers can capitalize on this strength by using oral language at the core of their
+instruction in all areas of phonemic awareness, phonics and spelling, syntax or sentence-level
+skills, vocabulary and morphology, and text comprehension and written expression. Dr. Margie
+Gills has created the Literacy Reading Wheel to depict the comprehensive components of
+literacy instruction.
+
+
+                              Figure 3.3 Literacy Reading Wheel
+
+
+
+
+                                                                            Dr. Margie Gills, 2017
+
+
+
+On the following page, a list of diagnostic assessment types, explanations of the skills, and
+examples of difficulties is presented.
+
+
+
+
+                                                                                                     17
+                               Table 3.1 Diagnostic Assessments in the Classroom
+
+  Diagnostic                    Essential Reading Components for a Student with Dyslexia
+ Assessments                                       (Examples of difficulties are in italics.)
+The components of instruction will include additional specialized instruction as appropriate for the reading needs of
+the student with dyslexia. While intervention is most preventative when provided in kindergarten and first grade, older
+children with reading disabilities will also benefit from focused and intensive remedial instruction. Effective literacy
+instruction is essential for all students and is especially critical for students with dyslexia.
+
+Phonological            Targeted and intensified instruction and extensive practice in the phonemes, phonemic
+Awareness Tests         and phonological awareness concepts is indicated.
+(Rhyming,
+Blending,               Phonological awareness: “Phonological awareness is the understanding of the internal
+Segmentation,           sound structure of words. A phoneme is the smallest unit of sound in a given language
+Manipulation)           that can be recognized as being distinct from other sounds. An important aspect of
+                        phonological awareness is the ability to segment spoken words into their component
+                        phonemes” (Birsh, 2011, p. 19).
+
+                          •   Difficulty with rhyming patterns like cat, bat, sat;
+                          •   Doesn’t associate letter or letter combinations with sounds (e.g., /b/ with “b,” or
+                              /j/ with “dge”);
+                          •   Poor auditory memory for nursery rhymes;
+                          •   Difficulty with rhyming (e.g., completing the last word in a poem or song or
+                              thinking of words that rhyme with “hoop”);
+                          •   Difficulty breaking words into smaller parts (syllables) (e.g., “baseball” can be
+                              pulled apart into “base” and “ball” or “napkin” can be pulled apart into “nap”
+                              and “kin”);
+                          •   Difficulty splitting up the sounds in words. (e.g., say the word “bat” and ask the
+                              student to delete the first sound /b/).
+
+                        Sound-symbol association: Sound-symbol association is the knowledge of how the
+                        speech sounds correspond to the letter or letter combinations that represent those speech
+                        sounds. The mastery of sound-symbol associations (alphabetic principle) is the
+                        foundation for the ability to read (decode) and spell (encode) (Birsh, 2011, p. 19).
+                        Explicit phonics refers to an organized, systematic program in which these sound-
+                        symbol correspondences are taught directly (Berninger & Wolf, 2009).
+
+
+
+
+                                                                                                                           18
+ Diagnostic              Essential Reading Components for a Student with Dyslexia
+ Assessment                                (Examples of difficulties are in italics.)
+
+Phonics Survey   Targeted and intensified instruction and extensive practice in the phonics concepts is
+                 indicated on the diagnostic assessment. Students will need time to practice skills in
+                 isolation and appropriately in decodable text.
+
+                 Syllabication: “A syllable is a unit of oral or written language with one vowel sound.
+                 The six basic types of syllables in the English language include the following types:
+                 closed, open, vowel-consonant-e, r-controlled, vowel pairs (or vowel teams), and
+                 consonant -le (or final stable syllable). Rules for dividing syllables must be directly
+                 taught in relation to the word structure” (Birsh, 2011, p. 19).
+
+                   •    Difficulty pronouncing multisyllabic words correctly (e.g., “mazigine,” instead of
+                        “magazine”).
+
+                 Orthography: Orthography is the writing system of a language, including its spelling
+                 patterns, as well as the punctuation and capitalization rules. Students must be taught the
+                 regularity and irregularity of the spelling patterns of a language in an explicit and
+                 systematic manner.
+
+                    •   Spells words the way they sound, not the way they look;
+                    •   Doesn’t associate letter or letter combinations with sounds (e.g., /b/ with “b,” or
+                        /j/ with “dge”);
+                    •   Difficulty learning and naming letters and numbers and remembering the letters in
+                        his/her name;
+                    •   Doesn’t have strategies for reading unfamiliar words;
+                    •   Uses less complicated words in writing that are easier to spell than more
+                        appropriate words (e.g., “big” instead of “enormous”).
+
+                 Morphology: “Morphology is the study of how a base word, prefix, root, and suffix
+                 (morphemes) combine to form words. A morpheme is the smallest unit of meaning in a
+                 given language” (Birsh, 2011, p. 19).
+
+                    •   Doesn’t have strategies for pronouncing unfamiliar words;
+                    •   Doesn’t recognize common prefixes and suffixes.
+
+                 High-Frequency Words: High frequency words, often called sight words, are the
+                 words that are most commonly seen in text. They include regular words, such as “and,”
+                 as well as words with an irregular element, such as the “e” in the word “they.” These
+                 words are often called exception words.
+
+                    •   Fails to recognize frequently-used words;
+                    •   Has difficulty reading and spelling irregular words.
+
+
+
+                                                                                                              19
+Oral Reading    Reading fluency: Reading fluency is the ability to read text with sufficient accuracy
+Fluency         and speed to support reading comprehension (Moats & Dakin, 2008).
+
+                   •   Difficulty reading fluently (e.g., slow, inaccurate, and/or without expression);
+                   •   Difficulty reading aloud (e.g., fear of reading aloud in front of classmates);
+                   •   Slow and laborious reading; doesn’t like to read;
+                   •   Difficulty with the volume of reading;
+                   •   Frustrated with the amount of time required and energy expended for reading;
+                   •   Often skips over small words or leaves out part of longer words when reading
+                       aloud.
+
+Vocabulary      Vocabulary: Vocabulary is the stored knowledge of words and their meanings.
+Screening
+                   •   Limited word knowledge;
+                   •   Difficulty in learning new vocabulary words;
+                   •   Difficulty recalling the right word (word retrieval).
+
+Reading         Reading comprehension: Reading comprehension is the process of extracting and
+Comprehension   constructing meaning through the interaction of the reader with the text to be
+                comprehended and the specific purpose for reading. The reader’s skill in reading
+                comprehension depends upon the development of accurate and fluent word recognition,
+                oral language development (especially vocabulary and listening comprehension),
+                background knowledge, use of appropriate strategies to enhance comprehension, and the
+                reader’s interest in what he or she is reading (Birsh, 2011, pp. 9 and 368; Snow, 2002).
+
+                   •   Overrelies on picture clues;
+                   •   Cannot summarize what has been read;
+                   •   Does not use strategies to increase understanding;
+                   •   Avoids reading.
+
+Student         Writing: Writing requires generating a written response to reading. Students must
+Independent     connect ideas and sort the important from the unimportant information. They must
+Writing         attend to detail and find support for their ideas. At the word level, students must spell
+Samples         words correctly and attend to punctuation and capitalization rules (LETRS Module 10,
+                Moats, 2012, p.7).
+
+                   •   Has trouble connecting ideas;
+                   •   Has trouble including details;
+                   •   Has trouble maintaining the topic;
+                   •   Has difficulty with spelling;
+                   •   Fails to use correct punctuation and capitalization.
+
+
+
+
+                                                                                                            20
+                          Table 3.2 Schedule for Diagnostic Assessments
+
+  Types of Assessments
+   That May Be Used
+                                       Fall Score                  Winter Score    Spring Score
+   with Students with
+        Dyslexia
+ Phonological
+ Awareness (rhyming,
+ blending, segmenting,
+ and manipulating
+ speech sounds)
+ Phonics Survey of
+ Alphabet Skills (letter
+ names and sounds)
+ Phonics Survey–
+ Reading and Decoding
+ Skills
+ High Frequency Words
+ Vocabulary Screening
+ Reading
+ Comprehension
+*Adapted from Assessing Reading: Multiple Measures, 2nd edition.
+
+Limited vocabulary and difficulties with reading comprehension and written expression are
+secondary consequences of dyslexia. Vocabulary development is affected by limited reading
+experiences; reading comprehension is affected by poor word reading skills; and written
+expression is affected by difficulties with spelling. Moats and Daken (2008) explain the many
+components of written expression that require the integration of many skills:
+
+       The ability to compose and transcribe conventional English with accuracy, fluency,
+       and clarity of expression is known as basic writing skills. Writing is dependent on
+       many language skills and processes and is often even more problematic for
+       children than reading. Writing is a language discipline with many component skills
+       that must be directly taught. Because writing demands using different skills at the
+       same time, such as generating language, spelling, handwriting, and using
+       capitalization and punctuation, it puts a significant demand on working memory
+       and attention. Thus, a student may demonstrate mastery of these individual skills,
+       but when asked to integrate them all at once, mastery of an individual skill, such as
+       handwriting, often deteriorates. To write on demand, a student has to have
+       mastered, to the point of being automatic, each skill involved (p. 55).
+
+All teachers should provide multiple opportunities to support intervention and strengthen
+these skills; therefore, responsibility for teaching reading and writing must be shared by
+classroom teachers, reading specialists, and special education teachers.
+
+                                                                                                  21
+Guiding Principles of Reading Instruction for Students with Dyslexia
+According to Arizona Revised Statutes 15-704 H (3), "Reading" means a complex system
+of deriving meaning from print that requires all of the following:
+
+   (a) The skills and knowledge to understand how phonemes or speech sounds are connected
+       to print.
+   (b) The ability to decode unfamiliar words.
+   (c) The ability to read fluently.
+   (d) Sufficient background information and vocabulary to foster reading comprehension.
+   (e) The development of appropriate active strategies to construct meaning from print.
+   (f) The development and maintenance of a motivation to read.
+
+All students should be provided with instruction in the above content using evidence-based
+practices. Additionally, principles of effective intervention for students with dyslexia include
+all of the following skills:
+
+Structured literacy— Structured literacy is distinctive in the principles that guide how critical
+elements are taught.
+
+   Systematic and cumulative. Structured literacy instruction is systematic and cumulative.
+      “Systematic” means that the organization of material follows the logical order of the
+      language. The sequence begins with the easiest and most basic concepts and elements and
+      progresses methodically to more difficult concepts and elements. “Cumulative” means
+      each step builds upon concepts previously learned.
+
+   Explicit instruction. Structured literacy instruction requires the deliberate teaching of all
+      concepts with continuous student-teacher interaction. It is not assumed that students will
+      naturally deduce these concepts on their own.
+
+   Diagnostic teaching. The teacher must be adept at individualized instruction. That is,
+      instruction that meets a student’s needs. The instruction is based on careful and
+      continuous assessment, both informally (e.g., observation) and formally (e.g., with
+      standardized measures). The word reading skills presented must be mastered to ensure
+      automaticity. Automaticity is critical for easy, rapid reading so that all of the student’s
+      attention and cognitive resources can be focused up comprehension and expression.
+      (JUST THE FACTS . . . Information provided by The International DYSLEXIA
+      Association® Effective Reading Instruction for Students with Dyslexia.
+      https://dyslexiaida.org/fact-sheets/)
+
+Synthetic Phonics instruction—This type of phonics instruction begins with single letters and
+single sounds, Students are taught how the speech sounds and the parts of language
+(morphemes) are blended together to form whole words.
+
+Analytic Phonics instruction—This type of phonics instruction begins with whole words.
+
+
+
+
+                                                                                                    22
+Students are taught how whole words can be broken into their component parts (Birsh, 2011).
+
+As appropriate intervention is provided, students with dyslexia make significant gains in
+reading and spelling. Effective instruction is highly structured, systematic, explicit, and
+intensive.
+
+Assessment data should guide instruction by identifying the specific skills and strategies that
+students need to learn. When students struggle to learn, providing adaptations to high-quality
+instruction may be beneficial. Some of the most effective adaptations include: (a) making
+instruction more explicit and systematic; (b) increasing opportunities for practice; (c) providing
+texts at the appropriate instructional level; and (d) monitoring student mastery of key skills and
+strategies and re-teaching as necessary (Denton, 2008, p. 3).
+
+Instructional Components
+The following list summarizes the components of effective reading instruction for students with
+dyslexia, which was adapted from Essentials of Dyslexia Assessment and Instruction (Mather &
+Wendling, 2012).
+
+                        Instruction in Phonological Awareness
+Students need to be taught:
+   •   Blending: The ability to combine individual sounds together to create spoken words.
+   •   Segmentation: The breaking down of spoken words into separate, individual sounds.
+   •   Manipulation: The ability to move, delete, or add speech sounds within words.
+
+                   Instruction in Basic Reading and Spelling Skills
+Phoneme-Grapheme Relationships:
+The understanding of the relationships between sounds and the letter(s) that represent those
+sounds for both reading and spelling.
+   •   Explicit and systematic teaching of sound-letter relationships in a sequential order of
+       increasing complexity.
+   •   Opportunities to apply knowledge of letters and sounds through writing activities.
+   •   Activities in which students manipulate letters to change words and spelling patterns
+       (e.g. change one letter in “cat” to make it the word “cut”).
+   •   Activities that encourage students to use new words in their writing and speaking.
+
+
+
+
+                                                                                                     23
+High Frequency Words:
+Words that occur frequently in text but have not been taught yet. Through practice and repeated
+exposures, students are taught to recognize these common words instantly.
+
+Structural Analysis:
+   •   Syllable instruction—Instruction that teaches the six basic syllable types (closed,
+       vowel-consonant-e, open, consonant-le, r-controlled, vowel team)
+   •   Syllable division rules
+   •   Morphology—the study of base words, roots, prefixes, and suffixes
+
+Spelling:
+   •   Activities to increase awareness of spelling patterns.
+   •   Instruction that is coordinated with the reading instruction.
+   •   Systematic instruction in common spelling rules.
+
+Effective Commercial Programs:
+Many structured programs exist that can be used to help students increase their word reading
+and spelling accuracy.
+
+                             Instruction in Reading Fluency
+Reading Fluency:
+The ability to read a text accurately, quickly (automaticity), and with proper expression
+(prosody) and comprehension.
+
+Accuracy:
+Ability to read words correctly.
+
+Rate:
+Speed of reading at the single word level or at the connected text level.
+
+Prosody:
+Reading in a way that is like speech with appropriate changes in intonation and attention to
+syntax and punctuation
+
+   •   Mastery to the degree of automaticity that frees all attention and cognition for
+       comprehension
+   •   Repeated reading
+   •   Timed reading activities with graphs and charts to measure and monitor progress
+
+
+
+
+                                                                                                  24
+Section 4: Dyslexia and English Learners (ELs)
+
+“Dyslexia is a neurological, brain-based disorder that affects individuals of all ages across
+different languages. For ELs and other bilingual readers, identification of dyslexia becomes a
+challenging process that should consider multiple factors and the unique characteristics of each
+case” (Mather & Wendling, 2012, p. 236).
+
+Currently researchers are exploring best practices for the accurate diagnosis of dyslexia and
+other disabilities in English learners. Although there is no one definite best practice, it is clear
+that a one-time assessment may not provide the most accurate picture of the individual. When
+an English learner experiences reading difficulties because of dyslexia or because of learning a
+second language, interventions and periodic measures of progress in reading and oral language
+are essential (Wilkinson, et al., 2006). If reading continues to lag behind oral language for an
+extended period, formal assessment procedures are employed to confirm a diagnosis of
+dyslexia. In addition to standardized tests, however, the evaluation should include interviews
+with family members and teachers, measures of reading performance in both languages, and
+accurate measures of English proficiency (Mather & Wendling, 2012 p. 237).
+
+Readers with dyslexia often read inaccurately or slowly or both, and so they fail to achieve the
+goal of reading for meaning. Thus, interventions should be provided early, and progress
+monitored carefully, rather than waiting to determine if an individual has dyslexia (Mather and
+Wendling, 2012, p. 237).
+
+When ELs enter our classrooms with limited literacy skills (listening, speaking, reading,
+writing) in their own language, there is no single program that will meet their needs. Educators
+and parents must understand that in many cases, ELs appear to speak English well in hallways,
+on playing fields, and in small talk before a lesson begins, but struggle to use English well on
+classroom assignments or on tests. Students acquire basic communication skills when immersed
+in the second language, but they may not yet have acquired a high level of academic language,
+which tends to be cognitively demanding and highly decontextualized (Cummins, 1984).
+
+
+
+
+                                                                                                       25
+Section 5: Specific Learning Disability–Dyslexia
+
+Prevalence and Characteristics of Students with SLD
+
+   •   Learning Disabilities are the largest category of students receiving special education
+       services.
+
+   •   There are 2.4 million American public school students (approximately 5% of the total
+       public school enrollment) identified with learning disabilities under the Individuals with
+       Disabilities Education Act (IDEA).
+
+   •   This amounts to 42% of the 5.7 million school-age children with disabilities.
+
+   •   The number of students with learning disabilities has declined by 18% from 2002, 2011,
+       while total special education has declined by just 3%.
+
+   •   Two thirds of students identified with learning disabilities are male.
+
+   •   Black and Hispanic students are overrepresented in many states while white and Asian
+       students are underrepresented in the learning disabilities category.
+
+                                           (Cortiella, Candace and Horowitz, Sheldon H., 2014.)
+
+Definition of a Specific Learning Disability
+According to the Arizona Revised Statutes (A.R.S.) §15-761, “Specific learning disability”
+means a disorder in one or more of the basic psychological processes involved in understanding
+or in using language, spoken or written, which may manifest itself in the imperfect ability to
+listen, think, speak, read, write, spell, or perform mathematical calculations. The term “specific
+learning disability” includes conditions such as perceptual disabilities, brain injury, minimal
+brain dysfunction, dyslexia, and developmental aphasia. That term does not include a learning
+problem that is primarily the result of visual, hearing, or motor disabilities, of intellectual
+disabilities, of emotional disturbance, or of environmental, cultural, or economic disadvantage.
+
+The United States Department of Education includes dyslexia in its definition of specific
+learning disability. Federal regulations (34 CFR 300.8 (c)(10)) state that under the Individuals
+with Disabilities Education Act (IDEA), “specific learning disability (SLD)” is defined, in
+part, as “a disorder in one or more of the basic psychological processes involved in
+understanding or in using language, spoken or written, that may manifest itself in the
+imperfect ability to listen, think, speak, read, write, spell, or to do mathematical calculations,
+including conditions such as perceptual disabilities, brain injury, minimal brain dysfunction,
+dyslexia, and developmental aphasia.”
+
+While dyslexia is not itself an eligibility category under the IDEA, a child’s dyslexia may result
+in the child being determined eligible for special education and related services under the
+                                                                                                     26
+disability category of specific learning disability. If the child requires special education and
+related services to access and make progress in the general education curriculum because of the
+specific learning disability, the child would be eligible to receive services through an
+individualized education program (IEP). The federal law does not prevent a school psychologist
+or other qualified evaluator from using the term “dyslexia” to describe how a child’s learning
+disability manifests.
+
+However, not every child with dyslexia will qualify for an IEP. The child will not qualify if he
+or she does not need specially designed instruction to access and progress in the general
+education curriculum. Regardless of whether a child has dyslexia or any other condition
+included in the definition of “specific learning disability,” if a disability is suspected by the
+public education agency (PEA) where the child is enrolled or the school district where the child
+resides if the child is not school aged, the PEA must conduct an evaluation to determine
+whether that child is a child with a disability in need of special education.
+
+When determining a learning disability, it is permissible to assess an English learning student in
+their native language when possible. This provides a better opportunity to more accurately
+diagnose dyslexia.
+
+Evaluation Process and Individualized Education Programs (IEPs)
+To access the Arizona Technical Assistance System (AZ-TAS) documents regarding the
+Evaluation Process and Process for Developing Individualized Education Programs
+(IEPs), please visit http://www.azed.gov/specialeducation/az-tas-documents/.
+
+
+
+
+                                                                                                     27
+Section 6: Technology for Children with Dyslexia
+
+Assistive technology and universal design for learning (AT/UDL) Loan Library resources may
+be provided to assist the teacher or parent of any child, including those children who have
+dyslexia. Technology devices may involve a low-tech system constructed from items purchased
+at a local hardware store or a high-tech customized computer and software system. In general,
+technology is any device required to help a student access learning. Technology may include
+training not only for the student but also for educators, other staff members, and parents.
+
+School teams should consider the student (S), the environment (E), and the task (T) in order to
+determine which technology tools (T) should be tried. This process is known as the SETT
+model. There are other frameworks for considering technology, but the SETT model is the most
+widely used in school settings.
+
+Some students with dyslexia may find it easier to read when the spacing between lines,
+between words, or even between the characters within words is increased. Here are some easy,
+free ways to change these parameters:
+   •   Use the formatting features to change the spacing in Word and Google documents.
+   • Use Chrome extensions such as Readability and AT Bar to change spacing on
+     webpages.
+   •   Use Settings when reading on mobile devices such as smart phones or tablets to change
+       spacing.
+
+For students who are learning to fluently decode words, technology can allow a student to access
+the content by listening to text instead of (or in addition to) reading it. Here are some examples:
+
+   •   Audio Books are recorded books that are narrated by human readers. Audio books do
+       not display text. Sources for audio books include Learning Ally (eligibility
+       requirements), Audible.com (no eligibility requirements), amazon.com (no eligibility
+       requirements), freeclassicaudiobooks.com (no eligibility requirements), and your local
+       public library (no eligibility requirements).
+
+   •   Text-Synched Audio Books are audiobooks that are read aloud by the computer’s voice
+       while the words that are being spoken are highlighted. This is sometimes referred to as
+       “multi-sensory reading.” Tools that allow for this feature include these:
+              Bookshare
+              Voice Dream Reader iOS app
+
+   •   E-books are electronic versions of printed books displayed on a computer or
+       handheld device designed specifically for this purpose. Some, but not all, e-books
+       may be read aloud by a computerized (synthesized) voice.
+
+   •   Freeware that will read text from Word docs and PDFs aloud, such as Balabolka.
+
+   •   iOS and Android OCR and text-to-speech apps that will read text aloud, such
+                                                                                                  28
+       as Prizmo, TextGrabber, Voice Dream Reader.
+
+ Students are often expected to read information from the Internet independently. There are
+ many technology tools that will read text from webpages aloud. These include:
+   •   Chrome extensions such as SpeakIt
+   •   Snap&Read Universal Chrome extension
+   •   Read & Write Gold Chrome extension
+
+Processing issues and vocabulary deficits make it difficult for some students to understand
+grade-level text, even when they are listening to it. Technology tools that either decrease the
+complexity of the text, or define words in accessible ways include:
+   •   Snap&Read Universal software and app with text leveling
+   •   Rewordify.com website
+   •   Text Compactor website
+   •   NewsELA website
+   •   Dictionary.com website with synonym complexity slider
+   •   Crack the Books digital textbooks that present science content at five reading levels
+   •   Simple Wikipedia
+
+Parents of all school-age children can use Arizona Technology Access Program’s federally
+funded, free Assistive Technology Demonstration and Loan Program. Devices may be
+borrowed for up to two weeks and a face-to-face consultation or demonstration of an item may
+be arranged at the program’s office, located in central Phoenix. Please contact AzTAP at (602)
+728-9534, or send an email to askAzTAP@nau.edu. Schools can check out an item from the
+lending library at the same time that parents check out the identical item from AzTAP. This
+allows the school leadership teams to collect and analyze data from classroom work and
+homework using the AT being tried. Tools included in this document do not represent an
+exhaustive list but a beginning point for getting started with assistive technology.
+
+The Arizona Department of Education neither recommends nor endorses any device or system.
+Each school leadership team must make individualized data-driven recommendations for their
+students’ accommodations for reading. For more information, the AT Consideration Guides
+may be accessed through the Arizona Department of Education Exceptional Student Services
+website in Az-Tech (Arizona Department of Education):
+https://www.azed.gov/specialeducation/at/.
+
+
+Additional resource: International Dyslexia Association Assistive Technology for
+   Dyslexic Students & Adults: https://or.dyslexiaida.org/assistive-technology/
+
+
+
+
+                                                                                                  29
+Section 7: For Older Students Struggling with Reading: What Can
+We Do?
+
+Older students who have continued difficulty with reading and spelling can learn to use
+technology to increase their ability to access printed material. Please see Section 6 on how to
+access assistive technology.
+
+The following has been adapted from the Adolescents and Adults with Dyslexia Fact Sheet
+provided for distribution by the International Dyslexia Association
+(https://dyslexiaida.org/adolescents-and-adults-with-dyslexia-fact-sheet/).
+
+
+Identifying and Addressing Instructional Needs
+
+A diagnostic assessment will indicate all areas of reading and writing that should be addressed. If
+an individual has not yet established sufficient word-level skills, direct instruction is necessary.
+
+Under the right conditions, intensive and skillful instruction in basic word reading skills can have
+a significant impact on the comprehension ability of students in fifth grade and beyond (Center
+on Instruction, 2008). The Center on Instruction Report of research findings indicates the
+following are key recommendations for teaching word study to older students:
+
+Teach students . . .
+    •   to identify and break words into syllable types.
+    •   when and how to read multisyllabic words by blending the parts together.
+    •   to recognize irregular words that do not follow predictable patterns.
+    •   the meanings of common prefixes, suffixes, inflectional endings, and roots. Instruction
+        should include ways in which words relate to each other (e.g., “trans-”: “transfer,”
+        “translate,” “transform,” “transition”).
+    •   how to break words into word parts and to combine word parts to create words based on
+        their roots, bases, or other features.
+    •   how and when to use structural analysis to decode unknown words.
+
+Factors for School Success
+First and foremost, an older student with dyslexia should have skilled instruction in deficit areas
+of reading and writing as determined by diagnostic assessments. If the student cannot decode or
+spell efficiently and accurately, he or she will need proficient instruction in these areas to
+progress to more advanced levels of reading and writing.
+
+In addition to direct instruction, the following considerations may be made to assist in school
+success:
+    •   Subject area tutors,
+    •   Accommodations,
+    •   Reduced course load,
+                                                                                                      30
+   •   Major course of study in areas of individual strength,
+   •   Small classes,
+   •   Technology aides such as text readers, smartpen, and spelling and grammar checks.
+
+Factors for Job Success
+Individuals with dyslexia may not be alone when struggling with the reading and writing
+demands of the workplace. Approximately 40 percent of high school graduates lack
+the literacy skills employers seek (Achieve Inc., 2005). An adult with dyslexia may have
+difficulty with work-training courses, even literacy classes, if these are not presented in ways that
+accommodate their learning needs.
+
+Adults with dyslexia can succeed in the workplace with training and other written materials in an
+accessible format, restructured job tasks, and assistive technology (e.g., text-reading systems,
+reading pens, speech-recognition systems, and portable word processors with spell and grammar
+checking.
+
+While early intervention is the best way to help students get on track with their reading and
+writing, it is never too late to help older students and adults make progress and succeed. With
+appropriate instruction, intervention and accommodations, adolescents and adults can achieve
+their goals, too, and make their own unique contributions to the workforce and society.
+
+
+
+
+                                                                                                   31
+Section 8 : For Schools and Districts : What Can We Do?
+
+Instructional Leadership
+
+School instructional leaders must become highly knowledgeable and lead their professional
+learning communities in acquiring literacy skills during the school day, with their students, and
+with each other. Literacy conversations in a school community must be focused on the reader
+and the writer, not upon the literacy activities. These conversations must include ALL of the
+stakeholders who play a role supporting students learning to read. English language practitioners
+need to be at the table and their expertise should be consulted when making literacy decisions for
+English learners.
+
+Inclusive professional literacy learning communities must include the following elements to
+support all students’ learning to read:
+    • Identification of all common beliefs about literacy. What do we believe about literacy
+        learning? Why? Do our beliefs align with our practice? What evidence do we have to
+        support our beliefs?
+    • Opportunities to observe, learn, discuss, and modify to meet the needs of the students
+        collectively. Our students vs. my students.
+    • Celebration of the learning and the learner through collecting evidence (data).
+    • Common literacy language.
+    • Reflection on common literacy practices. What can we take off our plate? What can we
+        refine, adjust, or modify?
+    • Focus on a student’s strengths before weaknesses. Build on those strengths.
+
+Professional literacy conversations must be well grounded in a common language for the whole
+school for all instruction. Stakeholders need to know, identify, and communicate what a high
+performing school looks like and feels like:
+
+Learning Environment (The What of Learning)
+   • Content and language/literacy learning outcomes are posted, measurable, observable, and
+      in student-friendly language (students know what they are learning and why).
+   • Classrooms are student centered, and student work is displayed, current, and accurate;
+      classroom charts are made with/by students (students show evidence of their learning,
+      resources, published works).
+   • Effective classroom management organization exists, and rules, procedures, and behavior
+      expectations are posted.
+   • Classroom library is organized with student input; it’s accessible to all students and
+      contains a variety of genres.
+   • Word walls and vocabulary charts are created with/by students; symbols and pictures are
+      used as a resource by all students.
+   • Manipulatives, objects, and real-world examples are used.
+   • Transitions between activities are effective (sense of urgency).
+
+
+                                                                                                 32
+Teacher Instructional Practices
+   • Demonstration (I do it) occurs for the whole group; easily understandable instruction is
+      provided throughout the lesson: clear language, pacing, visuals, color, and different
+      learning modalities are evident; instruction is explicit.
+   • Shared experiences (we do it) occur with the whole group and small groups.
+   • Guided practice (you do it together) takes place in small groups and 1-1 with minimal
+      guidance; for new learning, fluency and transfer occurs with support (students are in
+      charge of the learning).
+   • Independent practice (you do it) time is provided for mastery of learning.
+   • Closure includes reviewing learning goals with students; various assessments are used
+      (self, formative, interim, summative, anecdotal, exit cards, etc.).
+   • Student learning is monitored; engagement and interactions are noted; feedback is
+      immediate, effective, and specific.
+   • Higher order thinking questions and wait time are incorporated into the lessons.
+
+Student Interactions (The How of Learning)
+   • Students are thinking, listening, speaking, reading, writing, sharing, and discussing.
+   • Students are involved in text activities, note-taking, and research; they use assistive
+      technologies and multi-media materials; they use multiple tools for construction and
+      composition.
+   • Students are involved in goal setting, planning, and assessments (self, formative, interim,
+      summative).
+   • Students are involved in guided practice, projects, conferencing, collaborating, and the
+      community; they use personal coping skills and strategies.
+   • Students perform independent practice for mastery; they practice planning, making
+      choices, autonomy, visualization, and manipulation.
+   • Students perform for a real audience and purpose.
+   • Students participate in higher order thinking and use a variety of learning modalities;
+      physical action is involved.
+
+Student Engagement (The Why of Learning)
+   • Students connect learning to culture, background knowledge, and strengths.
+   • Students are engaged in meaningful, challenging, relevant activities; they become self-
+      determined learners.
+   • Students are engaged in highly motivating real-world experiences and issues.
+   • Students demonstrate learning through planning, thinking, listening, speaking, reading,
+      and writing; they are engaged in shared learning.
+   • Student’s materials, resources, and texts are relevant and suitable to the content and
+      literacy learning outcomes; students are self-regulating by planning, monitoring, and
+      evaluating personal progress.
+   • Students have multiple opportunities for dialogue and conversations (50% student talk);
+      they are engaged in information processing and transfer of learning.
+   • Students are participating in different activities with different accommodations.
+
+
+                                                                                                   33
+Universal Design for Learning
+Universal design for learning (UDL) is a framework based on research in the learning sciences,
+including cognitive neuroscience, that guides the development of flexible learning
+environments that can accommodate individual learning differences Rose & Meyer, 2002).
+Students with dyslexia may experience a struggle with motivation, as they need to work harder
+to achieve what is easier for their peers. The purpose of universal design for learning strategies,
+or UDL, is to help students master learning itself—in short, to become expert learners. Expert
+learners have developed three broad characteristics. They are: (a) strategic, skillful, and goal
+directed; (b) knowledgeable, and (c) purposeful and motivated to learn. Designing curricula
+using UDL allows teachers to remove potential barriers that could prevent learners from
+meeting this important goal. UDL curriculum has four parts: instructional goals, methods,
+materials, and assessments. It is designed for equal access to curriculum by all students.
+
+                                 Figure 8.1 Networks of UDL
+
+
+
+
+                                                                       www.castprofessionallearning.org
+
+Multi-Tiered System of Supports (MTSS)
+In Arizona, MTSS is defined as a coherent continuum of system-wide, data-based problem-
+solving practices supporting a rapid response to the academic and behavioral needs for all
+students. AZMTSS includes ongoing data-based monitoring of the effectiveness of all instruction
+and behavioral supports provided to maximize learning for all students. Within AZMTSS,
+instruction/intervention is delivered across multiple tiers depending on individual student needs
+as identified by student outcome data.
+
+Three tiers describe the level and intensity of instruction/interventions provided across
+the continuum.
+
+   •   Tier 1: Core and universal instruction and supports; academic and behavior instruction
+       and supports designed and differentiated for all students in all settings.
+
+
+
+                                                                                                      34
+    •   Tier 2: Targeted and supplemental interventions and supports; individual or small group
+        targeted instruction/intervention and supplemental supports in addition to and aligned
+        with Tier 1 academic and behavioral instruction and supports.
+    •   Tier 3: Intensive and individualized interventions and supports.
+
+Tier 3 is the most intensive instruction/intervention based on individual student need, which is
+provided in addition to and aligned with Tier 1 and Tier 2 academic and behavioral instruction
+and supports.
+
+                                 Table 8.1 AZMTSS Components
+
+
+
+
+Identifying Challenges Using an Assessment Framework
+Schools collect data on all students to ensure that instruction is appropriate and scientifically
+based. In grades K–3, schools are required to submit, as part of their K–3 Move On When
+Reading Literacy Plan, a comprehensive assessment system. Under the current federal
+legislation, the Every Student Succeeds Act (ESSA), benchmark assessments for the early
+identification of struggling students before they fail are required. In fact, state law requires the
+use of early reading assessments that are built on substantial evidence of best practices.
+
+Carefully chosen, these benchmark assessments can give crucial information about a student’s
+learning and can provide a basis for tiered intervention. Through the tiered intervention
+
+                                                                                                       35
+process, schools can document student’s learning difficulties, provide ongoing assessment, and
+monitor reading achievement progress for students who may be at risk for dyslexia or reading
+difficulties. The early identification of students with dyslexia, as well as the development of a
+system for delivering an early intervention system for these students will have significant
+impact upon their future academic success.
+To support schools and districts in their assessment of reading ability, and in response to
+Arizona Revised Statutes 15-701, the Arizona Department of Education has created the
+Balanced Assessment Framework. The full model of this framework can be found at the
+following link: https://www.azed.gov/standards-practices/balanced-assessment-resources/
+
+                          Table 8.2 Balanced Assessment Framework
+
+
+
+
+Standards Frameworks
+Arizona Early Learning Standards
+
+The Arizona Early Learning Standards have been developed to provide a framework for the
+planning of quality learning experiences for all children three to five years of age. The standards
+cover a broad range of skill development and provide a useful instructional foundation for
+children from diverse backgrounds and with diverse abilities. The standards are intended for use
+by all those who work with young children in any early care and education setting in urban, rural
+and tribal communities. Although the Early Learning Standards document is separated into
+specific domains of learning, the intent is not to suggest that children’s skills develop separately
+or apart from each other. Nor is it the intent that isolated skill instruction be used as an
+appropriate way to support learning during the preschool years. The standards document is based
+on the premises that learning occurs on a continuum and that developmental domains are highly
+interrelated. Children succeed to their highest potential in nurturing environments that support
+their learning across domains. For more information, visit https://www.azed.gov/ece/preschool/
+
+
+
+                                                                                                       36
+Arizona English Language Arts (ELA) Standards
+
+The Arizona English Language Arts Standards (adopted December 2016) provide a framework
+for understanding the skills and knowledge students need to be successful in each grade level.
+
+Anchor standards demonstrate what teachers can expect students to know and be able to do by
+the end of each grade level. The Vertical Alignment of the Arizona State Standards aligns
+curriculum and instruction from grade to grade. To access the Arizona English Language Arts
+Standards, go to the Arizona Department of Education’s K–12 Standards website, or click the
+following link: https://www.azed.gov/standards-practices/k-12standards/english-language-arts-
+standards/
+
+Arizona’s K–3 Literacy Plans
+
+Arizona’s Move On When Reading literacy initiative refers to A.R.S. §15-701, §15-704, and
+§15-211. The focus of the program is to improve the foundational literacy achievement of K–3
+students through early intervention and prevention of reading difficulties. Core reading
+programs, interventions programs, assessment plans, and professional development plans are
+required. For more information, please visit https://www.azed.gov/mowr/
+
+Arizona English Language Proficiency Standards
+
+The ELP Standards provide prerequisite language skills for English learners (ELs) to access
+academic content. The standards provide the foundational linguistic knowledge for students who
+are not proficient in English. A strong grammatical foundation is essential in the language
+acquisition process for ELs. There is a purposeful overlap of the ELP and the Arizona College
+State Standards language skills. The K-12 English Language Proficiency Standards should be
+utilized to guide instruction for English language learners. Classroom materials used in ELD
+instruction reflect content from a variety of academic disciplines including math, social studies,
+and science. The United States Department of Education requires all states to have English
+language proficiency standards for students with limited or no English language knowledge,
+experience, or skills. In response to this federal requirement, the Office of English Language
+Acquisition Services (OELAS) of the Arizona Department of Education (ADE) has developed
+English Language Proficiency (ELP) Standards for English language learners attending public
+and charter schools in Arizona. These standards allow the state of Arizona to gauge student
+progress in English language proficiency and to provide classroom teachers with benchmarks to
+help focus instruction. The standards are designed for teachers in helping English Learners (ELs)
+to become proficient in English as quickly as possible. The Arizona ELP Standards help students
+to possess a linguistic foundation for the academic English that is needed to meet the language
+demands and complexity of content area instruction of math, science, and social studies. For
+more information, please visit: https://www.azed.gov/oelas/elps/
+
+
+
+
+                                                                                                 37
+College and Career Competencies Framework
+
+The College and Career Competency Framework developed by Drs. Gaumer, Erickson and
+Noonan, supports educators in systematically embedding intrapersonal, interpersonal, and
+cognitive competencies into course content. In this way, educators support students to develop
+into career-equipped, lifelong learners who are socially and emotionally engaged. The College
+and Career Competency Wheel includes 26 specific competencies categorized in three domains.
+Each competency is integral to in-school and post-secondary success. Teaching these
+competencies to students with dyslexia is critical, as we prepare them for college and career
+success.
+
+
+
+                  Figure 8.2 College and Career Competency Framework
+
+
+
+
+                                                                       www.cccframework.org
+
+
+                                                                                                 38
+Section 9: Frequently Asked Questions
+Question: What is Arizona’s definition of dyslexia?
+Answer: According to the Arizona Revised Statutes (A.R.S.) §15-249.03(K) “Dyslexia” means a
+   specific learning disorder that is neurological in origin. It is characterized by difficulties with
+   accurate and/or fluent word recognition and by poor spelling and decoding abilities. These
+   difficulties typically result from a deficit in the phonological component of language that is
+   often unexpected in relation to other cognitive abilities and the provision of effective
+   classroom instruction. Secondary consequences may include problems in reading
+   comprehension and reduced reading experience that can impede growth of vocabulary and
+   background knowledge.
+
+Question: Where is the word “dyslexia” in federal legislation?
+Answer: It’s in the Individuals with Disabilities Education Act (IDEA) Regulations: §300.8
+   (c)(10). Specific learning disability. (i) General. Specific learning disability means a disorder
+   in 1 or more of the basic psychological processes involved in understanding or in using
+   language, spoken or written, that may manifest itself in the imperfect ability to listen, think,
+   speak, read, write, spell, or to do mathematical calculations, including such conditions as
+   perceptual disabilities, brain injury, minimal brain dysfunction, dyslexia, and developmental
+   aphasia. (ii) Disorders not included. Specific learning disability does not include learning
+   problems that are primarily the result of visual, hearing, or motor disabilities, of mental
+   retardation, of emotional disturbance, or of environmental, cultural, or economic
+   disadvantage.
+
+Question: When a parent brings a diagnosis of dyslexia from a professional outside of a
+   school setting, what happens with this diagnosis?
+Answer: If the parent has requested an evaluation from the school when the parent suspects their
+   child has a specific learning disability in reading, the dyslexia diagnosis from an outside
+   professional becomes part of the evaluation, the review of existing data if the parent has
+   requested an evaluation from the school if the parent suspects their child of having a Specific
+   Learning Disability in reading.
+
+Question: My child is in preschool. Is it possible for him/her to have dyslexia?
+Answer: Under Arizona’s definition of dyslexia, a child with dyslexia has difficulty with reading
+   and spelling. While most preschool children are not yet reading and spelling, difficulties
+   developing phonological awareness and language development may be warning signs that the
+   child is showing traits that are typical of dyslexia. For more information about the
+   characteristics of dyslexia, please see pages 7 and 8 of this dyslexia handbook.
+
+Question: Does failing a reading screening mean my child has dyslexia?
+Answer: No. There are many factors involved in why a student may have performed poorly on a
+   benchmark assessment.
+
+Question: If my child has dyslexia, does this mean my child is in need of special education?
+Answer: Arizona’s definition reiterates that dyslexia is a disorder. With evidence-based
+   practices in reading instruction and response to best practices reading instruction with
+   intervention support as necessary, a child with dyslexia may have his or her educational
+   needs met without receiving special education services.
+                                                                                                    39
+Section 10: Glossary of Terms
+
+Accuracy: The ability to recognize and decode words correctly (Mather & Wendling, 2012).
+
+Alphabetic principle: The basic understanding that spoken language is made up of speech
+   sounds (phonemes) that can be represented by a letter or letter string (graphemes) (Mather &
+   Wendling, 2012).
+
+Analytic instruction: Pertaining to instruction or a process that separates the whole into its
+  constituent parts to reveal the relationship of its parts (Birsh, 2011).
+
+Automaticity: The ability to read a word immediately without conscious use of effort or
+   attention (Mather & Wendling, 2012).
+
+Base words: Words from which many other words are formed. Base words can stand alone,
+   unlike root words. Examples of a base word and various forms are “migrate”: “migration,”
+   “migrant,” “immigration,” “immigrant,” “migrating,” “migratory” (Hougen & Smartt, 2012).
+
+Benchmark assessments: Periodic assessments to measure student achievement, usually given
+   during three different points in the year (beginning, middle, and end) to assess student
+   progress and provide data for teachers to adjust their instruction to target student weaknesses
+   (Hougen & Smartt, 2012).
+
+Blending: The ability to combine individual sounds together to create spoken words (Mather &
+   Wendling, 2012).
+
+Consonant: One of a class of speech sounds in which sound moving through the vocal tract is
+  constricted or obstructed by the lips, tongue, or teeth during articulation (Birsh, 2011).
+
+Decodable text: Reading materials that are used to practice common phonic elements; includes
+   words with regular sound-symbol correspondences (e.g., “hat,” “cat,” “rat”) (Mather &
+   Wendling, 2012).
+
+Decoding: Applying knowledge of sound-symbol correspondences to correctly pronounce a
+   written word; word recognition (Mather & Wendling, 2012).
+
+Diagnostic assessment: Assessment used to pinpoint specific areas of weakness; provides more
+   in-depth information to clarify student’s skills and instructional needs (Hougen & Smartt,
+   2012).
+
+Differentiated instruction: A framework for instructional planning that maximizes student
+    learning through flexible approaches; suggests how to vary the content, process, or product to
+    meet individual student needs.
+
+Digraphs: A combination of two letters representing one sound, as in ph and ey.
+
+Diphthong: A sound formed by the combination of two vowels in a single syllable, in which the
+                                                                                                 40
+    sound begins as one vowel and moves toward another (as in coin, loud and side).
+
+Encoding: Spelling, translating speech sounds into graphemes (Mather & Wendling, 2012).
+
+Explicit instruction: An approach that involves direct instruction; the teacher demonstrates the
+   task, provides guided practice with immediate, corrective feedback before the student
+   attempts the task independently (Mather & Wendling, 2012).
+
+Formative assessments: Formative assessment is a planned, ongoing process used by all
+   students and teachers during learning and teaching; it is used to elicit and use evidence of
+   student learning to improve student understanding of intended disciplinary learning outcomes
+   and support students in becoming more self-directed learners (ADE, Balanced Assessment
+   Framework).
+
+Fluency: The ability to read a text accurately, quickly, and with appropriate expression (Mather
+   & Wendling, 2012).
+
+Grapheme: The fundamental print unit in a written language; graphemes are used to represent
+   phonemes, but also include both numbers and punctuation marks (Mather & Wendling,
+   2012).
+
+High frequency word: A word that is encountered numerous times in text and is important to
+   know (Birsh, 2011).
+
+Morpheme: Smallest unit of meaning in a language (e.g., “-s” signifies plural) (Mather &
+  Wendling, 2012).
+
+Morphology: The identification, analysis, and description of the structure of morphemes and
+  other units of meaning in a language (Mather & Wendling, 2012).
+
+Nonsense Word: A word having no meaning by itself, the spelling of which is usually phonetic
+   (e.g., “vop”). Reading and spelling nonsense words are phonic reinforcement for students
+   who have already memorized a large number of words. Nonsense words can be used for
+   teaching older students to apply phonetic decoding.
+
+Onset: The initial written or spoken single consonant or consonant cluster before the first vowel
+  in a syllable (e.g., /s/ in “sit,” /str/ in “strip”). Some syllables do not have an onset (e.g., “on,”
+  “ask”).
+
+Orthography: The written system of a language, including the spelling, punctuation, and
+   capitalization rules (Mather & Wendling, 2012).
+
+Phonemes: The individual speech sounds of spoken language (Mather & Wendling, 2012).
+
+Phoneme-grapheme connections: The relationships between the speech sounds (phonemes)
+   and the spellings (graphemes) (Mather & Wendling, 2012).
+
+Phonemic awareness: The ability to recognize that words are composed of discrete segments of
+                                                                                                       41
+    speech sounds (Mather & Wendling, 2012).
+
+Phonics: An instructional reading method for teaching the relationship between sounds and
+   letters and how to represent those sounds in writing. (Mather & Wendling, 2012).
+
+Phonology: The study of the speech sounds of a language (Mather & Wendling, 2012).
+
+Phonological awareness: A global awareness of speech sounds, such as syllables, onset and
+   rime, and phonemes. Typically includes the ability to manipulate sounds (blend or segment)
+   at different levels of the speech-sound system. Example: syllables within words (e.g.,
+   “cupcake” is made up of “cup” and “cake”), onset and rime (e.g., “dog” begins with /d/ and
+   ends with /og/) (Hougen & Smartt, 2012).
+
+Prefix: An affix attached to the beginning of a word that changes the meaning of that word (e.g.,
+   “tri-” in “tricycle”) (Birsh, 2011).
+
+Professional learning communities (PLCs): Professional learning within communities requires
+   continuous improvement, promotes collective responsibility, and supports alignment of
+   individual, team, school, and school system goals. Learning communities convene regularly
+   and frequently during the workday to engage in collaborative professional learning to
+   strengthen their practice and increase student results. Learning community members are
+   accountable to one another to achieve the shared goals of the school and school system and
+   work in transparent, authentic settings that support their improvement (Learning Forward,
+   2017 https://learningforward.org/standards/learning-communities).
+
+Progress monitoring assessments: Used to determine whether students are making adequate
+   progress. May be curriculum embedded (measuring to what extent students have mastered
+   curriculum) or general/external (measuring critical reading skills, such as phonemic
+   awareness, phonics fluency, vocabulary, or comprehension). They serve to predict success in
+   meeting grade-level expectations (Hougen & Smartt, 2012).
+
+Prosody: The rhythms and intonations of a language (expression) (Mather & Wendling, 2012).
+
+Rapid automatized naming (RAN): The ability to quickly name familiar objects or symbols
+   (Mather & Wendling, 2012).
+
+Reading comprehension: A multicomponent, highly complex process that involves many
+   interactions between readers and what they bring to the text (previous knowledge, strategy
+   use), as well as variables related to the text itself (interest in the text, understanding of text
+   types) (Hougen & Smartt, 2012).
+
+Reading rate: Speed of reading at the single word level or at the connected text level. (Mather &
+   Wendling, 2012).
+
+Rime: Linguistic (language) term; the part of a syllable that begins with the vowel and includes
+   what follows; different from rhyming, which is an oral language activity (e.g., onset /b/, rime
+   /at/. What is the word? “bat”) (Hougen & Smartt, 2012).
+
+                                                                                                        42
+Root: Main part of a word; affixes are added to the roots to make new words (e.g., “sect”:
+   “intersect,” “intersection,”) (Hougen & Smartt, 2012).
+
+Screening assessment: Used to identify students who may be at risk for reading difficulty; in
+   some cases, may be referred to as a benchmark assessment (Hougen & Smartt, 2012).
+
+Segmentation: The ability to break apart spoken words into syllables or phonemes (Mather &
+   Wendling, 2012).
+
+Sequencing: In multisensory structured language education, the orderly presentation of
+   linguistic concepts based on frequency and ease of learning in a continuous series of
+   connected lessons (Birsh, 2011).
+
+Structural analysis: The perception and examination of syllables and morphemes. Structural
+   analysis enables the reader to recognize different syllables and decode long, unfamiliar words
+   (Birsh, 2011).
+
+Suffix: A morpheme attached to the end of a word that creates a word with a different form or
+   use (e.g., “-s” in “cats,” “-ing” in “lettering”); suffixes include inflected forms indicating
+   tense, number, person, and comparatives (Birsh, 2011).
+
+Summative data collection: Procedure to gather information about the accumulation and
+  integration of knowledge to be applied to long-term comprehensive teaching goals; typically
+  collected using norm-referenced measures but sometimes collected with curriculum- and
+  criterion-referenced tests (Birsh, 2011).
+
+Syllable: A unit of speech containing one vowel sound, with or without surrounding consonants
+    (Mather & Wendling, 2012).
+
+Systematic instruction: Definite method for a procedure, carried out in a step-by-step process
+   (Hougen & Smartt, 2012).
+
+Universal design for learning (UDL): A framework for instructional planning that addresses
+   the needs of a wide range of students and minimizes the need for adaptations (Mather &
+   Wendling, 2012).
+
+Universal screening assessments: Type of criterion-referenced assessments that are designed to
+   be teacher friendly so that they can be quickly administered to all children in a class several
+   times per year; the screening assessments help a teacher determine which students are
+   achieving as expected and which are at risk for specific components of reading (Hougen &
+   Smartt, 2012).
+
+Virgule: Another term for slash ( / ).
+
+Vocabulary: The store of words that a person recognizes and/or uses in his or her oral and
+   written language for communication and comprehension (Birsh, 2011).
+
+Voiced consonant: Consonant sound produced in which vibration of vocal cords is present (e.g.,
+                                                                                                    43
+   /b/, /d/) (Hougen & Smartt, 2012).
+
+Vowel: Speech sound produced by the free flow of air through the vocal tract (Hougen & Smartt,
+  2012).
+
+Word recognition: Quick identification (recognition) of a previously learned word and its
+  meaning (Hougen & Smartt, 2012).
+
+                                   Glossary References:
+Birsh, J. R. (2011). Multisensory teaching of basic language skills. Baltimore, MD: Paul H.
+    Brookes.
+
+Hougen, M. C., & Smartt, S. M. (2012). Fundamentals of literacy instruction and assessment,
+   pre-K–6. Baltimore, MD: Paul H. Brookes.
+
+Mather, N. & Wendling, B. (2012). Essentials of dyslexia: Assessment and intervention.
+   Hoboken, NJ: John Wiley & Sons.
+
+
+
+
+                                                                                              44
+Section 11: Additional Resources
+
+Arizona Department of Education Webpages
+Arizona Promising Practices: www.azpromisingpractices.com
+
+Assessment: https://www.azed.gov/assessment/
+
+Assistive Technology: https://www.azed.gov/specialeducation/at/
+
+AZ Find: https://www.azed.gov/specialeducation/az-find/
+
+Dyslexia: https://www.azed.gov/mowr/dyslexia/
+
+Early Childhood Education Publications and Manuals: https://www.azed.gov/ece/publications-manuals/
+Exceptional Student Services: http://www.azed.gov/special-education/
+
+K–12 Standards: http://www.azed.gov/standards-practices/
+
+Move On When Reading: http://www.azed.gov/mowr/
+
+Multi-Tiered System of Supports: http://www.azed.gov/mtss/
+
+Office of English Language Acquisition (OELAS): http://www.azed.gov/oelas/
+
+
+
+
+                                                                                          45
+Legislation
+Arizona Revised Statutes (A.R.S.) https://www.azleg.gov/
+
+A.R.S. §15-704 - Reading proficiency; dyslexia screening plan; definitions
+A.R.S. §15-219 - Dyslexia and reading impairment screening, intervention,
+   accommodation and technology; continuing education; rules; training
+A.R.S. §15-249.10 - Dyslexia handbook
+A.R.S. §15-211 - K-3 reading program; dyslexia specialist; dyslexia training;
+   receipt and use of monies; additional funding; report; program termination
+A.R.S. §15-701 - Common school; promotions; requirements; certificate;
+   supervision of eighth grades by superintendent of high school district; high
+   school admissions; academic credit; definition
+A.R.S. §15-501.01 - Requirements for teachers; teaching certificates; rules;
+   reciprocity; placement
+
+Individuals with Disabilities Education Act (IDEA) 2004
+
+IDEA—Regulations: Early Intervening Services:
+   http://www.ideapartnership.org/index.php?option=com_content&view=article&id=842&
+
+Office of Special Education and Rehabilitative Services Dyslexia Blog
+     https://sites.ed.gov/osers/category/events/dyslexia/
+
+Requirements for a Statewide System: https://sites.ed.gov/idea/regs/c/b/303.110
+
+
+Every Student Succeeds Act 2015
+
+https://www.ed.gov/essa?src=rn
+
+
+
+
+                                                                                      46
+Web Links and Sources
+AEM Navigator: http://aem.cast.org/navigating/aem-navigator.html
+
+American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders
+  (5th ed.). Arlington, VA: American Psychiatric Publishing.
+
+Burns, M. S., Griffin, P., & Snow, C. E. (1998). Starting out right: A guide to promoting
+   children’s reading success. Washington, DC: National Academy Press.
+
+Denton, C. (2008). Classroom reading instruction that supports struggling readers: Key
+   components for effective teaching. Washington, DC: RtI Action Network. Retrieved
+   October, 14, 2008.
+
+Ehri, L.C. (2005). Learning to read words: Theory, findings, and issues. Scientific Studies of
+   Reading, 9(2), 167–188.
+
+Flanigan, K. (2007). A concept of word in text: A pivotal event in early reading
+   acquisition. Journal of Literacy Research, 39(1), 37–70.
+
+International Dyslexia Association Knowledge and practice standards for teachers of reading..
+     Available at https://dyslexiaida.org/knowledge-and-practices/
+
+International Dyslexia Association website (2020). JUST THE FACTS . . . Effective Reading
+    Instruction for Students with Dyslexia. https://dyslexiaida.org/fact-sheets/)
+
+Methodology: Processes Applied to the Selection, Review, and Analysis of Research Relevant to
+   Reading Instruction. U.S. Department of Health and Human Services.
+   Public Health Service, National Institutes of Health, National Institute of Child Health and
+   Human Development, NIH Pub. No. 00-4769, April 2000
+
+Moats, L. (2015). How spelling supports reading: And why it is more regular and predictable
+  than you may think. http://www.ldonline.org/article/8845/
+
+National Center on Accessible Educational Materials: http://aem.cast.org/
+
+National Center for Learning Disabilities: Available at http://ncld.org/
+
+
+
+
+                                                                                                  47
+National Center on Universal Design for Learning (2017)
+   http://www.udlcenter.org/aboutudl/take_a_tour_udl
+
+National Reading Panel Report:
+   https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Doc
+   uments/report.pdf
+
+Olson, R.K., Keenan, J.M., Byrne, B., & Samuelsson, S. (2014). Why do children differ in their
+   development of reading and related skills? Scientific Studies of Reading, 18(1), 38–54.
+
+OSEP Policy Documents Regarding the Education of Infants, Toddlers, Children and Youth
+  with Disabilities:
+  http://www2.ed.gov/policy/speced/guid/idea/letters/revpolicy/tpevlrvl.html.
+
+Raising Special Kids: Available at http://www.raisingspecialkids.org/
+
+Read On Arizona (Dyslexia Family Version) www.readonarizona.org
+
+Reading Rockets: Available at www.readingrockets.org
+
+Understood for Learning and Attention Issues: http://www.understood.org
+
+Universal Design for Learning: Available at http://www.udlcenter.org
+
+University of Oregon Center on Teaching and Learning. Big ideas in beginning reading:
+   Available at http://reading.uoregon.edu/
+
+Yale Center for Dyslexia and Creativity website (2017). http://dyslexia.yale.edu/
+
+
+
+
+                                                                                                 48
+Section 12: References
+Achieve, Inc. (2005). Raise High School Graduation Requirements. www.achieve.org
+
+Adolescents and Adults with Dyslexia Fact Sheet, International Dyslexia Association (IDA):
+   https://dyslexiaida.org/adolescents-and-adults-with-dyslexia-fact-sheet/
+
+Berninger, V. W., & Wolf, B. (2009). Teaching students with dyslexia and dysgraphia: Lessons
+   from teaching and science. Baltimore, MD: Paul H. Brookes Publishing.
+
+Birsh, J. R. (2011). Multisensory teaching of basic language skills. Baltimore, MD: Paul H.
+    Brookes Publishing Co.
+
+Bond, G. L., & Dykstra, R. (1997). The cooperative research program in first-grade reading
+   instruction. Reading Research Quarterly, 32, 348–427. (Original work published 1967).
+
+Carreker, S. (2008, September). Is my child dyslexic? The International Dyslexia Association.
+   Retrieved from https://www.idaontario.com/wp-content/uploads/2015/04/IsMyChildDyslexic.pdf
+
+Consortium on Reaching Excellence in Education (CORE) (2008). Assessing reading: Multiple
+   measures for kindergarten through twelfth grade, 2nd edition. Novato, CA: Arena Press.
+
+Cortiella, Candace and Horowitz, Sheldon H. The State of Learning Disabilities: Facts, Trends
+   and Emerging Issues. New York: National Center for learning Disabilities, 2014.
+
+Cummins, J. (1984). Bilingualism and special education: Issues in assessment and pedagogy.
+  San Francisco, CA: College-Hill Press.
+
+Gough, P. B., & Tumner, W. E. (1986). Decoding, reading, and reading disability. Remedial and
+   Special Education, 7(1), 6–10. doi:10.1177/074193258600700104.
+
+Harris, B. & Bradshaw, L. (2018). Battling boredom. Routledge: New York, NY.
+
+Hougen, M. C., & Smartt, S. M. (2012). Fundamentals of literacy instruction and assessment,
+   pre-K–6. Baltimore, MD: Paul H. Brookes.
+
+Kilpatrick, D. A. (2015). Essentials of assessing, preventing, and overcoming reading
+   difficulties. Hoboken, NJ: John Wiley & Sons.
+
+Mather, N. & Wendling B. J. (2012). Essentials of dyslexia: Assessment and intervention.
+   Hoboken, NJ: John Wiley & Sons.
+
+Moats, L. (2009). LETRS Module 1: The Challenge of Learning to Read, p. 60–61. Longmont,
+  CO: Sopris West.
+
+
+                                                                                                49
+Moats, L. & Tolman, C. (2014). LETRS Module 10: Reading Big Words: Syllabication and
+  Advanced Decoding. Longmont, CO: Cambium Learning Sopris Learning.
+
+Moats, L. C. & Daken, K. E. (2008). Basic facts about dyslexia and other reading problems. The
+  International Dyslexia Association.
+
+Rose, DH, & Meyer, A (2002). Teaching Every Student in the Digital Age: Universal
+   Design for Learning Alexandria, VA: ASCD.
+
+Simos, P. G., Rezaie, R., Fletcher, J. M., Juranek, J., Passaro, A. D., Li, Z., … Papanicolaou,
+   A. C. (2011). Functional Disruption of the Brain Mechanism for Reading: Effects of
+   Comorbidity and Task Difficulty Among Children With Developmental Learning
+   Problems. Neuropsychology, 25(4), 520–534. http://doi.org/10.1037/a0022550
+
+Tumner, W., & Greaney, K. (2010). Defining dyslexia. Journal of Learning Disabilities, 43,
+  229–243.
+
+Wilkinson, C., Ortiz, A., Robertson, P., & Kushner, M. (2006). English language learners with
+   reading-related LD. Journal of Learning Disabilities, 39, 129-
+   141.doi:10.1177/00222194060390020201.
+
+
+
+
+                                                                                                  50
+

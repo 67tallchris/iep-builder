@@ -1,0 +1,447 @@
+SMART Goal Compliance Rubric
+** The purpose of this chart is to assist in clarifying what elements MUST be present for SMART goals to meet compliance standards. This chart is not intended
+to provide examples for all of the best practice SMART goal elements that could be included, but rather it provides a few basic examples that do and do not
+meet compliance standards.
+
+**For discussion purposes, indicator 200.810.b is broken down by each of the five parts of a SMART goal.
+
+ 200.810 A statement of measurable annual goals, including academic and functional goals: The IEP includes goals that:
+           200.810.b Are written in terms that are:
+                     200.810.b.(1) Specific to a particular skill or behavior to be achieved,
+                     200.810.b.(2) Measurable,
+                     200.810.b.(3) Attainable (can reasonably be accomplished within the duration of the IEP),
+                     200.810.b.(4) Results oriented, and
+                     200.810.b.(5) Time-bound (generally happen within one (1) year)
+
+     Requirement and
+                                            Focus                           Out of Compliance                                       In Compliance
+       Descriptors
+ 200.810.b.(1):                   Name the specific skill or       No specific skill/targeted behavior        Includes specific skill or targeted behavior
+ Specific to a particular skill   targeted behavior that the       stated
+ or behavior to be achieved       goal is addressing.                                                         Skill or behavior being addressed is clearly identified
+                                                                   Skill listed is vague or too broad
+
+                                                                                                          Example:
+                                                               Example:
+                                                                                                          1. Increase basic reading by reading 20 words following the CVC
+                                                               1. Increase basic reading skills from
+                                                                                                               pattern
+                                                               2. Increase writing skills
+                                                                                                          2. Increase written expression by writing complete sentences to
+                                                               3. Will maintain a passing grade in math
+                                                                                                               include correct capitalization and end punctuation
+                                                                   class
+                                                                                                          3. Increase single digit multiplication computation skills
+
+     Does your SMART Goal contain the following                                    YES                                                     NO
+                           element?
+ Evidence that the IEP goal is clearly focused on a
+ particular skill or targeted behavior with a desired
+ outcome.
+
+
+
+
+                                                                                                                                   SMART Goal Rubric - Nov 2021
+       Requirement and
+                                            Focus                              Outof
+                                                                               Out ofCompliance
+                                                                                     Compliance                                                       In Compliance
+         Descriptors
+    200.810.b.(2):               Include a baseline and           ●    No baseline and/or mastery criteria                ●    Baseline and/or mastery criteria is included within the IEP
+    Measurable                   mastery criteria. The                 included within the IEP
+                                 method for collecting data                                                               ●   Baseline data
+                                                                                                                              Baseline data is
+                                                                                                                                            is clearly
+                                                                                                                                               clearly stated
+                                                                                                                                                       stated within
+                                                                                                                                                              withinthe
+                                                                                                                                                                     theIEP
+                                                                                                                                                                         IEP
+                                                                  ●    Baseline data
+                                                                       Baseline data is
+                                                                                     is vague
+                                                                                        vague or
+                                                                                              or not defined..
+                                                                                                 not defined
+                                 must make sense to
+                                 anyone.
+                                                                  Example:                                                Example:
+                                                                  …increase
+                                                                      increase toto aa 3rd
+                                                                                       3rd grade
+                                                                                           gradereading
+                                                                                                  readinglevel…(no
+                                                                                                              level (no   Given a text at 3.0 grade level, XXX will answer literal
+                                                                                                                          comprehension questions with 80% accuracy in 4/5 trials. (Baseline
+                                                                  baseline for this goal stated in text of goal
+                                                                                                                          is 50% accuracy.)
+                                                                  or in IEP)
+                                                                                                                          …will   increase time
+                                                                                                                            will increase  time on
+                                                                                                                                                on task
+                                                                                                                                                    task from
+                                                                                                                                                         from 22 minutes
+                                                                                                                                                                 minutes to
+                                                                                                                                                                         to 33 minutes
+                                                                                                                                                                               minutes…..
+                                                                  …will
+                                                                      willincrease
+                                                                           increase time
+                                                                                      timeonontask.
+                                                                                                task. (no
+                                                                                                      (no mastery
+                                                                                                             mastery
+                                                                  criteriastated
+                                                                  criteria   statedinintext
+                                                                                        textofofgoal
+                                                                                                 goalororininIEP)
+                                                                                                              IEP)
+
+       Does your
+       Does your SMART
+                 SMART Goal
+                       Goalcontain
+                            contain the
+                                    the following
+                                        following
+                                                                                          YES                                                               NO
+                           element?
+    Evidence that the IEP goal can be clearly measured for
+    progress.
+
+
+
+
+     Requirement and
+                                             Focus                               Out of Compliance                                                     In Compliance
+        Descriptors
+200.810.b.(3):                   Based on data in the             ●     Depending on the student ability level            ●    Depending on the student ability level demonstrated in the
+Attainable(can
+Attainable (can reasonably
+                 reasonably      current and previous                   demonstrated in the PLAAFP, criteria                   PLAAFP, criteria for attaining mastery appears to be reasonable
+be accomplished within           PLAAFPs, itit is
+                                 PLAAFPs,      is reasonable to
+                                                  reasonable to         for attaining mastery appears to be
+the duration of the IEP)         expect the goal can be                 unreasonable                                      Example:
+                                 accomplished within the life                                                             …from
+                                                                                                                             from45%
+                                                                                                                                   45%to to70%
+                                                                                                                                           70% accuracy
+                                                                                                                                                accuracy…(information     from
+                                                                                                                                                           (information from     PLAAFPindicates
+                                                                                                                                                                              PLAAFP      indicates
+                                 of the IEP.                                                                              previous rate of progress is similar to the rate of progress identified
+                                                                  Example:                                                in goal)
+                                                                  …from  10%to
+                                                                   from 10%  to85%
+                                                                                85% accuracy
+                                                                                     accuracy (if
+                                                                                              (if                         …from
+                                                                                                                           from 5050 sight
+                                                                                                                                      sight words
+                                                                                                                                            words to
+                                                                                                                                                   to 100
+                                                                                                                                                      100sight
+                                                                                                                                                            sightwords…  (information from
+                                                                                                                                                                  words (information     from
+                                                                  information from PLAAFP indicates                       PLAAFP indicates
+                                                                                                                          PLAAFP    indicatesrate
+                                                                                                                                              rate of
+                                                                                                                                                   of sight
+                                                                                                                                                      sight word  acquisition is
+                                                                                                                                                             word acquisition  is great
+                                                                                                                                                                                  great enough
+                                                                                                                                                                                        enough to
+                                                                                                                                                                                                to
+                                                                  previous annual progress was only 20%)                  master this goal within IEP cycle)
+
+
+
+
+2                                                                                                                                                   SMART Goal
+                                                                                                                                                    SMART GoalRubric
+                                                                                                                                                               Rubric–-Nov
+                                                                                                                                                                       Nov2021
+                                                                                                                                                                           2021
+       Does your
+       Does your SMART
+                 SMART Goal
+                       Goalcontain
+                            contain the
+                                    the following
+                                        following
+                                                                                       YES                                                          NO
+                            element?
+Evidence, from
+Evidence, fromcurrent
+               currentand
+                       andprevious
+                           previousPLAAFPs,
+                                    PLAAFPs, that the
+                                             that the
+    IEP goal can reasonably be accomplished within the
+    duration of the IEP.
+
+
+
+
+        Requirement and
+                                                                                                           Focus
+            Descriptors
+    200.810.b.(4):                ● Goal is stated as a clear outcome or result.
+    Results oriented              ● Goal
+                                    Goal is
+                                         is relevant in terms
+                                            relevant in terms of
+                                                               of the
+                                                                  the student
+                                                                       studentmaking
+                                                                               makingprogress
+                                                                                        progress and
+                                                                                                  and gaining
+                                                                                                      gaining educational benefit in
+                                                                                                              educational benefit  in light
+                                                                                                                                       light of
+                                                                                                                                             ofthe
+                                                                                                                                                thechild's
+                                                                                                                                                    child’sunique
+                                                                                                                                                            uniquecircumstances.
+                                                                                                                                                                   circumstances.
+                                  ● Goal
+                                    Goal contains
+                                         contains aa description
+                                                     description ofof what
+                                                                      what results
+                                                                           results will
+                                                                                   willshow
+                                                                                        show the
+                                                                                              theteam
+                                                                                                  teamthat
+                                                                                                       thatthe
+                                                                                                            thegoal
+                                                                                                                goalhas
+                                                                                                                     hasbeen
+                                                                                                                        been met.
+                                                                                                                              met.
+
+       Does your
+       Does your SMART
+                 SMART Goal
+                       Goalcontain
+                            contain the
+                                    the following
+                                        following
+                                                                                       YES                                                          NO
+                            element?
+    Evidence that the IEP goal is clearly focused on an
+    outcome or result that will benefit the student.
+
+
+
+
+    Clear indication of when the goal has been accomplished
+    or met.
+
+
+
+
+    Requirement and
+                                                                                                           Focus
+       Descriptors
+200.810.b.(5):                   ●   ItItisis implied
+                                              impliedthat
+                                                      thatthe
+                                                           thegoal
+                                                               goalcan
+                                                                    canbe
+                                                                       beaccomplished
+                                                                          accomplished within
+                                                                                       withinthe
+                                                                                              thelife
+                                                                                                   lifeofofthe
+                                                                                                            theIEP,
+                                                                                                                IEP,which
+                                                                                                                    whichisisgenerally
+                                                                                                                             generally one
+                                                                                                                                       oneyear.
+                                                                                                                                           year.
+Time-bound(generally
+Time-bound  (generally           ●   If the team determines a different timeframe for the accomplishment of the goal, that timeframe is clearly stated in the goal text.
+happen within one (1)
+year)
+
+
+
+
+3                                                                                                                                            SMART Goal
+                                                                                                                                             SMART GoalRubric
+                                                                                                                                                        Rubric–-Nov
+                                                                                                                                                                Nov2021
+                                                                                                                                                                    2021
+                              Examples for
+                              Examples   for Non-Compliant
+                                              Non-CompliantGoals
+                                                              Goals                                                      Examples for Compliant Goals
+    1) Student will increase reading skills to a 3rd grade level.                           1) Student
+                                                                                            1) Student will
+                                                                                                       willincrease
+                                                                                                            increase basic
+                                                                                                                     basic reading
+                                                                                                                           reading by
+                                                                                                                                   by reading
+                                                                                                                                      reading 20
+                                                                                                                                              20 words followingthe
+                                                                                                                                                 words following theCVC
+                                                                                                                                                                    CVC pattern
+                                                                                                                                                                        pattern
+                                                                                            from a baseline of 5 words with 90% accuracy on 4 out of 5 data collection days
+2) Student
+2) Student will
+           will increase
+                 increase written
+                          writtenexpression
+                                  expression by
+                                             by writing
+                                                writingcomplete
+                                                        completesentences
+                                                                 sentencesfrom
+                                                                           from10%
+                                                                                10%         duringthe
+                                                                                            during thecourse
+                                                                                                       courseofofthis
+                                                                                                                  thisIEP.
+                                                                                                                       IEP.
+    to 85% accuracy.
+                                                                                            2) Student
+                                                                                            2) Student will
+                                                                                                       will increase
+                                                                                                             increase Written
+                                                                                                                      Writtenexpression
+                                                                                                                              expression by
+                                                                                                                                         by writing
+                                                                                                                                            writingcomplete
+                                                                                                                                                    completesentences
+                                                                                                                                                             sentences to
+                                                                                                                                                                        toinclude
+                                                                                                                                                                           include
+    3) Student will improve reading comprehension from a first grade level to a third       correct capitalization and end punctuation with 80% accuracy on 4 out of 5 data
+    grade level 80% of the time.                                                            collection samples during the course of this IEP.
+
+4) Student will improve math skills to grade level with 75% accuracy by the end of this 3)
+                                                                                        3) Student
+                                                                                           Student will
+                                                                                                     will increase
+                                                                                                           increase math
+                                                                                                                    math calculation
+                                                                                                                         calculation skills
+                                                                                                                                     skills by
+                                                                                                                                            by solving
+                                                                                                                                                solving two-
+                                                                                                                                                        two- and
+                                                                                                                                                              and three-digit addition
+                                                                                                                                                                  three-digit addition
+IEP.                                                                                    problems with sums to 200 with regrouping from 40% accuracy to 75% accuracy on 3
+                                                                                        out of 4 data collection samples during the course of this IEP.
+5) Student
+5) Student will
+           willimprove
+                improvebehavior
+                        behaviorskills
+                                  skillsby
+                                         bydisplaying
+                                            displayingappropriate
+                                                       appropriatebehaviors
+                                                                   behaviorsininclass
+                                                                                 class
+100% of the time during this IEP.                                                       4) Student
+                                                                                        4) Student will
+                                                                                                     willincrease
+                                                                                                           increase math
+                                                                                                                    math problem-solving
+                                                                                                                         problem-solvingskills
+                                                                                                                                            skills by
+                                                                                                                                                   by solving
+                                                                                                                                                      solving two-step word
+                                                                                                                                                              two-step word
+                                                                                        problems requiring multiplication with a baseline from a 4.0 grade equivalent to a 4.5
+                                                                                        grade equivalent with 80% accuracy on 4 out of 5 data collection samples by the end
+                                                                                        of this IEP cycle.
+
+                                                                                            5) Student will decrease episodes of verbal aggression by asking permission to
+                                                                                             removehimself
+                                                                                            remove himselffrom
+                                                                                                           fromhis
+                                                                                                                hisdesk
+                                                                                                                    deskto
+                                                                                                                         tothe
+                                                                                                                            thedesignated
+                                                                                                                                designatedsafe
+                                                                                                                                           safearea
+                                                                                                                                               area in
+                                                                                                                                                     in order
+                                                                                                                                                        order to
+                                                                                                                                                               togain
+                                                                                                                                                                 gain composure
+                                                                                                                                                                      composure
+                                                                                            with no more than two verbal prompts from the teacher in 9 out of 10 data
+                                                                                            collection/observationsover
+                                                                                            collection/observations overthe
+                                                                                                                         thecourse
+                                                                                                                             courseof
+                                                                                                                                   ofthis
+                                                                                                                                      thisIEP
+                                                                                                                                           IEP cycle
+                                                                                                                                               cycle .Currently
+                                                                                                                                                      CurrentlyStudent
+                                                                                                                                                                Studentremoves
+                                                                                                                                                                        removes
+                                                                                            himself independently and appropriately 4 out of 10 observed times.
+
+
+
+
+Definitions:
+READING -
+
+       ●   Basic Reading skills include phonemic awareness, sight word recognition, phonic and word analysis, Essential skills include identification of individual
+           sounds, and the ability to manipulate them. Identification of printed letters, and sounds associated with letters, and decoding of written language.
+       ●   Reading Comprehension: ability to process text, understand its meaning, and integrate what the reader already knows. Skills within reading
+           comprehension include fact/opinion, prediction of outcomes, sequencing, evaluate, main idea, cause/effect, basic recall of details, stating inferential and
+           literal facts.
+       ●   Reading Fluency: ability to read like you speak. Accuracy rate, proper expression, speed.
+
+4                                                                                                                                       SMART Goal
+                                                                                                                                        SMART GoalRubric
+                                                                                                                                                   Rubric–-Nov
+                                                                                                                                                           Nov2021
+                                                                                                                                                               2021
+WRITTEN EXPRESSION:
+
+    ●   Highly complex, cognitive, self-directed process, including planning, translating (drafting), review and revising.
+    ●   Skills include: grammar, composition, organization of writing, ideas, voice, word choice, sentence fluency, spelling, punctuation, sentence and paragraph
+        structures, types of writing (entertainment, factual, biography), editing, and revisions.
+MATHEMATICS:
+MATHEMATICS:
+
+
+●   Math Calculation: count, objects, compute simple math facts and operations. Skills: basic addition, subtraction, multiplication, division facts; step-by-step
+    processes with 1,2,3 digits…
+●   Math Problem Solving: examining questions to find the key ideas choosing appropriate strategy, doing the math facts, finding the answer and rechecking.
+    Skills: interpreting charts/graphs, money, multiple step word problems, higher thinking math, algebra, geometry.
+BEHAVIOR/SOCIAL SKILLS:
+
+    ●   SKILLS used daily to interact and communicate appropriately with others, includes verbal and nonverbal communication, body language, facial
+        expressions, gestures.
+    ●   Skills: show empathy, group activities, solve own problems, conflict resolution, relationship management, respect, active listening, and effective
+        communication.
+
+
+
+
+5                                                                                                                         SMART Goal
+                                                                                                                          SMART GoalRubric
+                                                                                                                                     Rubric–-Nov
+                                                                                                                                             Nov2021
+                                                                                                                                                 2021
+

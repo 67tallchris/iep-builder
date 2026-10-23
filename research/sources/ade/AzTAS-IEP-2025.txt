@@ -1,0 +1,952 @@
+ Arizona Technical Assistance System
+                                   AZ-TAS
+
+     PROCESS FOR DEVELOPING INDIVIDUALIZED
+             EDUCATION PROGRAMS
+
+
+                       Exceptional Student Services
+                        Updated November 2025
+
+
+
+
+Updated to reflect changes in Arizona State Board of Education Rules November 2024
+Reorganized major components of the IEP and associated statutes
+
+
+
+
+                                                                                     1
+Table of Contents
+Arizona Technical Assistance System.......................................................................................................................... 1
+Purpose.............................................................................................................................................................................. 3
+The Individualized Education Program (IEP) (34 C.F.R. §300.320)............................................................................ 3
+Federal and State IEP Requirements (34 C.F.R. §§300.320 and 300.160; A.R.S. §§15-761,15-763, and 15-767;
+A.A.C. R7-2-401 G.) ........................................................................................................................................................... 4
+Required Components of the IEP Further Explained ................................................................................................. 8
+Review of the IEP (34 C.F.R. §300.324; A.R.S.§15-761; A.A.C. R7-2-401 G. 7.) ......................................................... 23
+IEP Meetings (34 C.F.R. §§300.321,300.322, and 300.325; A.R.S.§15-761) ....................................................... 24
+IEP Team Member Excusal (34 C.F.R. §300.321(e)(1),(2))..................................................................................... 25
+Consensus ...................................................................................................................................................................... 25
+Parent Participation (34 C.F.R.§300.322; A.A.C. R7-2-401 G.6.) ........................................................................... 26
+Conducting an IEP Team Meeting without the Parent (34 C.F.R.§300.322(d)) .................................................... 26
+Alternative Means of Meeting Participation (34 C.F.R.§300.328; A.R.S. §15-761).............................................. 27
+When an IEP Meeting Is Not Required (34 C.F.R.§300.324; A.R.S. §15-761; A.A.C. R7-2-401 G. 6.)............. 27
+Transfer Students (34 C.F.R. §§300.306 and 300.323; A.R.S. §15-828(G); A.A.C. R7-2-401 J. 4.)................. 27
+
+
+
+
+                                                                                                                                                                     2
+Purpose
+
+The purpose of this guide is to provide administrators, teachers, students, parents, and
+other individualized education program (IEP) team members with practical information
+about the development and implementation of an IEP that meets the requirements of the
+Individuals with Disabilities Education Act (IDEA - 34 C.F.R), the Arizona Revised
+Statutes (A.R.S.), and the Arizona State Board of Education rules (found in the Arizona
+Administrative Code or A.A.C.). All public education agencies (PEAs) must meet the
+requirements of the IDEA, A.R.S., and A.A.C. This may require PEAs to have policies
+and procedures that go above and beyond the federal IDEA requirements to meet
+Arizona Revised Statutes and/or Arizona State Board of Education rules.
+
+
+The Individualized Education Program (IEP) (34 C.F.R. §300.320)
+The IDEA defines an IEP as a written statement for each student with a disability that is
+developed, reviewed, and revised in accordance with the specific requirements set forth
+in the IDEA and its implementing regulations. Arizona Revised Statutes and A.A.C. do
+not further expand on the definition of an IEP. Consider these requirements and time
+constraints when developing and implementing IEPs (34 C.F.R.§300.323):
+
+   •   Each publicly enrolled student determined eligible to receive special education
+       and related services under the IDEA, when parental consent to place in special
+       education has been given, must have an IEP.
+   •   The IEP must be developed within thirty days of a determination that a child is
+       eligible for special education and related services.
+   •   An IEP must be in effect for each child with a disability at the beginning of each
+       school year.
+   •   Initial provision of special education and related services must be made
+       available to the child as soon as possible following the development of the
+       IEP.
+  •    A meeting of the IEP team shall be conducted to review and revise each student’s IEP at
+       least annually, or more frequently if the student’s progress substantially deviates from
+
+                                                                                            3
+     what was anticipated. (A.A.C. R7-2-402 G. 6.)
+ •   After the annual review, the PEA and parent may agree not to convene an IEP team
+     meeting for the purposes of making changes and instead may develop a written
+     document to amend or modify the student’s current IEP. (A.A.C. R7-2-402 G. 6.)
+ •   A parent or PEA may request in writing a review of the IEP and shall identify the basis for
+     requesting review. Such a review shall take place within 45 school days of the receipt of
+     the request at a mutually agreed upon date and time. (A.A.C. R7-2-402 G. 7.)
+
+
+Federal and State IEP Requirements (34 C.F.R. §§300.320 and 300.160;
+A.R.S. §§15-761,15-763, and 15-767; A.A.C. R7-2-401 G.)
+
+Federal Requirement        State Statute                     Arizona Administrative Code
+ 1. A statement of the     A statement of the child’s        Incorporation of the Arizona
+     child’s present       present levels of academic        Academic Standards into the
+     levels of academic    achievement and functional        development of the IEP,
+     achievement and       performance                       addressing grade-level
+     functional                                              expectations and grade-level
+     performance           All children with disabilities    content instruction
+                           shall receive special education
+                           programming commensurate
+                           with their abilities and needs.
+ 2. A statement of         A statement of measurable         Incorporation of the Arizona
+     measurable annual     annual goals                      Academic Standards into the
+     goals                                                   development of the IEP,
+                           Each child shall be ensured       addressing grade-level
+                           access to the general             expectations and grade-level
+                           curriculum and an opportunity     content instruction to include
+                           to meet the state's academic      benchmarks/short-term
+                           standards.                        objectives for students accessing
+                                                             the alternative assessment.
+ 3. A description of       A description of progress
+     progress reporting    reporting to include how
+                                                                                       4
+Federal Requirement        State Statute                      Arizona Administrative Code
+                           progress will be reported and
+                           when/how often
+4. A statement of the      A statement of the special         IEP team may include specially
+   special education,      education, related services,       designed instruction in the IEP
+   related services,       and supplemental aids and          that may be delivered in a variety
+   and supplemental        services to be provided to the     of educational settings by a
+   aids and services to    child or on behalf of the child.   general education teacher or
+   be provided to the                                         other certificated personnel
+   child or on behalf of   If appropriate to meet the         provided that certificated special
+   the child               needs of a pupil and to ensure     education personnel are involved
+                           access to the general              in the planning, progress
+                           education curriculum, specially    monitoring, and when
+                           designed instruction that is in    appropriate, the delivery of the
+                           accordance with a pupil's IEP      specially designed instruction
+                           may be delivered in a variety
+                           of education settings by a
+                           general education teacher or
+                           other certificated personnel
+                           provided that special
+                           education personnel
+                           certificated pursuant to section
+                           15-203 are involved in the
+                           planning, progress monitoring
+                           and when appropriate involved
+                           in the delivery of the specially
+                           designed instruction.
+
+
+
+
+5. A statement of the      A statement of the program
+   program                 modifications or supports for
+
+                                                                                          5
+Federal Requirement         State Statute                       Arizona Administrative Code
+   modifications or         school personnel
+   supports for school
+   personnel
+6. An explanation of        An explanation of the extent, if    A continuum of services and
+   the extent, if any, to   any, to which the child will not    supports for students with
+   which the child will     participate with children           disabilities shall be available
+   not participate with     without disabilities in general     through each public education
+   children without         education classes and               agency.
+   disabilities in          activities
+   general education
+   classes and
+   activities
+7. A statement of any       A statement of any individual       Each student with a disability
+   individual               accommodations                      who has an IEP shall participate
+   accommodations                                               in the state and PEA assessment
+   necessary to             Pupils who receive special          system. Students with disabilities
+   measure academic         education shall not be required can test with or without
+   achievement and          to achieve passing scores on        accommodations or modifications
+   functional               the statewide assessment or         as indicated in the student’s IEP.
+   performance              the test that is identical to the   Students who are determined to
+                            civics portion of the               have a significant cognitive
+                            naturalization test                 disability based on the
+                                                                established eligibility criteria will
+                            The pupil's IEP shall include       be assessed with the state’s
+                            any necessary testing               alternate assessment as
+                            accommodations.                     determined by the IEP team.
+
+
+8. Beginning not later      Beginning not later than the        Beginning not later than the first
+   than the first IEP to    first IEP to be in effect when      IEP to be in effect when the child
+   be in effect when        the child turns 16, or younger if completes 9th grade or reaches
+
+                                                                                             6
+Federal Requirement       State Statute                   Arizona Administrative Code
+   the child turns 16,    determined appropriate by the   age 16, whichever is first, or
+   or younger if          IEP team measurable             younger if determined
+   determined             postsecondary goals             appropriate by the IEP Team,
+   appropriate by the                                     and updated annually, thereafter,
+   IEP team                                               the IEP must include appropriate
+   measurable                                             measurable postsecondary goals
+   postsecondary                                          based upon age-appropriate
+   goals                                                  transition assessments related to
+                                                          training, education, employment,
+                                                          and, where appropriate,
+                                                          independent living skills
+9. Transition services,   Transition services             The transition services (including
+   including courses of   (including courses              courses of study) needed to
+   study needed to        of study) needed to             assist the child in reaching those
+   assist the child in    assist the child in             goals. The estimated date of
+   reaching the           reaching the                    graduation for the student,
+   postsecondary          postsecondary                   including the course of study that
+   goals                  goals                           specifically aligns to the student’s
+                                                          individual transition plan. A
+                                                          school shall inform parents in
+                                                          writing at least one year before
+                                                          the anticipated high school
+                                                          graduation date of the child with
+                                                          a disability. (This requirement is
+                                                          in addition to and not in lieu of
+                                                          federal requirements at C.F.R.
+                                                          300.503 to provide prior written
+                                                          notice typically sent immediately
+                                                          prior to implementing a change in
+                                                          placement.)
+
+                                                                                      7
+       Federal Requirement         State Statute                         Arizona Administrative Code
+       10. Beginning no later      Beginning no later                    Beginning not later than one year
+          than one year            than one year before                  before the child reaches the age
+          before the child         the child reaches the                 of majority under State law, the
+          reaches the age of       age of majority: a                    IEP must include a statement
+          majority: a              statement that the                    that the child has been informed
+          statement that the       child has been                        of the child's rights under Part B
+          child has been           informed of his or her                of the Act, if any, that will transfer
+          informed of his or       rights, if any, that will             to the child on reaching the age
+          her rights, if any,      transfer to the child on              of majority.
+          that will transfer to    reaching the age of
+          the child on             majority.
+          reaching the age of
+          majority.
+
+
+
+
+Required Components of the IEP Further Explained
+Present Levels of Academic Achievement and Functional Performance (PLAAFP) (34
+C.F.R.§300.320; A.R.S.15-761; A.A.C. R7-2-401.G. 3)
+
+   The present levels should include a description of the student’s academic,
+   developmental, and functional needs as they relate to performance in the general
+   curriculum, including how the child’s disability impacts their involvement and progress in
+   the general curriculum. There should be evidence that this information is based on the
+   team’s consideration of the following:
+
+   •    Strengths of the child;
+   •    Concerns of the parent(s) for enhancing the education of their child; and
+   •    Results of the initial or most recent evaluation of the child.
+
+
+
+                                                                                                      8
+   The description should be more extensive than test scores or grade-level equivalents. All
+   areas pertinent to the students’ needs must be addressed in the present levels, and the
+   information presented should include skill-based data.
+
+
+   Guidance: The present levels of the IEP should give the reader a good picture of the
+   student’s strengths and weaknesses and should accurately reflect how the student is
+   performing at that specific point in time. All areas necessary to give a good picture should
+   be included. Remember the IEP is meant to address the students’ needs to be
+   involved and progress in the general curriculum; it is not specific to a single area
+   of eligibility. Teams should also be mindful of state board rules that require the
+   incorporation of the Arizona Academic Standards, grade-level expectations, and
+   grade-level content.
+
+Measurable Annual Goals (34 C.F.R.§300.320; A.R.S. 15-761)
+
+   While the PLAAFP should describe where the student is now, the goals should address
+   where the team wants the student to be by the end of the IEP year with respect to specific
+   skill areas. Annual goals must be meaningful and measurable, and there must be a direct
+   relationship between the needs identified in the PLAAFP and the annual goals. Goals
+   must be developed to meet the child’s needs that result from the disability and address
+   skills needed for the student to make progress in the general curriculum. Goals need to
+   include a specific skill, level of mastery, baseline, and measurement method to be
+   measurable.
+
+
+   Guidance: The annual goals should address critical skills that are necessary to allow the
+   student to be involved in and make progress in the general education curriculum, as
+   determined by the IEP team. Be sure goals are attainable and reasonable for the student
+   and her/his rate of progress. Also, be sure goals are specific enough that anyone who
+   may need to implement and measure the goal could do so in a consistent manner. A tool
+   that IEP teams can use to aid in developing annual measurable goals, is provided by
+   Program Support and Monitoring.
+
+
+
+                                                                                             9
+Benchmarks or Short-Term Objectives (34 C.F.R.§300.320; A.R.S. 15-761)
+
+    A benchmark or short-term objective is required for all annual goals for students who
+    qualify for the alternative assessment. Benchmarks are intermediate steps that break
+    down the annual goal, similar to a task analysis of a skill.
+
+Progress Reporting (34 C.F.R.§300.320; A.R.S. 15-761)
+
+    The IEP team must include a description of when periodic reports on the progress of the
+    goals (such as quarterly or other periodic reports, concurrent with the issuance of report
+    cards) will be provided to the parents, and how progress towards those goals will be
+    measured. When creating the report, provide the parents with the actual data from the
+    progress monitoring instruments. It is important that each goal has data that shows the
+    rate of progress so that anyone reviewing that progress can determine if the student is on
+    target to meet the annual goal based on that rate of progress.
+
+
+Guidance: Progress reporting needs to occur at least as often as it is provided for
+nondisabled peers. Typically, this is once per nine-week period, but it can be more often Be
+sure to set a manageable timeline but that is in line with progress reporting for nondisabled
+peers.
+
+Statement of Special Education Services, Related Services, and Supplementary Aids and
+Services (34 C.F.R. §§300.18, 300.320, 300.34, and 300.42; A.R.S. 15-761 and 15-763; A.A.C. R7-
+2-401 G. 4.)
+
+    Special Education Services (34 C.F.R.§300.18, A.R.S. §15-761 30 and 32)
+    Specially designed instruction (SDI) means adapting, as appropriate to the needs of an
+    eligible child, the content, methodology, or delivery of instruction to address the unique
+    needs of the child that result from his or her disability and to ensure the child’s access to
+    the general curriculum so that he or she can meet the educational standards that apply to
+    all children. Special education is meant to assist a child in advancing appropriately
+    towards attaining their goals and to be involved in and make progress in the general
+    curriculum to the maximum extent practicable.
+
+
+
+
+                                                                                                 10
+Related Services (34 C.F.R.§300.34; A.R.S. §15-761 27.)
+Related services are transportation, developmental, corrective, and other supportive services
+required to assist a child with a disability to benefit from special education services.
+Related services could include, but are not limited to:
+
+•   Physical therapy
+•   Interpreting services
+•   Audiology services
+•   Orientation and mobility services
+•   Medical services (but only those services that are for diagnostic and evaluation
+    purposes)
+•   Counseling
+•   Nursing
+•   Occupational therapy
+•   Speech therapy
+•   Specialized transportation
+
+Supplementary Aids and Services (34 C.F.R. §300.42)
+Supplementary aids, services, and other supports are provided in general education
+classes, other education-related classes, extracurricular activities, and nonacademic
+settings and enable children with disabilities to be educated in the general education
+setting to the maximum extent possible. A few examples include:
+
+•   Instructional aids
+•   Modified assignments
+
+The services section of the IEP should include a detailed description of all special
+education services, related services, and supplementary aids and services to be provided
+directly to the student or for the benefit of the student. This should be a clear description
+of the SDI and needs to include the following:
+
+•   Frequency (how often a particular service will be provided, such as twice per week)
+•   Duration (how long each session will last, typically stated in minutes)
+                                                                                            11
+   •   Type of service
+   •   Location of the service
+   •   Provider of the service
+
+   Guidance: Special education services, related services, and supplementary aids to be
+   provided should be specific and understandable to any reader. Be sure that descriptions
+   are specific enough for any teacher, provider, and parent to understand what services
+   are meant to be provided to the student. Services should be provided in any area needed
+   to meet the unique needs of the student, while allowing the student access to and the
+   ability to progress in the general education curriculum. Related services are services
+   needed to assist the student in benefiting from his or her special education services.
+   Supplementary aids and services enable the student to participate with nondisabled
+   peers. Services should not be limited to only areas of specific eligibility of the student.
+   The IEP, in its totality, is reflective of the students’ needs not the students’
+   category of eligibility. Services in conjunction with goals and program modifications and
+   accommodation should address ALL areas of need presented in the present levels. If the
+   service provider is a general education certificated teacher, please refer to this ADE/ESS
+   Program Support and Monitoring (PSM) Monitoring Alert to ensure proper documentation
+   of the IEP team’s decision regarding why the general education teacher is best suited to
+   provide those services. A tool to assist IEP teams in developing SDI is provided by
+   ADE/ESS PSM.
+
+Program Modifications and Supports for School Personnel (34 C.F.R. §§300.320, 300.324,
+300.34; A.R.S. §15-761; A.A.C. R-7-2-401 B.1)
+
+   Program modifications refer to changes in the environment or curriculum that allow the
+   student with the disability to be educated with nondisabled peers. Modifications are
+   changes in what a student is expected to learn and demonstrate Examples of
+   modifications include but are not limited to:
+   •   a modified grading scale
+   •   reduced content for mastery
+   •   modified curriculum.
+
+                                                                                                 12
+   Modifications are different from accommodations. Accommodations allow a student to
+   access and demonstrate learning but do not substantially change the instructional level,
+   the content, or the performance criteria.
+
+   Supports for school personnel are services the IEP team believes teachers or other
+   school-based staff working with the student need to effectively assist the student and/or
+   successfully implement the student’s IEP. Examples of supports for school personnel
+   include but are not limited to: additional training specific to the student, needs of the
+   student, or the disability. Other examples include consultation on appropriate testing
+   accommodations/modifications, additional training or consultation related to behavior
+   supports, aide support or training, or training on the use of assistive technology.
+
+
+   Guidance: Program modifications and supports for school personnel need to be
+   individualized and meet the unique needs of the student as outlined in the student’s
+   present levels. They need to be descriptive enough so that any reader can understand
+   how to implement them. Be sure that in conjunction with the IEP goals and services, all
+   the students’ needs outlined have been addressed.
+
+Explanation of the Extent to Which the Student Will Not Participate with Nondisabled
+Students (34 C.F.R. §§300.320,300.114–300.116; A.R.S. 15-763)
+
+   The IDEA requires schools to ensure that children with disabilities receive a free
+   appropriate public education (FAPE) in the least restrictive environment, which means
+   that, “to the maximum extent appropriate, children with disabilities, including children in
+   public or private institutions or other care facilities, are educated with children who are
+   nondisabled; and special classes, separate schooling, or other removal of children with
+   disabilities from the regular educational environment occurs only if the nature and
+   severity of the disability is such that education in regular classes with the use of
+   supplementary aids and services cannot be achieved satisfactorily.” For this reason,
+   schools “must ensure that a continuum of alternative placements is available to meet the
+   needs of children with disabilities for special education and related services,” including
+   instruction in regular classrooms, special classrooms, special schools, in the home, and
+   in hospitals or institutions, and must, in selecting the appropriate placement, take into
+
+                                                                                                 13
+   consideration any potential harmful effects on the child or on the quality of service he or
+   she will receive. If the student will not be educated with nondisabled peers for any part of
+   the regular school day, a detailed explanation with specific reasons why the child will not
+   participate with non- disabled peers must be included in the IEP. This statement should
+   also explain why the student is not participating in extracurricular and nonacademic
+   activities.
+
+
+   Guidance: If a student will not participate with nondisabled peers in the general
+   education environment for any part of the school day, a detailed explanation needs to be
+   included as to why this is necessary. It may be helpful for teams to discuss and
+   document why the students’ services can’t be provided in the general education
+   classroom, specific to the unique needs of the student. If the student will participate in the
+   general education classroom for the entire school day, it is sufficient to note that in the
+   IEP. A tool to assist IEP teams in discussing the least restrictive environment (LRE) is
+   made available by ADE/ESS PSM.
+
+Statement of Individual Appropriate Accommodations Needed for State- and PEA-
+Wide Assessments (34 C.F.R.§300.320; A.R.S. §15-761; A.A.C. R7-2-401 G.5.)
+
+All students must be included in State- and PEA-wide assessments. This is inclusive of Move
+on When Reading (MOWR) statewide testing and screening requirements. The IEP team
+determines how the student will participate in each State- and/or PEA-wide assessment.
+First, the IEP team must determine if the student can take the assessments without any
+accommodations. If not, the team must determine if the assessment can be taken with
+accommodations. If the IEP team determines accommodations are necessary, only standard
+accommodations that do not invalidate the test results may be selected. In addition, these
+accommodations may only be implemented if the IEP indicates their use in daily classroom
+activities, as well as on assessments. Nonstandard accommodations may not be used on
+State- and PEA-wide assessments even if the IEP authorizes them in daily classroom
+activities. The IEP team must document any appropriate accommodations that are necessary
+to measure the academic achievement and functional performance of the student on
+Statewide and PEA- wide assessments. The documentation should clearly explain what
+
+                                                                                                 14
+accommodations are available to the student and for which specific tests. Accommodations
+may not change the test content, but do consider alternative means of accessing the test and
+demonstrating performance. For additional information regarding testing accommodations,
+refer to the ADE District Test Coordinators website.
+
+
+Students with significant cognitive disabilities may take the MSAA (Multi-State Alternate
+Assessment) or Alt-ELPA (Alternative English Language Proficiency Assessment) in lieu of
+the State tests (AASA, AzELLA, AZSci), if criteria are met as documented on the Alternate
+Assessment Eligibility Determination form. Students who are eligible to participate in these
+alternate assessments are still required to have access to the grade-level state standards.
+
+Postsecondary Transition Components (34 C.F.R.§300.320; A.R.S. 15-761; A.A.C. R7-2-401 G)
+
+    Transition services must begin not later than the first IEP to be in effect when the child
+    completes the 9th grade or reaches age 16, whichever is first, or younger if determined
+    appropriate by the IEP team and updated annually thereafter. The child must be invited to
+    the IEP meeting in which transition services are likely to be discussed. Transition services
+    must include appropriate measurable postsecondary goals based upon age-appropriate
+    transition assessments related to training, education, employment, and, where
+    appropriate, independent living skills. They must also include a coordinated set of
+    activities, courses of study, and measurable annual goals that are needed to assist the
+    child in reaching those goals. As outlined in the State Board Rules, the anticipated date
+    of graduation must also be included as part of the student’s transition services, to include
+    a course of study that specifically aligns to the student’s individual transition plan. A
+    planning grid to aide teams in completing transition planning is available from ADE/ESS
+    PSM.
+
+
+    Measurable Postsecondary Goals
+    A student’s postsecondary goals must be based on age-appropriate transition
+    assessments, considering his or her strengths, preferences, and interests. The
+    postsecondary goals must be measurable for all students regardless of the impact of
+    their disability and must address both training/education and employment. For some
+    students, it may also be appropriate to include a goal related to independent living skills.
+                                                                                                 15
+Measurable postsecondary goals are not annual goals and are not intended to be
+completed during the duration of the IEP. As the name indicates, they are the
+student’s vision for life after high school and occur after the student exits high school.
+
+
+Guidance: Measurable postsecondary goals need to occur after high school. Measurable
+postsecondary goals are required in the areas of employment/training and education. An
+independent living goal is required if the IEP team determines it to be appropriate.
+
+
+Updated Annually
+Postsecondary goals need to be updated annually. If there are measurable
+postsecondary goals included in the student’s IEP when the student completes the 9th
+grade, or age 16, whichever is first, then the postsecondary goals are evidenced as
+updated annually, as this is expected to occur in conjunction with the development of the
+student’s IEP. Additionally, if the student is older and the IEP was updated annually,
+then this criterion has been met. Best practice would indicate that the postsecondary
+goals become more specific each year they are updated, as the students’ strengths,
+preferences and interests become more solidified.
+
+
+Age-Appropriate Transition Assessments
+The purpose of transition assessments is to gather information that identifies the
+student’s interests, preferences, and especially the strengths. This information
+establishes what the measurable postsecondary goals will be “based upon.” The age-
+appropriate transition assessments will enable the writer of the IEP to have the
+information necessary to develop and write practical and achievable measurable
+postsecondary goals. The assessment information gathered may be formal or informal.
+Assessment examples include interest inventories, situational assessments, achievement
+tests, intellectual functioning assessments, Arizona Career Information System (AzCIS),
+Armed Services Vocational Assessment Battery (ASVAB), Education and Career Action
+Plans (ECAPs), and student, parent, and staff interviews.
+
+
+Guidance: Transition assessments need to clearly identify the student’s strengths,
+preferences, and interests, which inform, support, and align to the measurable
+                                                                                             16
+   postsecondary goals. Transition assessments also need to be age-appropriate, not
+   cognitively appropriate. Transition assessment data should drive the entire transition
+   plan. Note: All students in Arizona are required to complete an Education and Career
+   Action Plan (ECAP). Much, if not all, of the data derived from this plan can be directly
+   linked or correlated to the student’s transition plan.
+
+Transition Services and Activities (34 C.F.R.§300.320; A.R.S. 15-761; A.A.C. R7-2-401 G)
+
+   Transition services and activities are actions that the school system or other agencies
+   could provide, as well as the parents and students themselves. The IEP team is
+   responsible for developing the coordinated set of activities that will enable the child to
+   achieve his/her stated measurable postsecondary goal(s).
+   These activities may address any of the following areas:
+
+   •   Instruction: the use of formal techniques to impart knowledge typically provided in an
+       educational setting
+   •   Related Services: the services required to assist a student with a disability to benefit
+       from special education transition services]
+   •   Community Experiences: those services that are provided in community settings by
+       schools and other agencies (e.g., community-based work experiences, job-site
+       training programs, transportation, community counseling, independent living skill-
+       building, recreational experiences)
+   •   Employment: services consisting of training, education, or other experiences that
+       lead to a job or career; can include career exploration, job shadowing, vocational
+       internships, part-time employment with supervision by school personnel, and on-the-
+       job training.
+   •   Adult Living: those services that lead to a student’s ability to perform important adult
+       functions; include occasional activities such as registering to vote, preparing tax
+       forms, renting a home, accessing medical services, and accessing SSI assistance
+   •   Daily Living Skills: the skills for the activities that adults do daily, such as preparing
+       meals, budgeting, maintaining a home, paying bills, grooming, etc.
+
+
+
+                                                                                                17
+Guidance: For transition services and activities to be compliant, there needs to be at
+least one activity related to each of the postsecondary goals. One activity could address
+more than one measurable postsecondary goal. It is important to be thoughtful about
+these activities as they can serve as transition assessment data in the following year(s).
+A student is able to demonstrate a preference in an area if he or she completes activities
+related to that area. This can be part of transition assessment data the team can consider
+as they review the transition plan. IEP teams should consider available Pre-ETs, as these
+could provide services and activities to assist the student in developing skills associated
+with their measurable post-secondary goals.
+
+
+Courses of Study
+The IEP team is responsible for developing transition services including courses of study
+that will enable the achievement of the measurable postsecondary goals documented in
+the IEP. It is important to identify specific courses (including electives) that the student
+requires to reasonably enable the student to meet his or her measurable postsecondary
+goals.
+
+
+Guidance: To be compliant, the student’s course of study needs to include multiple
+courses related to the measurable postsecondary goals and should cover the life of the
+IEP. These courses could all be in one school year or they could be spread out over
+multiple school years. Best practice would be to include multiple years of course work so
+that the student and family can picture how the student’s high school education will
+reasonably enable the student to attain the measurable postsecondary goals. If the link
+between the course and the measurable postsecondary goals is not clearly evident, a
+clarification can be added to show the alignment. Additionally, the courses need to be
+specific and should not include “elective,” as this is not specific, and it is not
+individualized for the student.
+
+
+Transition course of study is not the same as courses to meet graduation requirements. It
+may be possible that a student’s transition course of study may include courses that meet
+graduation requirements, but the plan should not be identical to a graduation course
+outline.
+                                                                                               18
+Annual IEP Goals Related to Postsecondary Goals
+Annual IEP goals need to relate to and support the student’s measurable postsecondary
+goals. There needs to be evidence that each postsecondary goal is supported. One annual
+goal could support all postsecondary goals.
+
+
+Guidance: Generally speaking, annual IEP goals will always support the student’s
+measurable postsecondary goals. It is best practice to directly link the annual goal to the
+measurable postsecondary goals. If there is only one annual IEP goal, and it is not
+relevant to the measurable postsecondary goals, and/or generally not appropriate for the
+student, it could be considered noncompliant.
+
+
+Evidence Student Was Invited to the IEP Meeting
+Documentation needs to be evident the student was invited to any IEP meeting where
+transition services would have been discussed. Documentation can include, but is not
+limited to:
+
+•   student invitation to the meeting
+•   student signature as a meeting participant
+
+Outside Agency Meeting Attendance
+After obtaining the written consent of the parents (or the student who has reached the
+age of majority), the PEA must invite a representative of any outside agency that is likely
+to be responsible for providing or paying for transition services. Services and activities
+may be the responsibility of the student, the family, the school, the Division of
+Developmental Disabilities, Vocational Rehabilitation, the Division of Behavioral Health,
+or other community resources. When “committing” (as opposed to “exploring”) outside
+agency services, only do so if a representative from that agency is in attendance at the
+IEP and actually agrees to commit services. If a participating outside agency fails to
+provide the transition services identified as the agency’s responsibility in the IEP, the
+PEA must reconvene the IEP team to identify alternative strategies to provide the
+transition services in the IEP.
+
+                                                                                             19
+   Anticipated date of graduation
+   Arizona state board rules require that transition services include a student’s anticipated
+   date of graduation, which includes the course of study that specifically aligns to the
+   student’s individual transition plan.
+
+
+   Written notice of anticipated graduation
+   Arizona state board rules require that a PEA notify a parent in writing at least one year
+   before the anticipated high school graduation date of the child with a disability. This
+   notice is not the same as the required Prior Written Notice (PWN) that is required when a
+   student graduates and school-based services are terminated.
+
+Transfer of Rights (34 C.F.R. §300.320; A.R.S. §15-761)
+
+   Beginning not less than one year before the child turns 18 (Arizona age of majority), the
+   IEP must include a statement that the child has been informed of his or her rights, if any,
+   that will transfer to the child upon reaching age 18. Arizona statute provides that a
+   student with a disability who is at least 18 years of age, and under 22 years of age, and
+   who has not been declared legally incompetent may delegate the right to make
+   educational decisions for special education to another individual provided the delegation
+   meets the requirements outlined in A.R.S. §15-773.
+
+Special Factors to Consider (34 C.F.R. §300.324; A.R.S. §15-761)
+
+   Assistive Technology Devices and Services (AT): IEP teams must consider whether each
+   student needs AT devices and services. AT can consist of low-tech, mid-tech, and high-
+   tech devices ranging from pencil grips to computers to sophisticated communication
+   devices.
+
+
+   Communication Needs: IEP teams must consider the communication needs of each
+   student. Include opportunities for direct communication with peers and professional
+   personnel and how instruction can be modified or accommodated to meet a student’s
+   needs.
+
+
+   Behavior: In the case of a student whose behavior impedes the student’s learning, or the
+                                                                                                20
+   learning of others, the IEP team must consider how the student’s behavior affects his or
+   her learning or disrupts the learning environment of others. Develop and implement
+   positive behavioral interventions and supports that will address the behavior and identify
+   how progress will be monitored.
+
+
+   Limited English Proficiency (LEP): In the case of a student with limited English
+   proficiency, IEP teams must consider what supports and strategies the student will need
+   to address this limitation in English proficiency, as those needs relate to the child’s IEP.
+   LEP support can be addressed within the general education system or by direct
+   instruction within the special education program.
+
+
+   Deaf/Hearing Impaired: IEP teams must consider the language and communication
+   needs of a student with a hearing impairment including opportunities for direct
+   communication with peers and professional personnel in the child’s language and
+   communication mode, academic level, and full range of needs. This includes
+   opportunities for direct instruction in the student’s language and communication mode.
+
+
+   Blind/Visually Impaired: The IEP of a student with a visual impairment must provide
+   instruction in Braille and in the use of Braille unless the IEP team determines that
+   instruction in, or the use of, Braille is not appropriate for the student. That decision is
+   made by evaluating the students’ reading and writing skills, identifying student needs,
+   and determining appropriate reading and writing media, including an evaluation of the
+   student’s future needs for instruction in Braille or the use of Braille.
+
+Other Factors to Consider (34 C.F.R. §§300.116 and300.106; A.A.C. R7-2-408)
+
+   The IEP team must consider special factors for specific students based on their disability
+   and needs. It is recommended that the school document these not only in the students’
+   IEP, but the prior written notice as well to ensure that all team members are aware of the
+   decisions that were made, and the discussions that were held. These areas are included
+   below:
+
+
+
+                                                                                                  21
+Extended School Year Services (ESY) (34 C.F.R. §300.106; A.R.S. §15-881; A.A.C. R7-
+2-408)
+Schools are required to ensure that extended school year services are available to
+students, as necessary, in order to provide a free appropriate public education (FAPE).
+Extended school year (ESY) services are defined as special education and related
+services that are provided to a child with a disability beyond the school’s normal school
+days, in accordance with the child’s IEP, at no cost to the parent. A child’s need for ESY
+services is to be determined on an individual basis by the IEP team. Schools are not
+permitted to limit ESY services to particular categories of disability or to unilaterally limit
+the type, amount, or duration of the services. Moreover, eligibility for ESY services
+cannot be based on need or desire for day care or respite care, an educational program
+to maximize the student’s academic potential, or a summer recreational program.
+ESY services are necessary if either: (1) the benefits that the student gained during the
+regular school year would be significantly jeopardized if he or she is not provided
+educational services, or (2) the student would experience severe or substantial
+regression if he or she is not provided educational services during short or long recesses
+or summer months, and the regression would result in substantial skill loss of a degree
+and duration that would seriously impede the student’s progress toward educational
+goals. The IEP team shall determine if the student is eligible to receive ESY services no
+later than 45 days prior to the last day of the school year.
+
+
+The determination of whether a student is eligible for ESY services must take into
+account least restrictive environment considerations and be determined by the IEP team,
+using a multifaceted inquiry based on the following criteria: (1) retrospective data, such
+as past regression and the rate of recoupment, and (2) predictive data, when empirical
+data is not available, which may be proven by expert opinion based upon a professional
+individual assessment.
+
+
+Guidance: The team should consider the students’ progress on annual IEP goals.
+Additionally, the team needs to consider whether the student is at a critical development
+stage. An ESY explanation should include data related to regression and recoupment of
+skills, as well as whether the student is at a critical learning stage. It is important that this
+
+                                                                                               22
+   consideration is made annually for ALL students and that it is based on data collected
+   relevant to the student’s individual IEP goals
+
+   Placement (34 C.F.R. §300.116; A.R.S. §15-761; A.A.C. R7-2-401 H.)
+   The IDEA mandates that the student with a disability be educated with students who are
+   nondisabled to the maximum extent appropriate. The IEP team must determine if the
+   program outlined in the IEP can be implemented in the general education classroom, as
+   well as the student’s home school, or as close to the home school as possible, and the
+   potential harmful effects that may occur as a result of the selected placement(s) must be
+   considered and documented.
+
+   Guidance: The student’s placement needs to be based on student data and mustbe an
+   individual decision related to student needs and the student's program as outlined in the
+   IEP. If the student needs to be placed in a more restrictive environment, why this
+   placement is necessary should be explained. The team should always start with the
+   general education classroom and work through the continuum to determine what is
+   needed to allow the student to access and make progress in the general education
+   curriculum. The placement determination should be made after the team discusses the
+   student’s present levels, goals and services, as these items are part of the discussion
+   around placement. Placement in a more restrictive environment should not mean that the
+   student has reduced access to the general education curriculum.
+
+
+Review of the IEP (34 C.F.R. §300.324; A.R.S.§15-761; A.A.C. R7-2-401 G. 7.)
+   The IEP must be reviewed at least once a year and more frequently as needed if the
+   student’s progress substantially deviates from what was anticipated. This could include:
+
+   •   Any lack of expected progress toward the annual and postsecondary goals.
+   •   Any lack of expected progress in the general education curriculum (if appropriate).
+   •   The results of a reevaluation (whether done by the PEA or privately by the parent);
+       and
+   •   New information about the student provided to or by the parents.
+
+
+
+                                                                                             23
+  All sections of the IEP must be reviewed and revised, as appropriate, during the IEP
+  review.
+
+
+  A PEA or parent can request an IEP meeting. Requests must be made in writing and
+  mustdentify the reason for the request. In this case, the IEP team must convene within 45
+  school days of receipt of the request.
+
+
+IEP Meetings (34 C.F.R. §§300.321,300.322, and 300.325; A.R.S.§15-
+761)
+   The PEA should document IEP team member participation in all IEP meetings. This
+   requires the role each team member is filling as well as the name of each person. While
+   signatures on an IEP are not required, a sign-in sheet is a good way to document the
+   participation of a compliant IEP team. The IEP team must consist of the following
+   members:
+
+  •   The parent of the student.
+  •   Not less than one general education teacher (if the student is or may be participating
+      in the general education environment).
+  •   Not less than one special education teacher/provider of the student.
+  •   A representative of the PEA (this individual may serve in more than one role on the
+      IEP team, such as the general education teacher, special education teacher/provider,
+      interpreter of evaluation data, etc.) In order to fulfil this role, the individual must be:
+              o Qualified to provide or supervise the provision of specially designed
+                  instruction to meet the unique needs of children with disabilities.
+              o Knowledgeable about the general education curriculum; and
+              o Knowledgeable about the availability of the resources of the PEA and
+                  able to commit those resources.
+  •   An individual who can interpret the instructional implications of the evaluation results
+      (this person may serve in more than one role on the IEP team).
+  •   At the discretion of the parent or school, other individuals who have knowledge or
+      special expertise regarding the student, including related service personnel.
+  •   Whenever appropriate, the student (if the purpose of the meeting is to discuss
+                                                                                                    24
+      transition services, the student must be invited).
+  •   With consent of the parent and to the extent possible, a representative of any
+      participating agency that will be responsible for providing or paying for transition
+      services.
+  •   For an initial IEP team meeting for a child transitioning from AzEIP services and at the
+      request of the parent, the AzEIP service coordinator or other representatives of the
+      AzEIP system must be invited to assist in making the transition smooth.
+  •   If the student is or may be attending an approved private school, a representative of
+      the private school.
+
+
+IEP Team Member Excusal (34 C.F.R. §300.321(e)(1),(2))
+  A required public school member of the IEP team may be excused from attending an IEP
+  meeting, in whole or in part, when the meeting involves a modification to or discussion of
+  the member’s area of curriculum or related service if the parent and the PEA consent to
+  the excusal in writing; and the member submits, to the parent and the IEP team, written
+  input into the development of the IEP prior to the meeting.
+
+  If the parent and the PEA agree in writing that the attendance of a member is not
+  necessary, in whole or in part, because that member’s area of the curriculum or related
+  service is not being discussed or modified at the meeting., this decision should be made
+  well in advance of the meeting and excusal should not be used as a matter of
+  convenience for an IEP team member who unexpectedly cannot attend. IEP teams
+  should consider carefully the purpose of the IEP meeting and all potential areas of
+  discussion prior to making the decision that a team member need not attend.
+
+
+Consensus
+  In making decisions about a child’s educational program, the IEP team should work
+  toward consensus, but if it is unable to do so, the school has the ultimate responsibility to
+  ensure that the child receives a FAPE. It is not appropriate for the IEP team to make
+  decisions based upon a majority “vote.” If the team is unable to reach consensus, the
+  individual acting as the representative of the PEA must make the final decision and the
+
+                                                                                              25
+  school must explain its proposal or refusal regarding the child’s educational program in a
+  prior written notice (PWN) to the parent. The parent may seek resolution of any
+  disagreement by filing a due process complaint or requesting mediation with the school.
+
+
+Parent Participation (34 C.F.R.§300.322; A.A.C. R7-2-401 G.6.)
+  The role of the parent is essential in the IEP meeting. The parents are equal members of
+  the IEP team and their input merits careful consideration. The PEA must take steps to
+  ensure that one or both of the child’s parents are present at each IEP meeting or are
+  afforded the opportunity to participate. These steps include:
+
+  •   Notifying the parents of the meeting early enough to ensure that they will have an
+      opportunity to attend; and
+  •   Scheduling the meeting, in writing, at a mutually agreed-upon time and place.
+
+  The PEA must take whatever action is necessary to ensure that the parent understands
+  the proceedings of the IEP team meeting, including arranging for an interpreter for
+  parents who are hearing impaired or whose native language is other than English. The
+  PEA must also provide a copy of the IEP to the parents at no cost to them. Upon request,
+  a parent must be provided with a copy of any revised or amended IEP as well. It is best
+  practice to provide parents with a draft of the IEP to allow parents time to review and
+  generate questions before the meeting, which ensures the ability to fully participate.
+
+
+Conducting an IEP Team Meeting without the Parent (34
+C.F.R.§300.322(d))
+  An IEP team meeting may be conducted without a parent in attendance if the PEA is
+  unable to convince the parents they should attend. In this case, the PEA must keep a
+  record of its attempts to arrange a mutually agreed upon time and place, such as:
+
+  •   Detailed records of telephone calls made or attempted and the results of those calls.
+  •   Copies of correspondence sent to the parents and any responses received; and
+  •   Detailed records of visits and results of visits to the parent’s home or employment site
+
+
+                                                                                            26
+  Guidance: In 2013, the 9th Circuit Court of Appeals held that schools must ensure
+  parental involvement in the “creation process” of their child’s IEP unless the parents
+  affirmatively refuse to attend or are entirely unresponsive to the school’s requests to
+  meet. It is important for schools to plan ahead to allow sufficient time to schedule a
+  meeting, particularly if the deadline for the annual review is coming up; it is also important
+  to work closely with parents to ensure that meetings are scheduled at a mutually agreed
+  upon date and time.
+
+
+Alternative Means of Meeting Participation (34 C.F.R.§300.328; A.R.S.
+§15-761)
+  At times it is not possible for a meeting participant to attend a meeting in person. The parent
+  and PEA may agree to use alternative means of participation, such as video conferencing
+  or conference phone calls. IEP teams are urged to use flexibility to obtain the best input
+  possible from all team members.
+
+
+When an IEP Meeting Is Not Required (34 C.F.R.§300.324; A.R.S. §15-
+761; A.A.C. R7-2-401 G. 6.)
+  The parent and the PEA may agree not to convene an IEP team meeting for the purpose
+  of making changes to a student’s IEP after the annual IEP team meeting. Instead, the
+  parent and the PEA may choose to develop a written document to amend or modify the
+  current IEP. If changes are made in this manner, the PEA must ensure that the entire IEP
+  team is informed of any changes. A PWN and the revised IEP with any amendments
+  must be provided to the parents.
+
+
+Transfer Students (34 C.F.R. §§300.306 and 300.323; A.R.S. §15-
+828(G); A.A.C. R7-2-401 J. 4.)
+  In the case of a child with a disability who has an IEP in effect and who, during the same
+  school year, transfers to a different school district or charter school within the same state,
+  the receiving school, in consultation with the parents, is required to provide that student a
+  FAPE, including services comparable to those in the IEP from the sending school until
+  such time as the receiving school adopts the previous school’s IEP or develops and
+
+                                                                                              27
+implements a new IEP.
+
+
+In the case of a child with a disability who has an IEP in effect and who transfers during
+the same school year to a different state, the receiving school, in consultation with the
+parents, is required to provide that student with a FAPE, including services comparable to
+those in the IEP from the sending school until such time as the receiving school conducts
+an evaluation and determines eligibility in the State of Arizona, if determined to be
+necessary, and develops and implements a new IEP.
+
+
+In either case, the receiving school must take reasonable steps to promptly obtain the
+child’s records (including the IEP and supporting documentation) from the sending
+school. In Arizona, the receiving school has ten school days to request records from the
+child’s previous school and that school (if it is in Arizona) has 10 school days to send the
+records.
+
+
+
+
+                                                                                            28
+

@@ -1,0 +1,4642 @@
+{
+  "version": "0.1",
+  "disclaimer": "Starter snippets synthesized for drafting practice. Not legal advice. Verify district language before use.",
+  "count": 382,
+  "snippets": [
+    {
+      "id": "plaafp_stem-82004541",
+      "component": "PLAAFP_stem",
+      "category": "any",
+      "grade_band": "any",
+      "text": "{{student}} is a {{grade}}-grade student who {{strength}}. On a {{measure}}, {{student}} scores {{baseline}} (benchmark {{benchmark}}).",
+      "placeholders": [
+        "{{student}}",
+        "{{grade}}",
+        "{{strength}}",
+        "{{measure}}",
+        "{{baseline}}",
+        "{{benchmark}}"
+      ],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "plaafp_impact-09798045",
+      "component": "PLAAFP_impact",
+      "category": "any",
+      "grade_band": "any",
+      "text": "{{disability}} needs affect {{student}}'s ability to access grade-level {{subject}} instruction and to demonstrate learning without {{support}}, requiring {{service}}.",
+      "placeholders": [
+        "{{disability}}",
+        "{{student}}",
+        "{{subject}}",
+        "{{support}}",
+        "{{service}}"
+      ],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "goal_frame-53934928",
+      "component": "goal_frame",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Given {{condition}}, {{student}} will {{skill}} from {{baseline}} to {{target}}, as measured by {{measurement}}, on {{schedule}}, within one year.",
+      "placeholders": [
+        "{{condition}}",
+        "{{student}}",
+        "{{skill}}",
+        "{{baseline}}",
+        "{{target}}",
+        "{{measurement}}",
+        "{{schedule}}"
+      ],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "progress_reporting-89613141",
+      "component": "progress_reporting",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Progress reports with current data will be provided every 9 weeks, concurrent with report cards, using {{measurement}}.",
+      "placeholders": [
+        "{{measurement}}"
+      ],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "lre_pullout-98825463",
+      "component": "lre_pullout",
+      "category": "any",
+      "grade_band": "any",
+      "text": "The student participates in the general education classroom for the full day except during scheduled {{service}}. Pull-out instruction is necessary because {{reason}}; the student returns to general education for all content instruction with {{supports}}.",
+      "placeholders": [
+        "{{service}}",
+        "{{reason}}",
+        "{{supports}}"
+      ],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "assessment_default-64250560",
+      "component": "assessment_default",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Participates in AASA and district assessments with accommodations ({{accommodations}}). No alternate assessment.",
+      "placeholders": [
+        "{{accommodations}}"
+      ],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "assessment_alternate-39067015",
+      "component": "assessment_alternate",
+      "category": "any",
+      "grade_band": "any",
+      "text": "The team will review Alternate Assessment Eligibility Determination criteria; if eligible, benchmarks/short-term objectives are required for each annual goal.",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "esy_considered_no-33594301",
+      "component": "esy_considered_no",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Team considered ESY. No documented regression/recoupment data support ESY at this time; parents will receive practice materials. Decision documented by the 45-day deadline.",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "esy_regression-50853560",
+      "component": "esy_regression",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Team considered ESY. The student showed regression in {{skill}} over {{break}} with slow recoupment; ESY {{service}}, {{frequency}} for {{duration}} for 5 weeks is recommended. Decision documented by the 45-day deadline.",
+      "placeholders": [
+        "{{skill}}",
+        "{{break}}",
+        "{{service}}",
+        "{{frequency}}",
+        "{{duration}}"
+      ],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "special_factor_behavior-92560396",
+      "component": "special_factor_behavior",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Behavior impedes the student's learning or the learning of others. Positive behavioral interventions and supports are included, with progress monitoring described in the behavior support plan.",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "special_factor_at-12197392",
+      "component": "special_factor_at",
+      "category": "any",
+      "grade_band": "any",
+      "text": "The team considered assistive technology. {{student}} requires {{tool}} for {{purpose}}; staff and student training is included as a personnel support.",
+      "placeholders": [
+        "{{student}}",
+        "{{tool}}",
+        "{{purpose}}"
+      ],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "special_factor_lep-59438063",
+      "component": "special_factor_lep",
+      "category": "any",
+      "grade_band": "any",
+      "text": "The team considered limited English proficiency. {{student}} receives ELD services and the IEP integrates language supports with {{service}}.",
+      "placeholders": [
+        "{{student}}",
+        "{{service}}"
+      ],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "transfer_of_rights-64831932",
+      "component": "transfer_of_rights",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Beginning not less than one year before the student turns 18, the IEP includes a statement that the student has been informed of rights, if any, that will transfer at the age of majority. (Include when within one year of 18.)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "transition_placeholder-40259500",
+      "component": "transition_placeholder",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Beginning with the first IEP in effect when the student completes 9th grade or reaches age 16 (whichever is first), include measurable postsecondary goals (training/education, employment; independent living if appropriate), transition assessments, services/activities, specific courses of study, and the anticipated graduation date.",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "behavior_antecedent_stem-61231999",
+      "component": "behavior_antecedent_stem",
+      "category": "behavior",
+      "grade_band": "any",
+      "text": "Prevention strategy: {{strategy}} to reduce the likelihood of the behavior and increase access to instruction.",
+      "placeholders": [
+        "{{strategy}}"
+      ],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "behavior_replacement_stem-00874162",
+      "component": "behavior_replacement_stem",
+      "category": "behavior",
+      "grade_band": "any",
+      "text": "Replacement skill: teach and practice {{skill}} to serve the same function as the target behavior.",
+      "placeholders": [
+        "{{skill}}"
+      ],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "behavior_consequence_stem-84444656",
+      "component": "behavior_consequence_stem",
+      "category": "behavior",
+      "grade_band": "any",
+      "text": "Consequence strategy: immediately reinforce the replacement behavior with {{reinforcer}}; respond to the target behavior with {{response}} while avoiding reinforcement of the function.",
+      "placeholders": [
+        "{{reinforcer}}",
+        "{{response}}"
+      ],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "crisis_plan_stem-27603710",
+      "component": "crisis_plan_stem",
+      "category": "behavior",
+      "grade_band": "any",
+      "text": "Crisis plan: use de-escalation first ({{deescalation}}). Restraint/seclusion only if imminent danger of bodily harm and less restrictive interventions appear insufficient, with continuous monitoring, trained staff, immediate release when danger ends, same-day parent notice, and written documentation per A.R.S. \u00a715-105.",
+      "placeholders": [
+        "{{deescalation}}"
+      ],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "dyslexia_statement-70777537",
+      "component": "dyslexia_statement",
+      "category": "compliance",
+      "grade_band": "any",
+      "text": "The student has been diagnosed with dyslexia; this is documented in the IEP as required for specific learning disability eligibility in Arizona (A.R.S. \u00a715-763).",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "accommodation-09365327",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time on assignments and assessments",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 4 exemplar(s)"
+    },
+    {
+      "id": "accommodation-52873644",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Testing in a low-distraction setting",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 3 exemplar(s)"
+    },
+    {
+      "id": "accommodation-36929474",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time on reading and writing tasks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 2 exemplar(s)"
+    },
+    {
+      "id": "accommodation-34670896",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Chunked assignments with checkpoints",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 2 exemplar(s)"
+    },
+    {
+      "id": "accommodation-17483021",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time on tests and assignments",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 2 exemplar(s)"
+    },
+    {
+      "id": "accommodation-36524378",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Oral responses",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 2 exemplar(s)"
+    },
+    {
+      "id": "accommodation-26579382",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Reduced copying; printed notes",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 2 exemplar(s)"
+    },
+    {
+      "id": "accommodation-08777460",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Preferential seating near instruction",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 2 exemplar(s)"
+    },
+    {
+      "id": "accommodation-36009016",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Read-aloud of directions and test items when decoding is not the target skill",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-47550080",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Oral responses in place of written where decoding/writing is not assessed",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-74214947",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Reduced copying from the board; provide printed notes",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-98062945",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time on reading assignments and tests",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-79443463",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Read-aloud of directions and non-reading test items",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-60917541",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Frequent check-ins to monitor understanding",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-74806945",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Option to respond orally to demonstrate comprehension",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-43812488",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time on reading tasks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-60254052",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Option to answer comprehension questions orally",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-18534593",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Chunked text sections with check-ins",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-52100006",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Use of a checklist for main-idea and inference steps",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-64210345",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time on math tasks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-28671606",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Reduced number of practice items while preserving skill coverage",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-14328174",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Use of manipulatives and reference charts during classroom work (not on assessments where prohibited)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-31429205",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Oral explanation of the process to demonstrate understanding",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-05461514",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time on word-problem tasks and assessments",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-62715222",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Read-aloud of word problems when decoding is not the target",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-51372329",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Chunked problems (one step at a time)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-62229334",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Use of reference sheet for vocabulary/steps",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-94564634",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time on writing tasks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-47528314",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Scribing or speech-to-text for content-area writing when conventions are not the target",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-53984543",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Reduced copying; provided notes",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-30733019",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Chunked writing assignments with checkpoints",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-91352443",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Speech-to-text for long writing assignments when spelling/conventions are not the target",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-72350179",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Oral responses when feasible",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-03779868",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Simplified/repeated directions",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-73963428",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Visual supports on tasks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-55289209",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time to process and respond",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-09790512",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Check for understanding after directions",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-98130983",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time on reading and assessment tasks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-31131296",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Read-aloud of directions and non-target test items",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-14540664",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Chunked reading assignments with checkpoint questions",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-70167794",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Option to respond orally or use speech-to-text",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-95577972",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time on math tasks and assessments",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-27715482",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Chunked multi-step problems",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-56586234",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Read-aloud of word problems when reading is not the target",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-04370126",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Calculator use per assessment policy and IEP",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-21040721",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time on writing assignments and assessments",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-95585722",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Speech-to-text or scribing when conventions are not the target",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-22154722",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Chunked writing deadlines with checkpoints",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-72727307",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Use of word processor with spell/grammar check",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-74921823",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Check-ins for understanding and deadlines",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-50465634",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Reduced penalty for late work per district policy while organization goals are being taught",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-17558155",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Digital submission options",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-87497294",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Testing in a small-group or familiar setting",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-01547332",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Reduced number of items while preserving skill coverage",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-47165997",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Option to verbalize knowledge before writing",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-72509438",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time on tasks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-25865800",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Reduced writing demands when handwriting is not the target",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-38568363",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Check for understanding before independent work begins",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-52783405",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Frequent breaks during long tasks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-40270640",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time and chunked assignments",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-58576212",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Alternative location for tests if needed",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-64289806",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Opportunity to cool down before processing an incident",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-82989121",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Frequent breaks during testing",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-57358405",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Directions repeated/checked for understanding",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-80626005",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time on assignments and tests",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-17680377",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Reduced penalty for late work while organization goals are being taught per district policy",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-56758697",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Digital submission option",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-38773525",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time and reduced workload during low periods (preserving essential skills)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-14413812",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Option to complete work in a quiet area or with a trusted peer",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-74469233",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Breaks without penalty",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-46882215",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time on assignments after absences/removals",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-30393937",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Reduced penalty for late work per policy during skill-building",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-29827875",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Option to work in a quiet setting",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-98678771",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Frequent breaks during long classes",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-67978209",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Reduced workload during re-entry, preserving essential skills",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-34306464",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Option to take breaks in a safe space",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-82852126",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Alternate assessment location to reduce anxiety",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-65008800",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Digital submission and photo-of-work option",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-56641544",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Reduced copying; posted notes",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-91400426",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Assessments in a low-distraction setting",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-88068130",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Check-ins before deadlines",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-17043817",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time for written responses",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-60790292",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Visual supports and graphic organizers",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-66550564",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Small-group testing/preferential seating",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-14851612",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Option to take sensory breaks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-14899392",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time on oral presentations and group projects",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-57329209",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Preferential seating",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-53466577",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Option to work with a partner or small group rather than large group",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-51979717",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Written instructions alongside verbal directions",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-02279208",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time on writing and assessments",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-14667618",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Oral responses and project-based demonstration of knowledge",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-28071850",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Chunked long-term assignments with checkpoints",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-67118527",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Low-distraction testing setting",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-73819760",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Allow extra response time in oral activities",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-22897869",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Do not penalize spelling errors related to target sounds while intervention is active",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-17657972",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Opportunities for small-group speaking before whole-class sharing",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-15233711",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extra processing time in discussions",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-78810231",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Written supports for group-work expectations",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-97531520",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Option to prepare responses in advance",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-42836538",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Reduced penalty for off-topic contributions while skills are taught",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-38090408",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time and reduced work volume",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-86975080",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Oral/visual responses",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-24924429",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Frequent prompts and check-ins",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-70950217",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Frequent movement/water breaks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-92369701",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Chunked assignments and check-ins",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-37782521",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Written directions paired with verbal",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-98043186",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Frequent breaks and check-ins",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-86237266",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Extended time on assignments when behavior interrupted work",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "accommodation-51534328",
+      "component": "accommodation",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Movement opportunities",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-41448583",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Preferential seating near the teacher",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 2 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-85001699",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Morning check-in with a preferred adult",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 2 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-86279347",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Access to audiobooks and text-to-speech for grade-level content",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-14118571",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Pre-teaching of reading passages and vocabulary before whole-class reading",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-28027102",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Partner reading with a fluent peer for content-area text",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-12419568",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Visual anchor charts for vowel patterns in the classroom",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-93051031",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Audiobooks and text-to-speech for content-area reading",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-43633583",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Shortened reading passages with equivalent content objectives",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-70704964",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Pre-taught vocabulary and advance organizers",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-14936903",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Peer partner for choral/echo reading",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-58068138",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Graphic organizers for all reading tasks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-09482131",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Pre-taught vocabulary and background knowledge",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-55755702",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Text outlines/highlighted main ideas for content-area reading",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-71860020",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Structured peer discussion roles",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-77991062",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Concrete-representational-abstract (CRA) materials and manipulatives",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-48670300",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Place-value charts and multiplication/addition fact cards",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-44052588",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Pre-teaching of math vocabulary",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-97898729",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Math games for fluency practice",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-62617906",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Problem-solving checklist and template",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-75514211",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Highlighted key numbers/vocabulary in word problems",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-57205547",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Visual representation practice (bar models, drawings)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-40800752",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Pre-teaching of math vocabulary before units",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-98593143",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Graphic organizers and sentence frames",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-35706416",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Oral rehearsal before writing",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-64775073",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Word banks and personal spelling dictionaries",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-40726188",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Editing checklists",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-93638851",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Sentence frames and word banks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-07666031",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Pre-teaching vocabulary across subjects",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-01088431",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Visual writing organizers",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-88058565",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Wait time and rehearsal before oral responses",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-64444593",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Visual schedules and picture cues for directions",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-82886539",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Directions repeated and chunked",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-96840913",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Peer buddy for clarification (without dependence)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-65121651",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Graphic organizers for text structures",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-65262873",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Pre-taught academic vocabulary across subjects",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-89415910",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Study guides and chapter outlines",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-92822572",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Access to audiobooks/digital text with adjustable text size",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-33988191",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Graphic organizers for problem representation",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-89511161",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Reference cards for steps and formulas",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-99036760",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Estimation and reasonableness checks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-87520419",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Pre-teaching of unit vocabulary",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-08834598",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Essay planning templates and transition word banks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-18231461",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Model texts and rubrics in student-friendly language",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-48731349",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Graphic organizers for evidence and reasoning",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-33799831",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Scheduled teacher checkpoints during writing",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-69710279",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Daily planner with teacher initials",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-93399913",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Set of classroom materials kept in the resource room",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-05595238",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Weekly grade check with case manager",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-77587442",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Study-plan template and test calendar",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-37876023",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Predictable daily schedule posted and previewed",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-29907720",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Advance notice of tests and changes",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-91927740",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Chunked assignments with a visible checklist",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-57315891",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Access to a quiet reset area for 5 minutes with a pass",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-97662702",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Check-in with a preferred adult before tests",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-90257972",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "First-then visual and chunked work",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-12252130",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Classroom jobs and scheduled positive attention",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-47475404",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Break card with a 2-minute timer",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-73136860",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Token board with a classroom reinforcement menu",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-39889614",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "2-minute transition warnings with a visual timer",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-40612951",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Choice board of calming activities",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-20565676",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Designated safe space in the classroom",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-39382381",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Check-in/check-out with a trusted adult",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-12626366",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Structured recess/transition routines with adult proximity",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-39564792",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Chunked assignments with a visual timer",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-35770540",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Movement breaks every 10\u201312 minutes",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-96529600",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Fidget/movement tool that does not distract peers",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-08777460",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Preferential seating near instruction",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-97640505",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Self-monitoring checklist and daily goal card",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-68952456",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Shared digital assignment calendar",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-95879791",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Paper planner with teacher initials",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-12651089",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Duplicate set of textbooks at home",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-85644093",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Checklists for multi-step work",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-06293650",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Morning check-in with case manager",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-49523847",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Small-group and partner structures for participation",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-63567223",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Choice of activity and reduced social pressure",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-12110492",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Access to art/writing outlets and quiet space",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-27945546",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Private, non-public redirection for corrections",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-81523609",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "2-minute warning and structured transition routine",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-07291039",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Scheduled check-ins with a trusted adult before/after lunch",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-99941665",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Restorative conversation option after conflict",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-21113460",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Structured seating in the cafeteria",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-68071529",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Graduated re-entry schedule with a designated entry/exit point",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-73043059",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Small-group or quiet lunch option",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-97639723",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Advance notice of schedule changes",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-55808443",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Copy of notes and recorded lessons for absences",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-88953712",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Shared digital assignment calendar visible to all teachers/parents",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-47983593",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Printed weekly missing-work report",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-59560465",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Spare set of materials kept in the learning lab",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-98387221",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Locker and binder organization routine",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-62300171",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Preferred seating to reduce distraction",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-56366351",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Social scripts and visual supports for joining play",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-32771783",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Structured peer buddy/peer model system",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-59587437",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Noise-reducing headphones and a quiet pass",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-01814303",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Sensory movement breaks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-41547882",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Visual schedule with recess preview",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-22935201",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Written schedule and advance notice of changes",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-43041499",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Social scripts for conversation and self-advocacy",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-58075548",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Structured lunch/interest-based club (tech club)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-06378989",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Noise-reducing headphones",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-76973436",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Check-in with a trusted adult before high-anxiety periods",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-11748396",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Speech-to-text and word prediction",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-01174320",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Advanced texts with matching scaffolds (audio + graphic organizers)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-69326200",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Choice of product (oral presentation, video, essay) when writing is not the target skill",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-99109453",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Pre-teaching of advanced vocabulary",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-89178209",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Visual sound cues on the desk",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-03904459",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Wait time to allow self-correction without interrupting meaning",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-02246406",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Pre-teaching of speaking tasks containing target sounds",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-56643329",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Peer sensitivity/communication-friendly classroom practices",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-23266007",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Social scripts and conversation frames",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-43526470",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Group roles with clear written expectations",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-65737083",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Explicit pre-teaching of figurative language in upcoming texts",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-13457022",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Structured opportunities for successful peer interaction (club/small group)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-85137775",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Modified grade-level materials and visual task lists",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-78570297",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Peer buddies/peer supports in general education",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-97261135",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Assistive technology for communication and organization",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-06788233",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Home-school notebook",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-65854387",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Community-based instruction opportunities",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-08439895",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Daily point card with 3 targeted expectations",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-38586210",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Adult mentor check-in/check-out",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-29874714",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Reinforcement menu (school store, extra recess, helper roles)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-74888500",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Transition visual and adult proximity",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "supplementary_aid-02224245",
+      "component": "supplementary_aid",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Safety plan for hallway transitions",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "program_modification-19889090",
+      "component": "program_modification",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Modified curriculum and reduced content for mastery in academic areas",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "program_modification-59392150",
+      "component": "program_modification",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Modified grading scale aligned to IEP goals",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "program_modification-45713600",
+      "component": "program_modification",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Alternative assignments focused on functional application of grade-level topics",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-29177823",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Quarterly progress-monitoring data review with the reading interventionist",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-95639620",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Access to the district dyslexia intervention materials and training",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-08207341",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Monthly consultation between SPED and general education teachers on fluency routines",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-28506631",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Training on repeated-reading and phrase-cued text strategies",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-57161829",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Training on explicit comprehension strategy instruction (e.g., reciprocal teaching)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-33389014",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Monthly coordination with the grade-5 team on text modifications",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-31352840",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Consultation on CRA sequence and fluency routines",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-45220063",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Staff access to intervention materials",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-60187131",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Co-planning time with the grade-4 math teacher",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-95808053",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Training on schema-based instruction and bar modeling",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-88386117",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Consultation on scaffolded writing instruction",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-87797888",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Speech-to-text tool setup and training",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-96036970",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Joint planning time for SPED/SLP strategies",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-66557920",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "General education teacher training on wait time and scaffolded language supports",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-99663147",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Consultation on oral-language scaffolds",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-72973258",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Microphone/amplification check if needed",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-63124497",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Cross-team training on content literacy strategies",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-28427819",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Shared vocabulary list protocol for all teachers",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-58276010",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Joint planning on representation instruction",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-15823157",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Training on explicit schema instruction",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-13338904",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Co-planning with ELA teacher",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-21858234",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Rubric calibration with SPED team",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-45965411",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Training for teachers on assignment-log checks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-41532736",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Coordination with counselor on grade checks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-71572120",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Staff training on anxiety response protocol and how to avoid reinforcing avoidance",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-07414912",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Nurse/office protocol to return the student to class with a coping plan",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-71049277",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Teacher training on planned ignoring of minor call-outs and praise ratio",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-47352336",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Behavior specialist modeling and feedback",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-93277241",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Consistent language script across all staff",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-67382778",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Restraint/seclusion training for designated staff (A.R.S. \u00a715-105)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-51222445",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "De-escalation and crisis-script training for all staff working with the student",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-76218564",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Weekly behavior-specialist coaching",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-72918564",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Teacher training on ADHD-friendly instruction and positive redirection",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-70315960",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Student self-monitoring coaching",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-89771353",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Home-school daily communication protocol",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-74364064",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Teacher training on assignment-log checks",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-37911786",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Coordination with front office for forgotten materials without shaming",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-73812117",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Parent communication protocol",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-84305094",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Staff training on depression signs and referral protocol",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-73484399",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Coordination of care with outside mental-health provider (with parent consent)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-43143078",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Crisis-team awareness",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-42574550",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "De-escalation and restraint training (A.R.S. \u00a715-105)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-53534230",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Common staff scripts for redirection and conflict",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-44774051",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Behavior-specialist coaching across content teams",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-59210842",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Staff training on school-avoidance response protocols",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-77852546",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Care coordination with outside therapist",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-30218174",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Attendance-team collaboration",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-08191079",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Cross-team agreement on assignment posting deadlines",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-56967457",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Case-manager weekly grade check",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-05846530",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Teacher training on ADHD-friendly assignment practices",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-02793932",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Training for recess staff on social facilitation and sensory supports",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-32194147",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "SLP/teacher joint planning",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-66620425",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Peer-sensitivity coaching for the class",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-34592286",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Staff training on autism-affirming supports and avoiding forced eye contact/masking",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-65960390",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "SLP/teacher collaboration",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-48994725",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Club sponsor orientation",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-59021922",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Joint planning between gifted and SPED staff",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-12139862",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Teacher training on twice-exceptional profiles",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-52845187",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Assistive-technology training for the student and staff",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-67535861",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Teacher coaching on sound cues and positive correction",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-17976503",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Scheduling coordination so speech does not conflict with core reading",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-46284993",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Teacher training on pragmatic language and inclusive group-work structures",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-56998046",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "SLP/ELA teacher co-planning on figurative language units",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-74630152",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Paraprofessional training and supervision plan",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-39138818",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "General education teacher collaboration on modifications",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-70747986",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "OT/PT/SLP consultation as needed",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-86253804",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Staff awareness of 504 plan and accommodation delivery",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-56829806",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "504 coordinator monitors implementation",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-50619884",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Interventionist coaching and fidelity monitoring",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-85944853",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "MTSS team meeting schedule",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-91361627",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Parent-school communication plan",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-38661072",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Mentor training on CICO and data collection",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-74522008",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Para/hallway staff briefing on safety plan",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "personnel_support-39566542",
+      "component": "personnel_support",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Weekly behavior-team review",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-90344780",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Related service \u2014 counseling (individual)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 5 exemplar(s)"
+    },
+    {
+      "id": "service_type-36857748",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 written expression (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 3 exemplar(s)"
+    },
+    {
+      "id": "service_type-83753007",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Behavior consultation",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 3 exemplar(s)"
+    },
+    {
+      "id": "service_type-36493188",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Check-in/check-out",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 3 exemplar(s)"
+    },
+    {
+      "id": "service_type-27374765",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Related service \u2014 speech-language therapy (pragmatics)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 3 exemplar(s)"
+    },
+    {
+      "id": "service_type-59652200",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 reading comprehension strategies (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 2 exemplar(s)"
+    },
+    {
+      "id": "service_type-22501664",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Related service \u2014 speech-language therapy",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 2 exemplar(s)"
+    },
+    {
+      "id": "service_type-82271002",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Consultation \u2014 teacher team",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 2 exemplar(s)"
+    },
+    {
+      "id": "service_type-84441904",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 executive function/organization (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 2 exemplar(s)"
+    },
+    {
+      "id": "service_type-44980501",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 basic reading (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-67320871",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 written language/spelling (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-77444072",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Consultation with general education teacher",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-98850536",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 reading fluency and comprehension (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-40895886",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Supplementary \u2014 fluency practice in general classroom",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-20745783",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 written language for summaries (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-07447181",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 math calculation/fact fluency (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-00676040",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Supplementary \u2014 guided practice in general classroom",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-94719730",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 math problem solving (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-37256020",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Consultation \u2014 general education math",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-54060785",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Supplementary \u2014 writing supports in general education",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-76537624",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 reading/written language (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-10403919",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Consultation \u2014 SLP/SPED/general education",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-63973164",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 oral language/listening comprehension (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-36985417",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Supplementary \u2014 listening supports in general education",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-58187272",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Consultation \u2014 content-area teachers",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-55354307",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 math reasoning/algebra readiness (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-55479145",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Consultation/co-planning \u2014 math teacher",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-11324502",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Push-in writing support",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-63523412",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 reading SDI",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-85789440",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 executive function/study skills (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-48669733",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 check-in/check-out support",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-72148007",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 behavior/SEL skills instruction (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-45862193",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 academic support in reading/writing",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-14129068",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 SEL/regulation skills (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-14822869",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 attention/organization strategies (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-54095736",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 academic support (reading/math)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-58181670",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Consultation \u2014 general education teacher",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-01533215",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 academic support (test prep/study skills)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-39130321",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 academic support",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-77603701",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 social/emotional skills (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-88060016",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 academic catch-up support",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-25522174",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 academic support/study skills",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-73156942",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 social skills instruction (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-28386201",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Push-in support \u2014 social facilitation",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-74892037",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 self-advocacy/executive function (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-51150152",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Push-in \u2014 collaborative group support",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-75842484",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 reading/executive function support",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-14583302",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Consultation with gifted education teacher",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-62531356",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Consultation \u2014 classroom teacher",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-41639768",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Push-in \u2014 co-facilitated group work",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-39556125",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 functional academics and life skills (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-59593574",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 inclusion support in general education",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-34344751",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Related service \u2014 occupational therapy consultation",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-73257504",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Check-in/check-out (Tier 2 behavior support)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    },
+    {
+      "id": "service_type-77609970",
+      "component": "service_type",
+      "category": "any",
+      "grade_band": "any",
+      "text": "Special education \u2014 behavior/SEL skills (SDI)",
+      "placeholders": [],
+      "source_lineage": [
+        "synthesized from public exemplars and state guidance"
+      ],
+      "notes": "appears in 1 exemplar(s)"
+    }
+  ]
+}

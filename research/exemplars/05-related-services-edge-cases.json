@@ -1,0 +1,412 @@
+{
+  "schema_version": "1.0",
+  "set": "Related services and edge cases (SLI, mild ID, 504, MTSS, CICO/safety)",
+  "disclaimer": "Fictional synthetic exemplars for drafting practice only. No real student data. Not legal advice. Document types are labeled per exemplar.",
+  "exemplars": [
+    {
+      "id": "sli-articulation-g2",
+      "title": "Grade 2 — Speech-Language Impairment, articulation/phonology",
+      "fictional": true,
+      "document_type": "iep",
+      "grade": 2,
+      "grade_band": "elementary",
+      "az_category": "Speech/Language Impairment",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A second-grade student whose speech is understood by familiar listeners about 70% of the time but by unfamiliar listeners about 50%; multiple sound errors persist past the expected age and affect phonemic awareness and early spelling.",
+      "strengths": ["Strong social confidence and willing to speak", "Good reading comprehension", "Enthusiastic about participating"],
+      "parent_concerns": "Parent reports the student gets frustrated when others cannot understand and worries about reading and spelling effects.",
+      "evaluation_data": [
+        "Articulation/phonology assessment: errors on /r/, /s/ blends, /th/, and final consonants",
+        "Intelligibility: 70% familiar listeners, 50% unfamiliar",
+        "Phonological awareness and spelling errors align with speech error patterns",
+        "Adverse educational impact documented; SLI eligibility determined"
+      ],
+      "plaafp": {
+        "academic": "The student reads at grade level with support but spelling and phonemic-awareness tasks show errors related to speech sound patterns; oral reading intelligibility drops with words containing target sounds.",
+        "functional": "The student is understood about 70% of the time by familiar listeners and 50% by unfamiliar listeners; sometimes repeats or avoids words with /r/ and /th/.",
+        "impact": "Speech sound errors related to the speech-language impairment reduce intelligibility in academic discussions and affect spelling/phonemic awareness development, requiring speech-language services and classroom supports.",
+        "baselines": [
+          {"skill": "Target sound production", "measure": "Articulation probe", "score": "/r/ 20%, /s/ blends 40%, /th/ 30% accuracy", "date": "current IEP entry"},
+          {"skill": "Intelligibility", "measure": "Connected speech sample", "score": "70% familiar / 50% unfamiliar", "date": "current IEP entry"},
+          {"skill": "Phonemic awareness", "measure": "Curriculum probe", "score": "65%", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Speech — articulation/phonology",
+          "condition": "During structured speech sessions and classroom speaking tasks",
+          "skill": "produce /r/, /s/ blends, and /th/ accurately in words, phrases, and connected speech",
+          "baseline": "20–40% accuracy in words",
+          "target": "90% accuracy in words, 80% in phrases/sentences, and 75% in conversation across 3 consecutive sessions",
+          "measurement": "Articulation probes and spontaneous speech samples",
+          "schedule": "weekly; quarterly reporting"
+        },
+        {
+          "area": "Phonemic awareness/spelling carryover",
+          "condition": "Given classroom spelling and phonemic-awareness tasks containing target sounds",
+          "skill": "apply speech sound knowledge to spelling and decoding",
+          "baseline": "65% accuracy",
+          "target": "85% accuracy across 3 consecutive weeks",
+          "measurement": "Classroom spelling checks and decoding probes",
+          "schedule": "weekly; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks with articulation probe data and classroom spelling samples.",
+      "special_factor_behavior": null,
+      "services": [
+        {"type": "Related service — speech-language therapy", "frequency": "2x/week", "duration": "30 minutes", "location": "Speech room (individual/small group)", "provider": "Speech-language pathologist"},
+        {"type": "Consultation — classroom teacher", "frequency": "Monthly", "duration": "15 minutes", "location": "Classroom", "provider": "Speech-language pathologist"}
+      ],
+      "supplementary_aids_services": ["Visual sound cues on the desk", "Wait time to allow self-correction without interrupting meaning", "Pre-teaching of speaking tasks containing target sounds", "Peer sensitivity/communication-friendly classroom practices"],
+      "accommodations": ["Allow extra response time in oral activities", "Do not penalize spelling errors related to target sounds while intervention is active", "Opportunities for small-group speaking before whole-class sharing"],
+      "program_modifications": [],
+      "personnel_supports": ["Teacher coaching on sound cues and positive correction", "Scheduling coordination so speech does not conflict with core reading"],
+      "lre_statement": "The student remains in general education for the full day except pull-out speech sessions. Pull-out is needed for individualized sound production practice with feedback; carryover supports are provided in the classroom so speech does not reduce access to core instruction.",
+      "placement": "General education with pull-out speech services (outside regular class less than 21%).",
+      "assessment": "District assessments with normal accommodations for speech; the student is not penalized for intelligibility issues in oral responses. No alternate assessment.",
+      "esy": "Team considered ESY. The student has a history of regression in target sound accuracy over long breaks; ESY speech 2x/week for 30 minutes for 5 weeks is recommended based on regression/recoupment data. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS Speech-Language Services 2023", "AZ-TAS 2025 goals/PLAAFP", "Missouri DESE SMART Goal rubric"],
+      "notes": "Articulation-only SLI; the tool must track extra speech service dimensions and dismissal criteria."
+    },
+    {
+      "id": "sli-pragmatics-g6",
+      "title": "Grade 6 — Speech-Language Impairment, pragmatics/social language",
+      "fictional": true,
+      "document_type": "iep",
+      "grade": 6,
+      "grade_band": "middle",
+      "az_category": "Speech/Language Impairment",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A sixth-grade student with average language skills in structure and vocabulary but significant difficulty with pragmatics — misunderstanding jokes/figurative language, interrupting, and misreading social situations — which affects peer relationships and group work.",
+      "strengths": ["Rich vocabulary in written work", "Eager to do well", "Strong family support"],
+      "parent_concerns": "Parent reports the student feels left out and is often misunderstood by peers even though language testing looks 'fine.'",
+      "evaluation_data": [
+        "Core language: average for grammar and vocabulary",
+        "Pragmatic language: below age expectations on informal and formal measures (topic maintenance, indirect language, repair)",
+        "Observation: interrupts peers, misses sarcasm/figurative language, difficulty negotiating",
+        "SLI eligibility determined for pragmatic language; adverse educational impact documented"
+      ],
+      "plaafp": {
+        "academic": "The student writes and comprehends literal text at grade level but misinterprets figurative language and character motivation in literature; group-work grades suffer from difficulty negotiating roles and missing social cues.",
+        "functional": "The student struggles with turn-taking, initiating/ending conversations, and repairing communication breakdowns; 1–2 successful peer interactions per day; peers sometimes avoid group work with the student.",
+        "impact": "Pragmatic language deficits related to the speech-language impairment interfere with collaborative learning and peer relationships, requiring direct social-language instruction and classroom supports.",
+        "baselines": [
+          {"skill": "Pragmatic language", "measure": "Pragmatic profile/observation", "score": "Meets 40% of age expectations", "date": "current IEP entry"},
+          {"skill": "Conversational turn-taking", "measure": "Language sample", "score": "2–3 turns before interruption or topic shift", "date": "current IEP entry"},
+          {"skill": "Figurative language", "measure": "Curriculum probe", "score": "50% accuracy", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Pragmatic language — conversation",
+          "condition": "During structured peer conversations and group work",
+          "skill": "take turns, maintain topic, and repair communication breakdowns",
+          "baseline": "2–3 turns; meets 40% of expectations",
+          "target": "5+ turns with repair strategies in 8/10 opportunities across 3 consecutive sessions",
+          "measurement": "SLP language sample and observation checklist",
+          "schedule": "weekly; quarterly reporting"
+        },
+        {
+          "area": "Pragmatic language — figurative/indirect language",
+          "condition": "Given literature and classroom discussion containing figurative or indirect language",
+          "skill": "interpret and respond appropriately to figurative/indirect language",
+          "baseline": "50% accuracy",
+          "target": "85% accuracy across 3 consecutive bi-weekly probes",
+          "measurement": "Curriculum-based probes; discussion participation",
+          "schedule": "bi-weekly; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks with SLP data and group-work teacher reports.",
+      "special_factor_behavior": null,
+      "services": [
+        {"type": "Related service — speech-language therapy (pragmatics)", "frequency": "2x/week", "duration": "30 minutes", "location": "Speech room and push-in group work", "provider": "Speech-language pathologist"},
+        {"type": "Push-in — co-facilitated group work", "frequency": "1x/week", "duration": "45 minutes", "location": "General education classroom", "provider": "Speech-language pathologist or SPED teacher"}
+      ],
+      "supplementary_aids_services": ["Social scripts and conversation frames", "Group roles with clear written expectations", "Explicit pre-teaching of figurative language in upcoming texts", "Structured opportunities for successful peer interaction (club/small group)"],
+      "accommodations": ["Extra processing time in discussions", "Written supports for group-work expectations", "Option to prepare responses in advance", "Reduced penalty for off-topic contributions while skills are taught"],
+      "program_modifications": [],
+      "personnel_supports": ["Teacher training on pragmatic language and inclusive group-work structures", "SLP/ELA teacher co-planning on figurative language units"],
+      "lre_statement": "The student is fully included in general education with push-in support during group work and pull-out pragmatic instruction. Push-in is intentional to practice social language in natural settings; pull-out provides explicit instruction that cannot be delivered incidentally.",
+      "placement": "General education with pull-out speech services and push-in supports (outside regular class less than 21%).",
+      "assessment": "AASA and district assessments with extended time and small-group setting; figurative language items previewed per policy. No alternate assessment.",
+      "esy": "Team considered ESY. The student showed regression in pragmatic skills over summer with slow recoupment; ESY social-language group 2x/week for 30 minutes is recommended. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS Speech-Language Services 2023", "AZ-TAS 2025 special factors", "PBIS social-skills framing"],
+      "notes": "Distinguish from autism: pragmatic-only SLI with average core language. Useful for the category decision tree."
+    },
+    {
+      "id": "mild-id-adaptive-academic-g4",
+      "title": "Grade 4 — Mild Intellectual Disability, adaptive and academic skills",
+      "fictional": true,
+      "document_type": "iep",
+      "grade": 4,
+      "grade_band": "elementary",
+      "az_category": "Mild Intellectual Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A fourth-grade student with mild intellectual disability who reads at a first-to-second-grade level, solves one-step addition/subtraction with manipulatives, and needs support with daily living, safety, and social skills; participates meaningfully in general education with modifications.",
+      "strengths": ["Warm and social with peers and staff", "Follows familiar routines independently", "Enjoys hands-on life-skills activities"],
+      "parent_concerns": "Parent wants the student to gain independence at home and be included with grade-level peers for social experiences.",
+      "evaluation_data": [
+        "Cognitive assessment: significantly below average range; adaptive behavior deficits across conceptual, social, and practical domains",
+        "Academic achievement: reading and math well below grade level",
+        "Adaptive behavior scales completed by parent and teacher confirmed needs in daily living and safety",
+        "Mild intellectual disability eligibility determined"
+      ],
+      "plaafp": {
+        "academic": "The student reads CVC and simple sight words at a first-to-second-grade level, writes one sentence with support, and solves one-step addition/subtraction within 20 using manipulatives. Grade-level fourth-grade content is accessed through modified materials.",
+        "functional": "The student needs prompting for personal organization, money/coin identification, safety awareness (e.g., crossing streets, unsafe situations), and following multi-step routines; social skills are a relative strength but reading social boundaries needs support.",
+        "impact": "Intellectual and adaptive-skill needs related to the disability require modified grade-level content, explicit functional/life-skills instruction, and substantial supports to participate in general education and community settings.",
+        "baselines": [
+          {"skill": "Sight-word reading", "measure": "Sight-word inventory", "score": "40 words", "date": "current IEP entry"},
+          {"skill": "Coin/money identification", "measure": "Functional math probe", "score": "4/10 coins; no purchasing routine", "date": "current IEP entry"},
+          {"skill": "Daily routine independence", "measure": "Task checklist", "score": "3/10 steps independently", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Reading — functional sight words",
+          "condition": "Given explicit instruction and community/school environmental print",
+          "skill": "read and use functional sight words",
+          "baseline": "40 words",
+          "target": "100 words with automaticity across 3 consecutive checks",
+          "measurement": "Sight-word inventory and environmental print checks",
+          "schedule": "weekly; quarterly reporting"
+        },
+        {
+          "area": "Functional math — money and purchasing",
+          "condition": "Given coins/bills and a classroom store routine",
+          "skill": "identify money, make amounts, and complete a purchase with the correct total",
+          "baseline": "4/10 coins; no purchasing routine",
+          "target": "9/10 coins and independent purchase in 4/5 opportunities",
+          "measurement": "Functional math probes and classroom-store data",
+          "schedule": "weekly; quarterly reporting"
+        },
+        {
+          "area": "Adaptive — daily routines and safety",
+          "condition": "Given visual task lists and a consistent routine",
+          "skill": "complete morning/daily routines and identify safe/unsafe situations",
+          "baseline": "3/10 steps independently",
+          "target": "8/10 steps independently across 5 consecutive days",
+          "measurement": "Task-analysis checklist; safety scenarios",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": ["Break long-term goals into shorter objectives as required for alternate-assessment eligibility review."],
+      "progress_reporting": "Every 9 weeks with task-analysis data and functional probes; parent communication weekly via home-school notebook.",
+      "special_factor_behavior": "No behavior concerns beyond needing routine and prompts; communication supports and AT considered below.",
+      "services": [
+        {"type": "Special education — functional academics and life skills (SDI)", "frequency": "5x/week", "duration": "60 minutes", "location": "Life-skills/resource classroom", "provider": "Special education teacher"},
+        {"type": "Special education — inclusion support in general education", "frequency": "Daily", "duration": "Varies by subject", "location": "General education classroom", "provider": "Special education paraprofessional under teacher direction"},
+        {"type": "Related service — occupational therapy consultation", "frequency": "Monthly", "duration": "30 minutes", "location": "Classroom", "provider": "Occupational therapist"}
+      ],
+      "supplementary_aids_services": ["Modified grade-level materials and visual task lists", "Peer buddies/peer supports in general education", "Assistive technology for communication and organization", "Home-school notebook", "Community-based instruction opportunities"],
+      "accommodations": ["Extended time and reduced work volume", "Oral/visual responses", "Frequent prompts and check-ins", "Preferential seating near instruction"],
+      "program_modifications": ["Modified curriculum and reduced content for mastery in academic areas", "Modified grading scale aligned to IEP goals", "Alternative assignments focused on functional application of grade-level topics"],
+      "personnel_supports": ["Paraprofessional training and supervision plan", "General education teacher collaboration on modifications", "OT/PT/SLP consultation as needed"],
+      "lre_statement": "The student participates in general education for science/social studies and specials with peer supports and modified materials, and receives explicit functional-academics SDI in the life-skills/resource setting. Pull-out is necessary for intensive, repetitive functional instruction; inclusion time is maximized for social and content exposure.",
+      "placement": "General education with substantial pull-out resource/life-skills services (outside regular class 21–60%).",
+      "assessment": "Team will review alternate-assessment eligibility criteria; for now participates in AASA with modifications as permitted. MOWR third-grade requirements were addressed in prior year.",
+      "esy": "Team considered ESY. The student has documented severe regression in functional and academic skills over summer with slow recoupment and is at risk of losing safety/independence skills; ESY 3x/week for 60 minutes is recommended. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["A.R.S. §15-761 (mild intellectual disability definition)", "AZ-TAS 2025 components", "Missouri DESE example IEP A (ID, structure only)"],
+      "notes": "Only mild-ID exemplar in the set; includes modified grading and alternate-assessment consideration. The tool should trigger the benchmarks/STOs rule when alternate assessment may apply."
+    },
+    {
+      "id": "section504-adhd-g5",
+      "title": "Grade 5 — Section 504 plan (not an IEP): ADHD accommodations",
+      "fictional": true,
+      "document_type": "section_504_plan",
+      "grade": 5,
+      "grade_band": "elementary",
+      "az_category": "Not applicable — Section 504 (ADHD, does not require specially designed instruction)",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A fifth-grade student with ADHD who does not require specially designed instruction; the team determined that a 504 accommodation plan is the appropriate vehicle for access (reduced-distraction testing, movement breaks, extended time).",
+      "strengths": ["Grade-level academics with accommodations", "Creative and personable", "Responds to clear routines"],
+      "parent_concerns": "Parent wants accommodations in place but does not want the student pulled out of class.",
+      "evaluation_data": [
+        "Medical diagnosis of ADHD",
+        "Section 504 eligibility: physical/mental impairment substantially limiting a major life activity (learning, concentrating)",
+        "No need for specially designed instruction documented; all academic skills are at or above grade level with accommodations",
+        "IEP team considered special education and determined it is not necessary; 504 plan developed"
+      ],
+      "plaafp": {
+        "academic": "The student performs at grade level with accommodations and completes 85% of work; no SDI is needed. Attention and test performance improve with movement breaks and a low-distraction setting.",
+        "functional": "Impulsivity during tests and long tasks; benefits from seated breaks, check-ins, and chunking.",
+        "impact": "ADHD symptoms affect access to instruction and testing but not the need for specially designed instruction; accommodations provide equitable access.",
+        "baselines": [
+          {"skill": "Test completion", "measure": "Teacher records", "score": "70% of tests completed without prompts", "date": "current plan entry"},
+          {"skill": "Assignment completion", "measure": "Gradebook", "score": "85%", "date": "current plan entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Accommodation monitoring (504 review, not IEP goals)",
+          "condition": "With plan accommodations in place",
+          "skill": "access instruction and testing without a need for special education",
+          "baseline": "70% test completion; 85% assignment completion",
+          "target": "95% completion and continued grade-level performance at the annual 504 review",
+          "measurement": "Gradebook and teacher reports",
+          "schedule": "Progress monitored each marking period; annual 504 review"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Each marking period, with an annual review of 504 eligibility and accommodations.",
+      "special_factor_behavior": null,
+      "services": [],
+      "supplementary_aids_services": [],
+      "accommodations": ["Extended time on tests and assignments", "Testing in a low-distraction setting", "Frequent movement/water breaks", "Chunked assignments and check-ins", "Preferential seating near instruction", "Reduced copying; printed notes", "Written directions paired with verbal"],
+      "program_modifications": [],
+      "personnel_supports": ["Staff awareness of 504 plan and accommodation delivery", "504 coordinator monitors implementation"],
+      "lre_statement": "Not applicable to a 504 plan; the student accesses general education with accommodations and is not removed from class.",
+      "placement": "General education with 504 accommodations.",
+      "assessment": "AASA and district assessments with 504-approved accommodations (extended time, low-distraction setting, breaks).",
+      "esy": "Not applicable to a 504 plan; no ESY services.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS 2025 (special education vs. general education), ADA/Section 504 regulations", "AZED practical guidance"],
+      "notes": "Contrast exemplar. The tool should force the IEP-vs-504 decision before drafting: no SDI = 504 path. Must NOT generate IEP goals for this student."
+    },
+    {
+      "id": "mtss-pre-referral-g3",
+      "title": "Grade 3 — MTSS pre-referral documentation (not an IEP): reading intervention data",
+      "fictional": true,
+      "document_type": "mtss_documentation",
+      "grade": 3,
+      "grade_band": "elementary",
+      "az_category": "Not applicable — general education MTSS (documentation toward possible referral)",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A third-grade student receiving Tier 2/3 reading intervention whose data show insufficient progress after 12 weeks of evidence-based instruction. This record documents the intervention, fidelity, and progress before a special education referral decision.",
+      "strengths": ["Attends school regularly", "Responds well to encouragement", "Early literacy team member is committed to data collection"],
+      "parent_concerns": "Parent is worried about reading progress and has met with the teacher twice.",
+      "evaluation_data": [
+        "Universal screening: grade-3 reading at the 12th percentile (fall and winter)",
+        "Diagnostic: letter-sound and blending gaps; phonemic awareness below grade level",
+        "Intervention: 12 weeks of explicit phonics intervention, 4x/week, 30 min, delivered by trained interventionist",
+        "Progress data: 8 data points showing a flat/table-low line; fidelity checks completed weekly at 90%+",
+        "Educational impact: reading gaps affect all content areas; referral to special education under consideration"
+      ],
+      "plaafp": {
+        "academic": "Despite 12 weeks of evidence-based Tier 2/3 phonics intervention with high fidelity, the student reads 32 WCPM and shows no reliable progress trend (slope near zero) on weekly probes; universal screening is at the 12th percentile.",
+        "functional": "The student works hard in intervention, but frustration behaviors (head down, refusal) increase during extended reading tasks; attendance is consistent.",
+        "impact": "Reading difficulty is not responding as expected to high-quality instruction, and the team is now reviewing whether a disability-related need exists that requires special education.",
+        "baselines": [
+          {"skill": "Oral reading fluency", "measure": "Grade-3 CBM probes", "score": "32 WCPM with a near-zero slope over 8 points", "date": "current review"},
+          {"skill": "Phonemic awareness", "measure": "Diagnostic probe", "score": "Below grade level", "date": "current review"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "MTSS intervention goal (not an IEP goal)",
+          "condition": "Given explicit phonics intervention 4x/week",
+          "skill": "improve phonemic awareness and oral reading fluency",
+          "baseline": "32 WCPM; phonemic awareness below grade level",
+          "target": "Student will gain at least 1.0 words/week slope over the next 6 weeks; if not, the team will consider a special education referral",
+          "measurement": "Weekly CBM probes and fidelity checks",
+          "schedule": "weekly data review for 6 weeks"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "MTSS team meets every 6 weeks; parent receives written data updates.",
+      "special_factor_behavior": null,
+      "services": [],
+      "supplementary_aids_services": [],
+      "accommodations": [],
+      "program_modifications": [],
+      "personnel_supports": ["Interventionist coaching and fidelity monitoring", "MTSS team meeting schedule", "Parent-school communication plan"],
+      "lre_statement": "Not applicable — this is a general education intervention document. The student remains in the general education classroom and receives intervention as a general education support.",
+      "placement": "General education with MTSS Tier 2/3 intervention.",
+      "assessment": "Participates in universal screening and state assessments without an IEP; no accommodations beyond standard classroom supports.",
+      "esy": "Not applicable.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["ADE MTBS/MTSS training (2020)", "AZ-TAS 2025 determinant-factor requirements", "PBIS Tier 3 Brief FBA Guide (progress-monitoring framing)"],
+      "notes": "Shows how documentation of appropriate instruction and progress monitoring matters for SLD eligibility (A.R.S. §15-761 determinant factors). The tool should be able to produce this pre-referral record."
+    },
+    {
+      "id": "check-in-check-out-g5",
+      "title": "Grade 5 — Check-in/Check-out and safety plan (Tier 2 behavior support; not a full IEP)",
+      "fictional": true,
+      "document_type": "behavior_support_plan",
+      "grade": 5,
+      "grade_band": "elementary",
+      "az_category": "General education behavior support (student also has an IEP — this plan is attached to it)",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A fifth-grade student with an existing IEP who responds well to adult attention and frequent feedback; the team added a check-in/check-out (CICO) plan with a safety plan for hallway transitions after two unsafe incidents.",
+      "strengths": ["Responds strongly to positive relationships", "Improving attendance", "Proud of earning points/responsibility"],
+      "parent_concerns": "Parent wants daily feedback and consistency across home and school.",
+      "evaluation_data": [
+        "FBA update: behavior functions include adult attention and escape from non-preferred transitions",
+        "CICO data from a 4-week trial: on-task and safety increased when points were available",
+        "Two unsafe hallway incidents (leaving the line, entering staff areas) prompted a safety plan",
+        "IEP team amended the behavior plan without a full meeting by written agreement"
+      ],
+      "plaafp": {
+        "academic": "The student completes 75% of work on CICO days versus 55% on non-CICO days; reading and math are at grade level with support.",
+        "functional": "The student seeks adult attention and struggles during unstructured transitions; CICO has improved regulation and hallway safety.",
+        "impact": "Attention-seeking and transition-escape behavior reduce instructional time; structured adult feedback and a safety plan improve access and safety.",
+        "baselines": [
+          {"skill": "CICO points earned", "measure": "Daily point card", "score": "60% of points", "date": "plan entry"},
+          {"skill": "Safe transitions", "measure": "Transition tally", "score": "6/10 transitions", "date": "plan entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Behavior — CICO/transition safety",
+          "condition": "With CICO points and a transition safety routine",
+          "skill": "follow transition expectations and remain with the group",
+          "baseline": "6/10 safe transitions; 60% CICO points",
+          "target": "9/10 safe transitions and 85% CICO points across 6 consecutive weeks",
+          "measurement": "Daily point card and transition tallies",
+          "schedule": "daily data; weekly review; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Daily point card sent home; weekly data summary; quarterly IEP progress report.",
+      "special_factor_behavior": "Behavior support attached to the IEP; CICO and safety plan implemented and monitored.",
+      "services": [
+        {"type": "Check-in/check-out (Tier 2 behavior support)", "frequency": "Daily", "duration": "10 minutes AM/PM", "location": "Schoolwide CICO", "provider": "Assigned mentor"},
+        {"type": "Special education — behavior/SEL skills (SDI)", "frequency": "2x/week", "duration": "30 minutes", "location": "Resource room", "provider": "Special education teacher"}
+      ],
+      "supplementary_aids_services": ["Daily point card with 3 targeted expectations", "Adult mentor check-in/check-out", "Reinforcement menu (school store, extra recess, helper roles)", "Transition visual and adult proximity", "Safety plan for hallway transitions"],
+      "accommodations": ["Frequent breaks and check-ins", "Extended time on assignments when behavior interrupted work", "Movement opportunities"],
+      "program_modifications": [],
+      "personnel_supports": ["Mentor training on CICO and data collection", "Para/hallway staff briefing on safety plan", "Weekly behavior-team review"],
+      "lre_statement": "The student remains in general education with CICO and safety supports; no removal is planned. Pull-out is limited to explicit behavior/SEL instruction.",
+      "placement": "General education with pull-out resource services (outside regular class less than 21%).",
+      "assessment": "Existing IEP assessment accommodations apply; CICO continues during testing week with breaks.",
+      "esy": "Existing IEP ESY consideration applies; no additional ESY needed for behavior.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": {
+        "target_behavior_operational": "Leaving the transition line, entering restricted areas, and attention-seeking interruptions during transitions.",
+        "baseline": "6/10 safe transitions; 60% CICO points.",
+        "hypothesized_function": "Access to adult attention; escape from unstructured/non-preferred transitions.",
+        "antecedent_strategies": ["Mentor check-in before high-risk transitions", "Assign a leadership role in line (helper)", "Preview transition expectations with a visual", "Adult proximity at hallway transitions"],
+        "replacement_behaviors_taught": ["Stay with the group and use a hand signal to get attention", "Ask the teacher a question at an appropriate time", "Self-monitor point card and set a daily goal"],
+        "consequence_strategies": ["Points and specific praise for safe transitions and CICO goals", "Reinforcement menu access", "Neutral redirection; reteach expectation; unsafe hallway behavior triggers a supervised transition until 10 consecutive safe transitions"],
+        "crisis_plan": "If the student leaves the group and enters an unsafe area, staff use the safety-plan script: remain calm, block access to unsafe areas without physical restraint unless imminent danger, contact the office, and notify the parent same day if safety was compromised. Any restraint/seclusion follows A.R.S. §15-105 and triggers a team review.",
+        "progress_monitoring": "Daily point card, transition tallies, weekly team review, monthly FBA/BIP check.",
+        "staff_responsibilities": ["Mentor: CICO", "Teachers: point card and transition supports", "Case manager: data and family communication", "Behavior team: data review and plan adjustments"]
+      },
+      "source_lineage": ["PBIS Basic FBA to BSP and Tier 3 Brief Guide", "AZ-TAS 2025 behavior special factor", "A.R.S. §15-105"],
+      "notes": "Illustrates CICO + safety plan as an amendment to an existing IEP; different from a full IEP exemplar by design."
+    }
+  ]
+}

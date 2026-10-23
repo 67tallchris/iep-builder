@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "set": "SLD — middle school",
+  "disclaimer": "Fictional synthetic exemplars for drafting practice only. No real student data. Not legal advice.",
+  "exemplars": [
+    {
+      "id": "sld-reading-comp-g6",
+      "title": "Grade 6 — SLD, reading comprehension in content areas",
+      "fictional": true,
+      "grade": 6,
+      "grade_band": "middle",
+      "az_category": "Specific Learning Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A sixth-grade student who decodes on grade level but comprehends content-area text at 50%, struggles with text structure and academic vocabulary, and cannot independently summarize textbook sections.",
+      "strengths": ["Grade-level decoding and fluency", "Strong verbal participation in class discussion", "Good note-taking when given a template"],
+      "parent_concerns": "Parent worries about the student's grades dropping as textbooks get harder and asks how to help at home.",
+      "evaluation_data": [
+        "Reading comprehension: 50% on grade-6 content-area passages",
+        "Academic vocabulary: 55% on curriculum vocabulary probes",
+        "Text structure knowledge: needs direct instruction (identified in evaluation)",
+        "Decoding and fluency within grade-level expectations"
+      ],
+      "plaafp": {
+        "academic": "The student reads grade-6 text fluently but earns 50% on comprehension questions, misidentifies text structures, and uses academic vocabulary accurately in only 55% of opportunities. Independent summaries omit central ideas and include irrelevant details.",
+        "functional": "The student reads assignments but cannot extract what matters, leading to incomplete homework and low quiz scores; becomes discouraged when asked to 'study' without a structured method.",
+        "impact": "Comprehension and vocabulary deficits related to the specific learning disability interfere with all content-area learning and require explicit strategy instruction with scaffolded text.",
+        "baselines": [
+          {"skill": "Content-area comprehension", "measure": "Grade-6 passages with questions", "score": "50%", "date": "current IEP entry"},
+          {"skill": "Academic vocabulary", "measure": "Curriculum vocabulary probes", "score": "55%", "date": "current IEP entry"},
+          {"skill": "Summarization", "measure": "Summary rubric", "score": "1.5/4", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Reading comprehension — text structure and main idea",
+          "condition": "Given grade-6 content-area text and a text-structure graphic organizer",
+          "skill": "identify text structure, main idea, and supporting evidence",
+          "baseline": "50% accuracy",
+          "target": "80% accuracy across 4 consecutive weekly checks",
+          "measurement": "Curriculum-based comprehension checks",
+          "schedule": "weekly; quarterly reporting"
+        },
+        {
+          "area": "Academic vocabulary",
+          "condition": "Given explicit vocabulary instruction and practice across content areas",
+          "skill": "define and use grade-6 academic vocabulary in context",
+          "baseline": "55% accuracy",
+          "target": "85% accuracy across 3 consecutive bi-weekly checks",
+          "measurement": "Bi-weekly vocabulary probes; application in writing",
+          "schedule": "bi-weekly; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks; progress reports include check scores and samples of summaries.",
+      "special_factor_behavior": null,
+      "services": [
+        {"type": "Special education — reading comprehension strategies (SDI)", "frequency": "4x/week", "duration": "45 minutes", "location": "Resource room (small group)", "provider": "Special education teacher"},
+        {"type": "Consultation — content-area teachers", "frequency": "Monthly", "duration": "20 minutes", "location": "Team planning", "provider": "Special education teacher"}
+      ],
+      "supplementary_aids_services": ["Graphic organizers for text structures", "Pre-taught academic vocabulary across subjects", "Study guides and chapter outlines", "Access to audiobooks/digital text with adjustable text size"],
+      "accommodations": ["Extended time on reading and assessment tasks", "Read-aloud of directions and non-target test items", "Chunked reading assignments with checkpoint questions", "Option to respond orally or use speech-to-text"],
+      "program_modifications": [],
+      "personnel_supports": ["Cross-team training on content literacy strategies", "Shared vocabulary list protocol for all teachers"],
+      "lre_statement": "The student is included in all general education classes and receives SDI in a resource setting for explicit comprehension strategy instruction. Pull-out is necessary for modeled strategy practice and immediate feedback; strategies are applied in content classes with organizer supports.",
+      "placement": "General education with pull-out resource services (outside regular class less than 21%).",
+      "assessment": "AASA and all district assessments with extended time, chunking, and permitted read-aloud of directions. No alternate assessment.",
+      "esy": "Team considered ESY. The student showed a pattern of comprehension-strategy regression over the prior summer with slow recoupment; ESY reading comprehension 2x/week, 45 minutes for 5 weeks is recommended. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS 2025", "Missouri DESE PLAAFP and SMART Goal rubrics", "Missouri middle-school exemplar (structure only)"],
+      "notes": "Transition prompts should stay inactive below grade 9/age 16; the tool should display the trigger rule."
+    },
+    {
+      "id": "sld-math-reasoning-g7",
+      "title": "Grade 7 — SLD, math reasoning (ratios, proportions, pre-algebra)",
+      "fictional": true,
+      "grade": 7,
+      "grade_band": "middle",
+      "az_category": "Specific Learning Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A seventh-grade student who computes accurately but cannot set up proportional relationships or solve multi-step pre-algebra problems, scoring 35% on applied reasoning tasks.",
+      "strengths": ["Accurate with basic operations and integers", "Strong spatial reasoning", "Asks questions when confused"],
+      "parent_concerns": "Parent is concerned the student may not be ready for algebra and wants to know what supports will continue next year.",
+      "evaluation_data": [
+        "Applied math reasoning: 35% on grade-7 tasks",
+        "Computation: 90% accuracy",
+        "Algebraic representation: needs direct instruction with equations and tables",
+        "Evaluation confirmed SLD in math reasoning"
+      ],
+      "plaafp": {
+        "academic": "The student computes accurately (90%) but solves applied ratio/proportion and pre-algebra problems at 35%; struggles to translate words into equations and to choose between additive and multiplicative reasoning.",
+        "functional": "The student avoids multi-step problems, tries to calculate quickly, and does not check whether answers are reasonable; benefits from structured planning and estimation routines.",
+        "impact": "Math-reasoning deficits related to the specific learning disability limit access to grade-7 standards and preparedness for algebra, requiring explicit reasoning and representation instruction.",
+        "baselines": [
+          {"skill": "Ratio/proportion and multi-step reasoning", "measure": "Grade-7 applied task probes", "score": "35% correct", "date": "current IEP entry"},
+          {"skill": "Translate word problems to equations", "measure": "Curriculum probe", "score": "2/10", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Math reasoning — proportional relationships",
+          "condition": "Given grade-7 ratio/proportion tasks, tables, and graphs",
+          "skill": "represent and solve proportional relationships using equations and reasoning",
+          "baseline": "35% correct",
+          "target": "80% correct across 3 of 4 consecutive weekly probes",
+          "measurement": "Weekly curriculum-based reasoning probes with rubric",
+          "schedule": "weekly; quarterly reporting"
+        },
+        {
+          "area": "Algebraic representation",
+          "condition": "Given a word problem and a translation template",
+          "skill": "write an equation or expression that models the situation and solve it",
+          "baseline": "2/10 correct",
+          "target": "8/10 correct across 3 consecutive probes",
+          "measurement": "Bi-weekly representation probes",
+          "schedule": "bi-weekly; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks with probe data and work samples.",
+      "special_factor_behavior": null,
+      "services": [
+        {"type": "Special education — math reasoning/algebra readiness (SDI)", "frequency": "5x/week", "duration": "45 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Consultation/co-planning — math teacher", "frequency": "Weekly", "duration": "20 minutes", "location": "Team planning", "provider": "Special education teacher"}
+      ],
+      "supplementary_aids_services": ["Graphic organizers for problem representation", "Reference cards for steps and formulas", "Estimation and reasonableness checks", "Pre-teaching of unit vocabulary"],
+      "accommodations": ["Extended time on math tasks and assessments", "Chunked multi-step problems", "Read-aloud of word problems when reading is not the target", "Calculator use per assessment policy and IEP"],
+      "program_modifications": [],
+      "personnel_supports": ["Joint planning on representation instruction", "Training on explicit schema instruction"],
+      "lre_statement": "Pull-out SDI provides explicit reasoning instruction and guided practice that cannot be delivered with the pacing of the general classroom; the student remains in general education math for grade-level content and applies reasoning with scaffolds.",
+      "placement": "General education with pull-out resource services (outside regular class less than 21%).",
+      "assessment": "AASA math with extended time and chunking; calculator per policy. No alternate assessment.",
+      "esy": "Team considered ESY. Applied math reasoning regressed over the prior summer with slow recoupment; ESY math 2x/week for 45 minutes is proposed. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS 2025", "Missouri DESE SMART Goal rubric", "Missouri DESE PLAAFP rubric"],
+      "notes": "Pairs with the fifth-grade calculation goal to show vertical progression into reasoning."
+    },
+    {
+      "id": "sld-written-expression-g8",
+      "title": "Grade 8 — SLD, written expression (multi-paragraph essays)",
+      "fictional": true,
+      "grade": 8,
+      "grade_band": "middle",
+      "az_category": "Specific Learning Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "An eighth-grade student with strong verbal reasoning who writes disorganized multi-paragraph essays with weak introductions, few transitions, and frequent syntax errors, scoring 2/6 on the state writing rubric.",
+      "strengths": ["Strong discussion skills and idea generation", "Good use of evidence when prompted orally", "Motivated by choice of topic"],
+      "parent_concerns": "Parent is worried about high school writing demands and asks for feedback strategies at home.",
+      "evaluation_data": [
+        "Written expression: 2/6 on informational/explanatory rubric",
+        "Sentence-level: 60% of sentences complete; syntax errors in 4/10 sentences",
+        "Oral language: average to above average",
+        "Evaluation confirmed SLD in written expression"
+      ],
+      "plaafp": {
+        "academic": "The student organizes ideas aloud but produces essays scoring 2/6, with weak thesis statements, missing transitions, and syntax errors. On-demand writing is harder than process writing; editing is minimal.",
+        "functional": "The student rushes through writing, avoids revising, and has trouble sustaining organization across paragraphs, affecting grades in all subjects that require writing.",
+        "impact": "Written-expression deficits related to the specific learning disability interfere with grade-level writing standards across content areas and with demonstrating knowledge on assessments.",
+        "baselines": [
+          {"skill": "Essay organization", "measure": "State/district writing rubric", "score": "2/6", "date": "current IEP entry"},
+          {"skill": "Sentence structure", "measure": "Writing sample analysis", "score": "60% complete sentences", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Written expression — essay organization",
+          "condition": "Given a planning template and a familiar informational prompt",
+          "skill": "write a multi-paragraph essay with thesis, transitions, and conclusion",
+          "baseline": "2/6 rubric score",
+          "target": "4/6 or higher across 3 consecutive essays",
+          "measurement": "District writing rubric with two trained raters",
+          "schedule": "every 3 weeks; quarterly reporting"
+        },
+        {
+          "area": "Written expression — sentence structure and revision",
+          "condition": "Given a draft and an editing routine",
+          "skill": "revise to correct syntax, punctuation, and sentence boundaries",
+          "baseline": "60% complete sentences",
+          "target": "90% complete/correct sentences across 3 consecutive revised drafts",
+          "measurement": "Editing checklist and sentence analysis",
+          "schedule": "every 2 weeks; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks with rubric-scored essays and revised drafts.",
+      "special_factor_behavior": null,
+      "services": [
+        {"type": "Special education — written expression (SDI)", "frequency": "4x/week", "duration": "45 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Push-in writing support", "frequency": "1x/week", "duration": "45 minutes", "location": "General education ELA classroom", "provider": "Special education teacher"}
+      ],
+      "supplementary_aids_services": ["Essay planning templates and transition word banks", "Model texts and rubrics in student-friendly language", "Graphic organizers for evidence and reasoning", "Scheduled teacher checkpoints during writing"],
+      "accommodations": ["Extended time on writing assignments and assessments", "Speech-to-text or scribing when conventions are not the target", "Chunked writing deadlines with checkpoints", "Use of word processor with spell/grammar check"],
+      "program_modifications": [],
+      "personnel_supports": ["Co-planning with ELA teacher", "Rubric calibration with SPED team"],
+      "lre_statement": "SDI in a resource setting provides explicit strategy instruction and guided revision; the student also receives push-in support during ELA writing to transfer skills. Pull-out is needed for focused sentence-level instruction and immediate feedback.",
+      "placement": "General education with pull-out resource services and one push-in session (outside regular class less than 21%).",
+      "assessment": "AASA and district writing assessments with extended time, word processing, and speech-to-text as permitted. No alternate assessment.",
+      "esy": "Team considered ESY. The student showed writing regression over the prior summer with slow recoupment of essay organization; ESY writing 2x/week, 45 minutes for 5 weeks is recommended. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS 2025", "Missouri DESE SMART Goal rubric", "Missouri DESE PLAAFP rubric"],
+      "notes": "Includes push-in service; validates the tool's mixed service delivery options."
+    },
+    {
+      "id": "sld-executive-function-g7",
+      "title": "Grade 7 — SLD with executive function/study skills needs (functional goal)",
+      "fictional": true,
+      "grade": 7,
+      "grade_band": "middle",
+      "az_category": "Specific Learning Disability",
+      "secondary_category": null,
+      "dyslexia_diagnosis_documented": false,
+      "profile_summary": "A seventh-grade student with SLD in reading who is failing classes primarily because of missing assignments, disorganized materials, and poor test preparation rather than skill deficits alone; homework completion is 45%.",
+      "strengths": ["Strong reading comprehension when supported", "Responds well to checklists and routines", "Good rapport with teachers"],
+      "parent_concerns": "Parent says the student loses assignments and doesn't know what is due; evening homework causes daily conflict.",
+      "evaluation_data": [
+        "Reading comprehension: 70% with scaffolds",
+        "Homework completion: 45% across classes",
+        "Assignment accuracy: high when turned in",
+        "Team determined functional executive-function goals are needed alongside reading SDI"
+      ],
+      "plaafp": {
+        "academic": "The student comprehends grade-7 text at 70% with scaffolds and performs well on completed work, but turns in only 45% of assignments and scores below proficient on tests due to incomplete preparation.",
+        "functional": "The student does not consistently record assignments, loses materials, and has no systematic study routine; organizational demands of seven classes exceed current skills.",
+        "impact": "Executive-function and study-skill needs associated with the specific learning disability interfere with demonstrating reading progress and with grades across all classes, requiring explicit organization/study instruction and a functional goal.",
+        "baselines": [
+          {"skill": "Homework/assignment completion", "measure": "Weekly gradebook audit", "score": "45% completion", "date": "current IEP entry"},
+          {"skill": "Materials organization", "measure": "Daily binder/organizer check", "score": "2/5 days prepared", "date": "current IEP entry"},
+          {"skill": "Test preparation", "measure": "Study-plan completion", "score": "1/4 tests prepared using a study plan", "date": "current IEP entry"}
+        ]
+      },
+      "goals": [
+        {
+          "area": "Executive function — organization and assignment completion",
+          "condition": "Given a daily planner routine and adult check-ins",
+          "skill": "record assignments, organize materials, and submit work on time",
+          "baseline": "45% completion; 2/5 days prepared",
+          "target": "85% completion and 5/5 prepared days across 4 consecutive weeks",
+          "measurement": "Gradebook audit and daily planner checks",
+          "schedule": "weekly data review; quarterly reporting"
+        },
+        {
+          "area": "Study skills — test preparation",
+          "condition": "Given a test calendar and a study-plan template",
+          "skill": "prepare for tests using distributed study sessions",
+          "baseline": "1/4 tests prepared with a study plan",
+          "target": "4/4 tests prepared with completed study plans across 6 weeks",
+          "measurement": "Study-plan checks and test-within-5-points-of-study-quiz comparison",
+          "schedule": "bi-weekly; quarterly reporting"
+        }
+      ],
+      "benchmarks_or_stos": null,
+      "progress_reporting": "Every 9 weeks; weekly organization checks shared with parents through the planner.",
+      "special_factor_behavior": "Frustration and task avoidance are secondary to organization needs; executive-function supports are the primary intervention. If avoidance escalates, an FBA will be considered.",
+      "services": [
+        {"type": "Special education — reading SDI", "frequency": "3x/week", "duration": "45 minutes", "location": "Resource room", "provider": "Special education teacher"},
+        {"type": "Special education — executive function/study skills (SDI)", "frequency": "2x/week", "duration": "30 minutes", "location": "Resource room/Learning lab", "provider": "Special education teacher"}
+      ],
+      "supplementary_aids_services": ["Daily planner with teacher initials", "Set of classroom materials kept in the resource room", "Weekly grade check with case manager", "Study-plan template and test calendar"],
+      "accommodations": ["Extended time on assignments and assessments", "Check-ins for understanding and deadlines", "Reduced penalty for late work per district policy while organization goals are being taught", "Digital submission options"],
+      "program_modifications": [],
+      "personnel_supports": ["Training for teachers on assignment-log checks", "Coordination with counselor on grade checks"],
+      "lre_statement": "The student receives reading SDI and executive-function instruction in a small setting to build independence; pull-out is needed to teach and practice organization routines with feedback. The student participates in all general education classes with organizational scaffolding.",
+      "placement": "General education with pull-out resource services (outside regular class less than 21%).",
+      "assessment": "AASA with extended time and chunking; district assessments with organizer use. No alternate assessment.",
+      "esy": "Team considered ESY. Organization routines showed significant regression over the summer with slow recoupment; ESY executive-function/study-skills sessions 2x/week for 30 minutes are proposed along with reading maintenance. Decision documented by the 45-day deadline.",
+      "transition": null,
+      "transfer_of_rights": null,
+      "behavior_support_plan": null,
+      "source_lineage": ["AZ-TAS 2025 (functional goals/PLAAFP)", "Missouri DESE PLAAFP and SMART Goal rubrics", "PBIS executive-function/behavior support framing"],
+      "notes": "Shows a functional goal under SLD eligibility — a common tool gap; behavior support plan stays null until an FBA is done."
+    }
+  ]
+}
